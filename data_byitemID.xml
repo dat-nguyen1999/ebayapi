@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetSingleItemResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2020-08-17T09:10:18.954Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1141_CORE_APILW_19170841_R1</Build>
+   <Version>1141</Version>
+   <Item>
+    <ItemID>164252608354</ItemID>
+    <EndTime>2020-08-19T11:11:30.000Z</EndTime>
+    <ViewItemURLForNaturalSearch>https://www.ebay.com/itm/Lord-Rings-Minifigures-Hobbit-Frodo-Sam-Gandalf-Sauron-Saruman-Orc-Elf-/164252608354?var=</ViewItemURLForNaturalSearch>
+    <ListingType>FixedPriceItem</ListingType>
+    <Location>Hong Kong</Location>
+    <PictureURL>https://i.ebayimg.com/00/s/NzE5WDcyMA==/z/FkAAAOSwNZNe7JgC/$_57.JPG?set_id=8800005007</PictureURL>
+    <PictureURL>https://i.ebayimg.com/00/s/NDkxWDUxNA==/z/KpsAAOSwCgRe7Jgs/$_57.PNG?set_id=8800005007</PictureURL>
+    <PictureURL>https://i.ebayimg.com/00/s/NDkzWDUxNA==/z/ppcAAOSwBGJe7Jgq/$_57.PNG?set_id=8800005007</PictureURL>
+    <PictureURL>https://i.ebayimg.com/00/s/NDkxWDUxMw==/z/deYAAOSw4rte7Jgt/$_57.PNG?set_id=8800005007</PictureURL>
+    <PictureURL>https://i.ebayimg.com/00/s/NDg4WDUxNA==/z/oiEAAOSws-xe7Jgu/$_57.PNG?set_id=8800005007</PictureURL>
+    <PictureURL>https://i.ebayimg.com/00/s/NDkwWDUxNA==/z/TWQAAOSwAVhe7Jgw/$_57.PNG?set_id=8800005007</PictureURL>
+    <PictureURL>https://i.ebayimg.com/00/s/NDkxWDUxMw==/z/YmsAAOSwK21e7Jgx/$_57.PNG?set_id=8800005007</PictureURL>
+    <PictureURL>https://i.ebayimg.com/00/s/NDkyWDUxMw==/z/AMMAAOSwriZe7Jgz/$_57.PNG?set_id=8800005007</PictureURL>
+    <PictureURL>https://i.ebayimg.com/00/s/NDkyWDUxNA==/z/CDEAAOSwElNe7Jg0/$_57.PNG?set_id=8800005007</PictureURL>
+    <PictureURL>https://i.ebayimg.com/00/s/NDkwWDUxMw==/z/zkgAAOSwX09e7Jg1/$_57.PNG?set_id=8800005007</PictureURL>
+    <PictureURL>https://i.ebayimg.com/00/s/NDkxWDUxNA==/z/ReEAAOSwmChe7Jg2/$_57.PNG?set_id=8800005007</PictureURL>
+    <PictureURL>https://i.ebayimg.com/00/s/NDkwWDUxMg==/z/39AAAOSwXmFe7Jg3/$_57.PNG?set_id=8800005007</PictureURL>
+    <PrimaryCategoryID>19001</PrimaryCategoryID>
+    <PrimaryCategoryName>Toys &amp; Hobbies:Building Toys:Building Toys Minifigures</PrimaryCategoryName>
+    <BidCount>0</BidCount>
+    <ConvertedCurrentPrice currencyID="USD">2.59</ConvertedCurrentPrice>
+    <ListingStatus>Active</ListingStatus>
+    <TimeLeft>P2DT2H1M12S</TimeLeft>
+    <Title>Lord Of The Rings Minifigures Hobbit Frodo Sam Gandalf Sauron Saruman Orc Elf </Title>
+    <Country>CN</Country>
+    <AutoPay>false</AutoPay>
+    <ConditionID>1000</ConditionID>
+    <ConditionDisplayName>New</ConditionDisplayName>
+   </Item>
+  </GetSingleItemResponse>
+ 

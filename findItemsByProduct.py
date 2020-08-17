@@ -4,11 +4,16 @@ if __name__ == '__main__':
     api = Connection(config_file='ebay.yaml', siteid="EBAY-US")
 
     request = {
-        'keywords': 'lord of the rings',
+        'productId': {
+                '#text': '164252608354',
+                '@attrs': {
+                    'type': 'ReferenceID'
+                }
+            },
         'outputSelector': 'SellerInfo',
         'itemFilter': [
            
-            {'name': 'ListingType', 'value': 'FixedPrice'}
+            {'name': 'ListingType', 'value': ['FixedPrice', 'StoreInventory']}
         ],
         'paginationInput': {
             'entriesPerPage': 50,
@@ -16,8 +21,8 @@ if __name__ == '__main__':
         },
         'sortOrder': 'PricePlusShippingLowest'
     }
-    response = api.execute('findItemsByKeywords', request)
-    with open('data_bykeyword.xml', 'w') as f:
+    response = api.execute('findItemsByProduct', request)
+    with open('data_byProductID.xml', 'w') as f:
         f.write(response.text)
     id = 0
     for item in response.reply.searchResult.item:
