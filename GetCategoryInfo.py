@@ -5,9 +5,9 @@ if __name__ == '__main__':
     api = Connection(config_file='ebay.yaml', siteid="EBAY-US")
 
     request = {
-        'ItemID': '274243297019',
+        'CategoryID': '171219',
         
     }
-    response = api.execute('GetSingleItem', request)
-    with open('data_byitemID.xml', 'w') as f:
+    response = api.execute('GetCategoryInfo', request)
+    with open('data_byCategoryID.xml', 'w') as f:
         f.write(response.text)

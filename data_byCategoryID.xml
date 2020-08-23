@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <GetCategoryInfoResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2020-08-19T13:58:57.174Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E1141_CORE_APILW_19170841_R1</Build>
+   <Version>1141</Version>
+   <CategoryArray>
+    <Category>
+     <CategoryID>171219</CategoryID>
+     <CategoryLevel>3</CategoryLevel>
+     <CategoryName>Children &amp; YA Fiction</CategoryName>
+     <CategoryParentID>182882</CategoryParentID>
+     <CategoryNamePath>Books:Children &amp; Young Adults:Children &amp; YA Fiction</CategoryNamePath>
+     <CategoryIDPath>267:182882:171219</CategoryIDPath>
+     <LeafCategory>true</LeafCategory>
+    </Category>
+   </CategoryArray>
+   <CategoryCount>1</CategoryCount>
+   <UpdateTime>2020-05-27T02:59:02.000Z</UpdateTime>
+   <CategoryVersion>123</CategoryVersion>
+  </GetCategoryInfoResponse>
+ 

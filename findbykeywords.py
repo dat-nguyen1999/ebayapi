@@ -4,7 +4,7 @@ if __name__ == '__main__':
     api = Connection(config_file='ebay.yaml', siteid="EBAY-US")
 
     request = {
-        'keywords': 'lord of the rings',
+        'keywords': 'harry potter and the half blood prince',
         'outputSelector': 'SellerInfo',
         'itemFilter': [
            
@@ -16,7 +16,7 @@ if __name__ == '__main__':
         },
         'sortOrder': 'PricePlusShippingLowest'
     }
-    response = api.execute('findItemsByKeywords', request)
+    response = api.execute('findItemsAdvanced', request)
     with open('data_bykeyword.xml', 'w') as f:
         f.write(response.text)
     id = 0

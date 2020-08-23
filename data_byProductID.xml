@@ -1,1 +1,74 @@
-<?xml version='1.0' encoding='UTF-8'?><findItemsByProductResponse xmlns="http://www.ebay.com/marketplace/search/v1/services"><ack>Success</ack><version>1.13.0</version><timestamp>2020-08-17T08:51:49.245Z</timestamp><searchResult count="0" /><paginationOutput><pageNumber>0</pageNumber><entriesPerPage>50</entriesPerPage><totalPages>0</totalPages><totalEntries>0</totalEntries></paginationOutput><itemSearchURL>https://www.ebay.com/sch/?LH_IncludeSIF=1&amp;LH_BIN=1&amp;_ddo=1&amp;_incaucbin=0&amp;_ipg=50&amp;_os=S%7CD&amp;_pgn=1&amp;_productid=164252608354&amp;_sop=15</itemSearchURL></findItemsByProductResponse>
+<?xml version='1.0' encoding='UTF-8'?>
+<findItemsByProductResponse xmlns="http://www.ebay.com/marketplace/search/v1/services">
+    <ack>Success</ack>
+    <version>1.13.0</version>
+    <timestamp>2020-08-21T08:02:40.120Z</timestamp>
+    <searchResult count="1">
+        <item>
+            <itemId>114136044939</itemId>
+            <title>Apple iPhone 11 Pro Max 64GB Midnight Green LTE Cellular T-Mobile MWFR2LL/A</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>9355</categoryId>
+                <categoryName>Cell Phones &amp; Smartphones</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs4.ebaystatic.com/m/mieSUlnJQbxGrVHK6VcSenQ/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Apple-iPhone-11-Pro-Max-64GB-Midnight-Green-LTE-Cellular-T-Mobile-MWFR2LL-A-/114136044939</viewItemURL>
+            <productId type="ReferenceID">20034216005</productId>
+            <autoPay>true</autoPay>
+            <postalCode>727**</postalCode>
+            <location>Rogers,AR,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>vipoutlet</sellerUserName>
+                <feedbackScore>290971</feedbackScore>
+                <positiveFeedbackPercent>97.2</positiveFeedbackPercent>
+                <feedbackRatingStar>RedShooting</feedbackRatingStar>
+                <topRatedSeller>true</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+                <shippingType>Free</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>true</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>1</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">989.0</currentPrice>
+                <convertedCurrentPrice currencyId="USD">989.0</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P11DT13H17M6S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>false</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-03-01T21:19:46.000Z</startTime>
+                <endTime>2020-09-01T21:19:46.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+                <watchCount>44</watchCount>
+            </listingInfo>
+            <returnsAccepted>true</returnsAccepted>
+            <condition>
+                <conditionId>2500</conditionId>
+                <conditionDisplayName>Seller refurbished</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <discountPriceInfo>
+                <originalRetailPrice currencyId="USD">1149.0</originalRetailPrice>
+                <pricingTreatment>STP</pricingTreatment>
+                <soldOnEbay>false</soldOnEbay>
+                <soldOffEbay>false</soldOffEbay>
+            </discountPriceInfo>
+            <topRatedListing>true</topRatedListing>
+        </item>
+    </searchResult>
+    <paginationOutput>
+        <pageNumber>1</pageNumber>
+        <entriesPerPage>50</entriesPerPage>
+        <totalPages>1</totalPages>
+        <totalEntries>1</totalEntries>
+    </paginationOutput>
+    <itemSearchURL>https://www.ebay.com/sch/?LH_IncludeSIF=1&amp;LH_BIN=1&amp;_ddo=1&amp;_incaucbin=0&amp;_ipg=50&amp;_os=S%7CD&amp;_pgn=1&amp;_productid=20034216005&amp;_sop=15</itemSearchURL>
+</findItemsByProductResponse>

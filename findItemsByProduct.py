@@ -5,9 +5,9 @@ if __name__ == '__main__':
 
     request = {
         'productId': {
-                '#text': '164252608354',
+                '#text': '0190199380349',
                 '@attrs': {
-                    'type': 'ReferenceID'
+                    'type': 'UPC'
                 }
             },
         'outputSelector': 'SellerInfo',
