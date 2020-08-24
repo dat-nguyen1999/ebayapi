@@ -1,7 +1,7 @@
 <ns0:findItemsAdvancedResponse xmlns:ns0="http://www.ebay.com/marketplace/search/v1/services">
     <ns0:ack>Success</ns0:ack>
     <ns0:version>1.13.0</ns0:version>
-    <ns0:timestamp>2020-08-24T04:49:55.654Z</ns0:timestamp>
+    <ns0:timestamp>2020-08-24T07:17:59.267Z</ns0:timestamp>
     <ns0:searchResult count="16">
         <ns0:item>
             <ns0:itemId>333559637794</ns0:itemId>
@@ -22,7 +22,7 @@
             <ns0:country>US</ns0:country>
             <ns0:sellerInfo>
                 <ns0:sellerUserName>buyspry</ns0:sellerUserName>
-                <ns0:feedbackScore>201365</ns0:feedbackScore>
+                <ns0:feedbackScore>201377</ns0:feedbackScore>
                 <ns0:positiveFeedbackPercent>99.2</ns0:positiveFeedbackPercent>
                 <ns0:feedbackRatingStar>RedShooting</ns0:feedbackRatingStar>
                 <ns0:topRatedSeller>true</ns0:topRatedSeller>
@@ -39,7 +39,7 @@
                 <ns0:currentPrice currencyId="USD">1069.99</ns0:currentPrice>
                 <ns0:convertedCurrentPrice currencyId="USD">1069.99</ns0:convertedCurrentPrice>
                 <ns0:sellingState>Active</ns0:sellingState>
-                <ns0:timeLeft>P3DT8H19M56S</ns0:timeLeft>
+                <ns0:timeLeft>P3DT5H51M52S</ns0:timeLeft>
             </ns0:sellingStatus>
             <ns0:listingInfo>
                 <ns0:bestOfferEnabled>false</ns0:bestOfferEnabled>
@@ -92,7 +92,7 @@
                 <ns0:currentPrice currencyId="USD">1309.0</ns0:currentPrice>
                 <ns0:convertedCurrentPrice currencyId="USD">1309.0</ns0:convertedCurrentPrice>
                 <ns0:sellingState>Active</ns0:sellingState>
-                <ns0:timeLeft>P28DT14H18M29S</ns0:timeLeft>
+                <ns0:timeLeft>P28DT11H50M25S</ns0:timeLeft>
             </ns0:sellingStatus>
             <ns0:listingInfo>
                 <ns0:bestOfferEnabled>false</ns0:bestOfferEnabled>
@@ -145,7 +145,7 @@
                 <ns0:currentPrice currencyId="AUD">1849.0</ns0:currentPrice>
                 <ns0:convertedCurrentPrice currencyId="USD">1322.68</ns0:convertedCurrentPrice>
                 <ns0:sellingState>Active</ns0:sellingState>
-                <ns0:timeLeft>P27DT1H54M39S</ns0:timeLeft>
+                <ns0:timeLeft>P26DT23H26M35S</ns0:timeLeft>
             </ns0:sellingStatus>
             <ns0:listingInfo>
                 <ns0:bestOfferEnabled>false</ns0:bestOfferEnabled>
@@ -198,7 +198,7 @@
                 <ns0:currentPrice currencyId="AUD">1849.0</ns0:currentPrice>
                 <ns0:convertedCurrentPrice currencyId="USD">1322.68</ns0:convertedCurrentPrice>
                 <ns0:sellingState>Active</ns0:sellingState>
-                <ns0:timeLeft>P27DT1H54M39S</ns0:timeLeft>
+                <ns0:timeLeft>P26DT23H26M35S</ns0:timeLeft>
             </ns0:sellingStatus>
             <ns0:listingInfo>
                 <ns0:bestOfferEnabled>false</ns0:bestOfferEnabled>
@@ -252,7 +252,7 @@
                 <ns0:currentPrice currencyId="CAD">1899.0</ns0:currentPrice>
                 <ns0:convertedCurrentPrice currencyId="USD">1438.8</ns0:convertedCurrentPrice>
                 <ns0:sellingState>Active</ns0:sellingState>
-                <ns0:timeLeft>P13DT12H55M33S</ns0:timeLeft>
+                <ns0:timeLeft>P13DT10H27M29S</ns0:timeLeft>
             </ns0:sellingStatus>
             <ns0:listingInfo>
                 <ns0:bestOfferEnabled>false</ns0:bestOfferEnabled>
@@ -305,7 +305,7 @@
                 <ns0:currentPrice currencyId="CAD">1899.0</ns0:currentPrice>
                 <ns0:convertedCurrentPrice currencyId="USD">1438.8</ns0:convertedCurrentPrice>
                 <ns0:sellingState>Active</ns0:sellingState>
-                <ns0:timeLeft>P13DT12H55M33S</ns0:timeLeft>
+                <ns0:timeLeft>P13DT10H27M29S</ns0:timeLeft>
             </ns0:sellingStatus>
             <ns0:listingInfo>
                 <ns0:bestOfferEnabled>false</ns0:bestOfferEnabled>
@@ -358,7 +358,7 @@
                 <ns0:currentPrice currencyId="CAD">1899.0</ns0:currentPrice>
                 <ns0:convertedCurrentPrice currencyId="USD">1438.8</ns0:convertedCurrentPrice>
                 <ns0:sellingState>Active</ns0:sellingState>
-                <ns0:timeLeft>P13DT12H55M33S</ns0:timeLeft>
+                <ns0:timeLeft>P13DT10H27M29S</ns0:timeLeft>
             </ns0:sellingStatus>
             <ns0:listingInfo>
                 <ns0:bestOfferEnabled>false</ns0:bestOfferEnabled>
@@ -412,7 +412,7 @@
                 <ns0:currentPrice currencyId="USD">1800.0</ns0:currentPrice>
                 <ns0:convertedCurrentPrice currencyId="USD">1800.0</ns0:convertedCurrentPrice>
                 <ns0:sellingState>Active</ns0:sellingState>
-                <ns0:timeLeft>P17DT10H7M33S</ns0:timeLeft>
+                <ns0:timeLeft>P17DT7H39M29S</ns0:timeLeft>
             </ns0:sellingStatus>
             <ns0:listingInfo>
                 <ns0:bestOfferEnabled>false</ns0:bestOfferEnabled>
@@ -464,7 +464,7 @@
                 <ns0:currentPrice currencyId="USD">1798.0</ns0:currentPrice>
                 <ns0:convertedCurrentPrice currencyId="USD">1798.0</ns0:convertedCurrentPrice>
                 <ns0:sellingState>Active</ns0:sellingState>
-                <ns0:timeLeft>P24DT12H46M42S</ns0:timeLeft>
+                <ns0:timeLeft>P24DT10H18M38S</ns0:timeLeft>
             </ns0:sellingStatus>
             <ns0:listingInfo>
                 <ns0:bestOfferEnabled>false</ns0:bestOfferEnabled>
@@ -516,7 +516,7 @@
                 <ns0:currentPrice currencyId="USD">1848.0</ns0:currentPrice>
                 <ns0:convertedCurrentPrice currencyId="USD">1848.0</ns0:convertedCurrentPrice>
                 <ns0:sellingState>Active</ns0:sellingState>
-                <ns0:timeLeft>P22DT6H42M31S</ns0:timeLeft>
+                <ns0:timeLeft>P22DT4H14M27S</ns0:timeLeft>
             </ns0:sellingStatus>
             <ns0:listingInfo>
                 <ns0:bestOfferEnabled>true</ns0:bestOfferEnabled>
@@ -570,7 +570,7 @@
                 <ns0:currentPrice currencyId="USD">1899.0</ns0:currentPrice>
                 <ns0:convertedCurrentPrice currencyId="USD">1899.0</ns0:convertedCurrentPrice>
                 <ns0:sellingState>Active</ns0:sellingState>
-                <ns0:timeLeft>P4DT15H55M42S</ns0:timeLeft>
+                <ns0:timeLeft>P4DT13H27M38S</ns0:timeLeft>
             </ns0:sellingStatus>
             <ns0:listingInfo>
                 <ns0:bestOfferEnabled>true</ns0:bestOfferEnabled>
@@ -623,7 +623,7 @@
                 <ns0:currentPrice currencyId="USD">2099.99</ns0:currentPrice>
                 <ns0:convertedCurrentPrice currencyId="USD">2099.99</ns0:convertedCurrentPrice>
                 <ns0:sellingState>Active</ns0:sellingState>
-                <ns0:timeLeft>P30DT11H46M45S</ns0:timeLeft>
+                <ns0:timeLeft>P30DT9H18M41S</ns0:timeLeft>
             </ns0:sellingStatus>
             <ns0:listingInfo>
                 <ns0:bestOfferEnabled>false</ns0:bestOfferEnabled>
@@ -677,7 +677,7 @@
                 <ns0:currentPrice currencyId="USD">2499.99</ns0:currentPrice>
                 <ns0:convertedCurrentPrice currencyId="USD">2499.99</ns0:convertedCurrentPrice>
                 <ns0:sellingState>Active</ns0:sellingState>
-                <ns0:timeLeft>P13DT18H28M31S</ns0:timeLeft>
+                <ns0:timeLeft>P13DT16H0M27S</ns0:timeLeft>
             </ns0:sellingStatus>
             <ns0:listingInfo>
                 <ns0:bestOfferEnabled>false</ns0:bestOfferEnabled>
@@ -730,7 +730,7 @@
                 <ns0:currentPrice currencyId="USD">2488.98</ns0:currentPrice>
                 <ns0:convertedCurrentPrice currencyId="USD">2488.98</ns0:convertedCurrentPrice>
                 <ns0:sellingState>Active</ns0:sellingState>
-                <ns0:timeLeft>P19DT20H23M25S</ns0:timeLeft>
+                <ns0:timeLeft>P19DT17H55M21S</ns0:timeLeft>
             </ns0:sellingStatus>
             <ns0:listingInfo>
                 <ns0:bestOfferEnabled>false</ns0:bestOfferEnabled>
@@ -783,7 +783,7 @@
                 <ns0:currentPrice currencyId="USD">2600.0</ns0:currentPrice>
                 <ns0:convertedCurrentPrice currencyId="USD">2600.0</ns0:convertedCurrentPrice>
                 <ns0:sellingState>Active</ns0:sellingState>
-                <ns0:timeLeft>P12DT0H32M3S</ns0:timeLeft>
+                <ns0:timeLeft>P11DT22H3M59S</ns0:timeLeft>
             </ns0:sellingStatus>
             <ns0:listingInfo>
                 <ns0:bestOfferEnabled>false</ns0:bestOfferEnabled>
@@ -835,7 +835,7 @@
                 <ns0:currentPrice currencyId="USD">1920.0</ns0:currentPrice>
                 <ns0:convertedCurrentPrice currencyId="USD">1920.0</ns0:convertedCurrentPrice>
                 <ns0:sellingState>Active</ns0:sellingState>
-                <ns0:timeLeft>P28DT13H56M38S</ns0:timeLeft>
+                <ns0:timeLeft>P28DT11H28M34S</ns0:timeLeft>
             </ns0:sellingStatus>
             <ns0:listingInfo>
                 <ns0:bestOfferEnabled>false</ns0:bestOfferEnabled>
