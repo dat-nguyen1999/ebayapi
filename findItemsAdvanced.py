@@ -8,11 +8,9 @@ try:
         'categoryId': '9355',
         'outputSelector': 'SellerInfo',
         'itemFilter': [
-           
             {'name': 'ListingType', 'value': 'FixedPrice'},
             {'name': 'Condition', 'value': 'New' },
             {'name': 'Country', 'value': 'US Only'}
-
         ],
         'paginationInput': {
             'entriesPerPage': 50,
@@ -20,7 +18,6 @@ try:
         },
         'sortOrder': 'PricePlusShippingLowest'
     }
-    
     response = api.execute('findItemsAdvanced', request)
     #print(response.dict())
     root = ET.fromstring(response.text)

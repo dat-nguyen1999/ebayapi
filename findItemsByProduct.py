@@ -6,9 +6,9 @@ if __name__ == '__main__':
 
         request = {
             'productId': {
-                    '#text': '190199380899',
+                    '#text': '9780439784542',
                     '@attrs': {
-                        'type': 'UPC'
+                        'type': 'ISBN'
                     }
                 },
             'outputSelector': 'SellerInfo',
