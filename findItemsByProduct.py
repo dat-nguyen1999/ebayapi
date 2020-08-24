@@ -1,30 +1,35 @@
 from ebaysdk.finding import Connection
-
+from ebaysdk.exception import ConnectionError
 if __name__ == '__main__':
-    api = Connection(config_file='ebay.yaml', siteid="EBAY-US")
+    try:
+        api = Connection(config_file='ebay.yaml', siteid="EBAY-US")
 
-    request = {
-        'productId': {
-                '#text': '0190199380349',
-                '@attrs': {
-                    'type': 'UPC'
-                }
+        request = {
+            'productId': {
+                    '#text': '190199380899',
+                    '@attrs': {
+                        'type': 'UPC'
+                    }
+                },
+            'outputSelector': 'SellerInfo',
+            'itemFilter': [
+                {'name': 'ListingType', 'value': 'FixedPrice'},
+                {'name': 'Condition', 'value': 'New',},
+                {'name': 'Country', 'value': 'US Only',}
+            ],
+            'paginationInput': {
+                'entriesPerPage': 50,
+                'pageNumber': 1
             },
-        'outputSelector': 'SellerInfo',
-        'itemFilter': [
-           
-            {'name': 'ListingType', 'value': ['FixedPrice', 'StoreInventory']}
-        ],
-        'paginationInput': {
-            'entriesPerPage': 50,
-            'pageNumber': 1
-        },
-        'sortOrder': 'PricePlusShippingLowest'
-    }
-    response = api.execute('findItemsByProduct', request)
-    with open('data_byProductID.xml', 'w') as f:
-        f.write(response.text)
-    id = 0
-    for item in response.reply.searchResult.item:
-        id += 1
-        print(f" ID: {id} Title: {item.title}, Price: {item.sellingStatus.currentPrice.value}, Seller:{item.sellerInfo.sellerUserName}")
+            'sortOrder': 'PricePlusShippingLowest'
+        }
+        response = api.execute('findItemsByProduct', request)
+        with open('data_byProductID.xml', 'w') as f:
+            f.write(response.text)
+        id = 0
+        for item in response.reply.searchResult.item:
+            id += 1
+            print(f" ID: {id} Title: {item.title}, Price: {item.sellingStatus.currentPrice.value}, Seller:{item.sellerInfo.sellerUserName}")
+    except ConnectionError as e:
+        print(e)
+        print(e.response.ack)

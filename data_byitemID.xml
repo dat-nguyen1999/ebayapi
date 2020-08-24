@@ -1,29 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
   <GetSingleItemResponse xmlns="urn:ebay:apis:eBLBaseComponents">
-   <Timestamp>2020-08-19T13:55:53.072Z</Timestamp>
+   <Timestamp>2020-08-24T04:13:42.578Z</Timestamp>
    <Ack>Success</Ack>
-   <Build>E1157_CORE_APILW_19146596_R1</Build>
-   <Version>1157</Version>
+   <Build>E1141_CORE_APILW_19170841_R1</Build>
+   <Version>1141</Version>
    <Item>
-    <ItemID>274243297019</ItemID>
-    <EndTime>2020-09-01T09:14:51.000Z</EndTime>
-    <ViewItemURLForNaturalSearch>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-Book-6-Hardcover-VERY-GOOD-/274243297019</ViewItemURLForNaturalSearch>
+    <ItemID>274013418704</ItemID>
+    <EndTime>2020-09-17T17:36:37.000Z</EndTime>
+    <ViewItemURLForNaturalSearch>https://www.ebay.com/itm/Apple-iPhone-11-Pro-Max-512GB-Green-REAL-Dual-SIM-Hong-Kong-A2220-Unlocked-FedEx-/274013418704</ViewItemURLForNaturalSearch>
     <ListingType>FixedPriceItem</ListingType>
-    <Location>Montgomery, Illinois</Location>
-    <GalleryURL>https://thumbs4.ebaystatic.com/pict/2742432970198080_8.jpg</GalleryURL>
-    <PictureURL>https://i.ebayimg.com/00/s/NTAwWDMzMQ==/z/TYoAAOSwr4pfNKtW/$_1.JPG?set_id=2</PictureURL>
-    <PrimaryCategoryID>171219</PrimaryCategoryID>
-    <PrimaryCategoryName>Books:Children &amp; Young Adults:Children &amp; YA Fiction</PrimaryCategoryName>
+    <Location>Hong Kong</Location>
+    <GalleryURL>https://thumbs1.ebaystatic.com/pict/2740134187048080_2.jpg</GalleryURL>
+    <PictureURL>https://i.ebayimg.com/00/s/ODA3WDEwMDA=/z/gJ8AAOSwp2VdkYw9/$_57.JPG?set_id=8800005007</PictureURL>
+    <PictureURL>https://i.ebayimg.com/00/s/MTExMlg5NDA=/z/c14AAOSwGrZdgRQ0/$_57.PNG?set_id=8800005007</PictureURL>
+    <PictureURL>https://i.ebayimg.com/00/s/MTAwMFgxMDAw/z/XQYAAOSwH4tdkYxC/$_57.JPG?set_id=8800005007</PictureURL>
+    <PictureURL>https://i.ebayimg.com/00/s/NDkxWDgyMA==/z/FhcAAOSwU~FbpbXy/$_57.JPG?set_id=8800005007</PictureURL>
+    <PrimaryCategoryID>9355</PrimaryCategoryID>
+    <PrimaryCategoryName>Cell Phones &amp; Accessories:Cell Phones &amp; Smartphones</PrimaryCategoryName>
     <BidCount>0</BidCount>
-    <ConvertedCurrentPrice currencyID="USD">4.2</ConvertedCurrentPrice>
+    <ConvertedCurrentPrice currencyID="USD">1798.0</ConvertedCurrentPrice>
     <ListingStatus>Active</ListingStatus>
-    <TimeLeft>P12DT19H18M58S</TimeLeft>
-    <Title>Harry Potter and the Half-Blood Prince (Book 6) - Hardcover - VERY GOOD</Title>
-    <Country>US</Country>
+    <TimeLeft>P24DT13H22M55S</TimeLeft>
+    <Title>Apple iPhone 11 Pro Max 512GB Green REAL Dual SIM Hong Kong A2220 Unlocked FedEx</Title>
+    <Country>HK</Country>
     <AutoPay>true</AutoPay>
-    <ConditionID>4000</ConditionID>
-    <ConditionDisplayName>Very Good</ConditionDisplayName>
+    <ConditionID>1000</ConditionID>
+    <ConditionDisplayName>New</ConditionDisplayName>
    </Item>
   </GetSingleItemResponse>
  

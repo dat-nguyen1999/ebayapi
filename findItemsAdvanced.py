@@ -1,18 +1,21 @@
 from ebaysdk.finding import Connection as Finding
 from ebaysdk.exception import ConnectionError
-
+import xml.etree.ElementTree as ET
 try:
     api = Finding(config_file='ebay.yaml')
     request = {
-        'keywords': 'harry potter and the half blood prince',
-        'categoryId': '171219',
+        'keywords': 'Apple iPhone 11 Pro Max 512GB Midnight Green',
+        'categoryId': '9355',
         'outputSelector': 'SellerInfo',
         'itemFilter': [
            
-            {'name': 'ListingType', 'value': 'FixedPrice'}
+            {'name': 'ListingType', 'value': 'FixedPrice'},
+            {'name': 'Condition', 'value': 'New' },
+            {'name': 'Country', 'value': 'US Only'}
+
         ],
         'paginationInput': {
-            'entriesPerPage': 10,
+            'entriesPerPage': 50,
             'pageNumber': 1
         },
         'sortOrder': 'PricePlusShippingLowest'
@@ -20,8 +23,11 @@ try:
     
     response = api.execute('findItemsAdvanced', request)
     #print(response.dict())
-    with open('data_advanced.xml', 'w') as f:
-        f.write(response.text)
+    root = ET.fromstring(response.text)
+    tree = ET.ElementTree(root)
+    tree.write("data_advanced.xml")
+    # with open('data_advanced.xml', 'w') as f:
+    #     f.write(response.text)
 except ConnectionError as e:
     print(e)
     print(e.response.dict())

@@ -2,7 +2,7 @@
 <findItemsAdvancedResponse xmlns="http://www.ebay.com/marketplace/search/v1/services">
     <ack>Success</ack>
     <version>1.13.0</version>
-    <timestamp>2020-08-21T04:36:02.298Z</timestamp>
+    <timestamp>2020-08-24T04:36:36.503Z</timestamp>
     <searchResult count="50">
         <item>
             <itemId>362190844542</itemId>
@@ -37,7 +37,7 @@
                 <currentPrice currencyId="USD">0.99</currentPrice>
                 <convertedCurrentPrice currencyId="USD">0.99</convertedCurrentPrice>
                 <sellingState>Active</sellingState>
-                <timeLeft>P28DT21H47M29S</timeLeft>
+                <timeLeft>P25DT21H46M55S</timeLeft>
             </sellingStatus>
             <listingInfo>
                 <bestOfferEnabled>false</bestOfferEnabled>
@@ -85,7 +85,7 @@
                 <currentPrice currencyId="USD">0.99</currentPrice>
                 <convertedCurrentPrice currencyId="USD">0.99</convertedCurrentPrice>
                 <sellingState>Active</sellingState>
-                <timeLeft>P28DT21H47M29S</timeLeft>
+                <timeLeft>P25DT21H46M55S</timeLeft>
             </sellingStatus>
             <listingInfo>
                 <bestOfferEnabled>false</bestOfferEnabled>
@@ -132,7 +132,7 @@
                 <currentPrice currencyId="USD">0.99</currentPrice>
                 <convertedCurrentPrice currencyId="USD">0.99</convertedCurrentPrice>
                 <sellingState>Active</sellingState>
-                <timeLeft>P28DT21H47M29S</timeLeft>
+                <timeLeft>P25DT21H46M55S</timeLeft>
             </sellingStatus>
             <listingInfo>
                 <bestOfferEnabled>false</bestOfferEnabled>
@@ -180,7 +180,7 @@
                 <currentPrice currencyId="USD">0.99</currentPrice>
                 <convertedCurrentPrice currencyId="USD">0.99</convertedCurrentPrice>
                 <sellingState>Active</sellingState>
-                <timeLeft>P28DT21H47M29S</timeLeft>
+                <timeLeft>P25DT21H46M55S</timeLeft>
             </sellingStatus>
             <listingInfo>
                 <bestOfferEnabled>false</bestOfferEnabled>
@@ -193,6 +193,59 @@
             </listingInfo>
             <returnsAccepted>true</returnsAccepted>
             <isMultiVariationListing>true</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>352804573236</itemId>
+            <title>Harry Potter and the Half-Blood Prince (DVD, 2009, WS)</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>617</categoryId>
+                <categoryName>DVDs &amp; Blu-ray Discs</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs1.ebaystatic.com/m/md5KuKRQusQnTqN0BEu80aA/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-DVD-2009-WS-/352804573236</viewItemURL>
+            <productId type="ReferenceID">78413115</productId>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>false</autoPay>
+            <postalCode>530**</postalCode>
+            <location>Campbellsport,WI,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>ruberdog58</sellerUserName>
+                <feedbackScore>3246</feedbackScore>
+                <positiveFeedbackPercent>99.4</positiveFeedbackPercent>
+                <feedbackRatingStar>Red</feedbackRatingStar>
+                <topRatedSeller>false</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+                <shippingType>FreePickup</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>false</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>1</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">2.0</currentPrice>
+                <convertedCurrentPrice currencyId="USD">2.0</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P2DT20H2M7S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>true</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2019-09-27T00:38:43.000Z</startTime>
+                <endTime>2020-08-27T00:38:43.000Z</endTime>
+                <listingType>StoreInventory</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>true</returnsAccepted>
+            <condition>
+                <conditionId>4000</conditionId>
+                <conditionDisplayName>Very Good</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
             <topRatedListing>false</topRatedListing>
         </item>
         <item>
@@ -215,7 +268,7 @@
                 <feedbackScore>4831</feedbackScore>
                 <positiveFeedbackPercent>99.0</positiveFeedbackPercent>
                 <feedbackRatingStar>Red</feedbackRatingStar>
-                <topRatedSeller>false</topRatedSeller>
+                <topRatedSeller>true</topRatedSeller>
             </sellerInfo>
             <shippingInfo>
                 <shippingServiceCost currencyId="USD">0.6</shippingServiceCost>
@@ -229,7 +282,7 @@
                 <currentPrice currencyId="USD">1.45</currentPrice>
                 <convertedCurrentPrice currencyId="USD">1.45</convertedCurrentPrice>
                 <sellingState>Active</sellingState>
-                <timeLeft>P9DT5H4M14S</timeLeft>
+                <timeLeft>P6DT5H3M40S</timeLeft>
             </sellingStatus>
             <listingInfo>
                 <bestOfferEnabled>false</bestOfferEnabled>
@@ -238,7 +291,7 @@
                 <endTime>2020-08-30T09:40:16.000Z</endTime>
                 <listingType>FixedPrice</listingType>
                 <gift>false</gift>
-                <watchCount>8</watchCount>
+                <watchCount>9</watchCount>
             </listingInfo>
             <returnsAccepted>true</returnsAccepted>
             <condition>
@@ -266,10 +319,10 @@
             <country>US</country>
             <sellerInfo>
                 <sellerUserName>dtxmarkets</sellerUserName>
-                <feedbackScore>168</feedbackScore>
+                <feedbackScore>189</feedbackScore>
                 <positiveFeedbackPercent>98.9</positiveFeedbackPercent>
                 <feedbackRatingStar>Turquoise</feedbackRatingStar>
-                <topRatedSeller>true</topRatedSeller>
+                <topRatedSeller>false</topRatedSeller>
             </sellerInfo>
             <shippingInfo>
                 <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
@@ -283,13 +336,13 @@
                 <currentPrice currencyId="USD">2.39</currentPrice>
                 <convertedCurrentPrice currencyId="USD">2.39</convertedCurrentPrice>
                 <sellingState>Active</sellingState>
-                <timeLeft>P1DT3H33M55S</timeLeft>
+                <timeLeft>P29DT3H33M21S</timeLeft>
             </sellingStatus>
             <listingInfo>
                 <bestOfferEnabled>true</bestOfferEnabled>
                 <buyItNowAvailable>false</buyItNowAvailable>
                 <startTime>2020-01-22T08:09:57.000Z</startTime>
-                <endTime>2020-08-22T08:09:57.000Z</endTime>
+                <endTime>2020-09-22T08:09:57.000Z</endTime>
                 <listingType>StoreInventory</listingType>
                 <gift>false</gift>
             </listingInfo>
@@ -319,10 +372,10 @@
             <country>US</country>
             <sellerInfo>
                 <sellerUserName>dtxmarkets</sellerUserName>
-                <feedbackScore>168</feedbackScore>
+                <feedbackScore>189</feedbackScore>
                 <positiveFeedbackPercent>98.9</positiveFeedbackPercent>
                 <feedbackRatingStar>Turquoise</feedbackRatingStar>
-                <topRatedSeller>true</topRatedSeller>
+                <topRatedSeller>false</topRatedSeller>
             </sellerInfo>
             <shippingInfo>
                 <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
@@ -336,13 +389,13 @@
                 <currentPrice currencyId="USD">2.39</currentPrice>
                 <convertedCurrentPrice currencyId="USD">2.39</convertedCurrentPrice>
                 <sellingState>Active</sellingState>
-                <timeLeft>P1DT3H34M6S</timeLeft>
+                <timeLeft>P29DT3H33M32S</timeLeft>
             </sellingStatus>
             <listingInfo>
                 <bestOfferEnabled>true</bestOfferEnabled>
                 <buyItNowAvailable>false</buyItNowAvailable>
                 <startTime>2020-01-22T08:10:08.000Z</startTime>
-                <endTime>2020-08-22T08:10:08.000Z</endTime>
+                <endTime>2020-09-22T08:10:08.000Z</endTime>
                 <listingType>StoreInventory</listingType>
                 <gift>false</gift>
             </listingInfo>
@@ -388,7 +441,7 @@
                 <currentPrice currencyId="USD">3.0</currentPrice>
                 <convertedCurrentPrice currencyId="USD">3.0</convertedCurrentPrice>
                 <sellingState>Active</sellingState>
-                <timeLeft>P20DT11H31M50S</timeLeft>
+                <timeLeft>P17DT11H31M16S</timeLeft>
             </sellingStatus>
             <listingInfo>
                 <bestOfferEnabled>false</bestOfferEnabled>
@@ -437,7 +490,7 @@
                 <currentPrice currencyId="USD">1.99</currentPrice>
                 <convertedCurrentPrice currencyId="USD">1.99</convertedCurrentPrice>
                 <sellingState>Active</sellingState>
-                <timeLeft>P4DT15H35M16S</timeLeft>
+                <timeLeft>P1DT15H34M42S</timeLeft>
             </sellingStatus>
             <listingInfo>
                 <bestOfferEnabled>false</bestOfferEnabled>
@@ -448,59 +501,6 @@
                 <gift>false</gift>
             </listingInfo>
             <returnsAccepted>true</returnsAccepted>
-            <isMultiVariationListing>false</isMultiVariationListing>
-            <topRatedListing>false</topRatedListing>
-        </item>
-        <item>
-            <itemId>373145601432</itemId>
-            <title>Harry Potter and the Half-Blood Prince (DVD, 2009, PS)  *DISC ONLY*</title>
-            <globalId>EBAY-US</globalId>
-            <primaryCategory>
-                <categoryId>617</categoryId>
-                <categoryName>DVDs &amp; Blu-ray Discs</categoryName>
-            </primaryCategory>
-            <galleryURL>https://thumbs1.ebaystatic.com/m/mLadlSg7CnxzmxAQ-nmKiKw/140.jpg</galleryURL>
-            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-DVD-2009-PS-DISC-ONLY-/373145601432</viewItemURL>
-            <productId type="ReferenceID">78421866</productId>
-            <paymentMethod>PayPal</paymentMethod>
-            <autoPay>true</autoPay>
-            <postalCode>958**</postalCode>
-            <location>Sacramento,CA,USA</location>
-            <country>US</country>
-            <sellerInfo>
-                <sellerUserName>sportsc4you</sellerUserName>
-                <feedbackScore>24251</feedbackScore>
-                <positiveFeedbackPercent>99.7</positiveFeedbackPercent>
-                <feedbackRatingStar>YellowShooting</feedbackRatingStar>
-                <topRatedSeller>false</topRatedSeller>
-            </sellerInfo>
-            <shippingInfo>
-                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
-                <shippingType>FlatDomesticCalculatedInternational</shippingType>
-                <shipToLocations>Worldwide</shipToLocations>
-                <expeditedShipping>false</expeditedShipping>
-                <oneDayShippingAvailable>false</oneDayShippingAvailable>
-                <handlingTime>1</handlingTime>
-            </shippingInfo>
-            <sellingStatus>
-                <currentPrice currencyId="USD">3.25</currentPrice>
-                <convertedCurrentPrice currencyId="USD">3.25</convertedCurrentPrice>
-                <sellingState>Active</sellingState>
-                <timeLeft>P21DT16H11M35S</timeLeft>
-            </sellingStatus>
-            <listingInfo>
-                <bestOfferEnabled>false</bestOfferEnabled>
-                <buyItNowAvailable>false</buyItNowAvailable>
-                <startTime>2020-08-11T20:47:37.000Z</startTime>
-                <endTime>2020-09-11T20:47:37.000Z</endTime>
-                <listingType>StoreInventory</listingType>
-                <gift>false</gift>
-            </listingInfo>
-            <returnsAccepted>true</returnsAccepted>
-            <condition>
-                <conditionId>5000</conditionId>
-                <conditionDisplayName>Good</conditionDisplayName>
-            </condition>
             <isMultiVariationListing>false</isMultiVariationListing>
             <topRatedListing>false</topRatedListing>
         </item>
@@ -539,7 +539,7 @@
                 <currentPrice currencyId="USD">3.59</currentPrice>
                 <convertedCurrentPrice currencyId="USD">3.59</convertedCurrentPrice>
                 <sellingState>Active</sellingState>
-                <timeLeft>P30DT18H21M38S</timeLeft>
+                <timeLeft>P27DT18H21M4S</timeLeft>
             </sellingStatus>
             <listingInfo>
                 <bestOfferEnabled>false</bestOfferEnabled>
@@ -593,7 +593,7 @@
                 <currentPrice currencyId="USD">3.59</currentPrice>
                 <convertedCurrentPrice currencyId="USD">3.59</convertedCurrentPrice>
                 <sellingState>Active</sellingState>
-                <timeLeft>P30DT18H22M37S</timeLeft>
+                <timeLeft>P27DT18H22M3S</timeLeft>
             </sellingStatus>
             <listingInfo>
                 <bestOfferEnabled>false</bestOfferEnabled>
@@ -647,7 +647,7 @@
                 <currentPrice currencyId="USD">3.59</currentPrice>
                 <convertedCurrentPrice currencyId="USD">3.59</convertedCurrentPrice>
                 <sellingState>Active</sellingState>
-                <timeLeft>P30DT18H24M31S</timeLeft>
+                <timeLeft>P27DT18H23M57S</timeLeft>
             </sellingStatus>
             <listingInfo>
                 <bestOfferEnabled>false</bestOfferEnabled>
@@ -702,7 +702,7 @@
                 <currentPrice currencyId="USD">3.59</currentPrice>
                 <convertedCurrentPrice currencyId="USD">3.59</convertedCurrentPrice>
                 <sellingState>Active</sellingState>
-                <timeLeft>P30DT18H28M9S</timeLeft>
+                <timeLeft>P27DT18H27M35S</timeLeft>
             </sellingStatus>
             <listingInfo>
                 <bestOfferEnabled>false</bestOfferEnabled>
@@ -755,7 +755,7 @@
                 <currentPrice currencyId="USD">3.69</currentPrice>
                 <convertedCurrentPrice currencyId="USD">3.69</convertedCurrentPrice>
                 <sellingState>Active</sellingState>
-                <timeLeft>P28DT21H31M2S</timeLeft>
+                <timeLeft>P25DT21H30M28S</timeLeft>
             </sellingStatus>
             <listingInfo>
                 <bestOfferEnabled>false</bestOfferEnabled>
@@ -808,7 +808,7 @@
                 <currentPrice currencyId="USD">3.7</currentPrice>
                 <convertedCurrentPrice currencyId="USD">3.7</convertedCurrentPrice>
                 <sellingState>Active</sellingState>
-                <timeLeft>P9DT16H21M31S</timeLeft>
+                <timeLeft>P6DT16H20M57S</timeLeft>
             </sellingStatus>
             <listingInfo>
                 <bestOfferEnabled>false</bestOfferEnabled>
@@ -860,7 +860,7 @@
                 <currentPrice currencyId="USD">1.95</currentPrice>
                 <convertedCurrentPrice currencyId="USD">1.95</convertedCurrentPrice>
                 <sellingState>Active</sellingState>
-                <timeLeft>P7DT2H44M55S</timeLeft>
+                <timeLeft>P4DT2H44M21S</timeLeft>
             </sellingStatus>
             <listingInfo>
                 <bestOfferEnabled>false</bestOfferEnabled>
@@ -908,7 +908,7 @@
                 <currentPrice currencyId="USD">1.95</currentPrice>
                 <convertedCurrentPrice currencyId="USD">1.95</convertedCurrentPrice>
                 <sellingState>Active</sellingState>
-                <timeLeft>P7DT2H44M57S</timeLeft>
+                <timeLeft>P4DT2H44M23S</timeLeft>
             </sellingStatus>
             <listingInfo>
                 <bestOfferEnabled>false</bestOfferEnabled>
@@ -956,7 +956,7 @@
                 <currentPrice currencyId="USD">1.95</currentPrice>
                 <convertedCurrentPrice currencyId="USD">1.95</convertedCurrentPrice>
                 <sellingState>Active</sellingState>
-                <timeLeft>P7DT2H45M0S</timeLeft>
+                <timeLeft>P4DT2H44M26S</timeLeft>
             </sellingStatus>
             <listingInfo>
                 <bestOfferEnabled>false</bestOfferEnabled>
@@ -969,59 +969,6 @@
             <returnsAccepted>true</returnsAccepted>
             <isMultiVariationListing>false</isMultiVariationListing>
             <topRatedListing>false</topRatedListing>
-        </item>
-        <item>
-            <itemId>253905421194</itemId>
-            <title>Harry Potter and the Half-Blood Prince (Widescreen Edition) - DVD - VERY GOOD</title>
-            <globalId>EBAY-US</globalId>
-            <primaryCategory>
-                <categoryId>617</categoryId>
-                <categoryName>DVDs &amp; Blu-ray Discs</categoryName>
-            </primaryCategory>
-            <galleryURL>https://thumbs3.ebaystatic.com/m/msqub21cn4C_4vyBjjn7ILA/140.jpg</galleryURL>
-            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-Widescreen-Edition-DVD-VERY-GOOD-/253905421194</viewItemURL>
-            <productId type="ReferenceID">78413115</productId>
-            <autoPay>true</autoPay>
-            <postalCode>605**</postalCode>
-            <location>Montgomery,IL,USA</location>
-            <country>US</country>
-            <sellerInfo>
-                <sellerUserName>second.sale</sellerUserName>
-                <feedbackScore>883749</feedbackScore>
-                <positiveFeedbackPercent>99.0</positiveFeedbackPercent>
-                <feedbackRatingStar>RedShooting</feedbackRatingStar>
-                <topRatedSeller>true</topRatedSeller>
-            </sellerInfo>
-            <shippingInfo>
-                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
-                <shippingType>Free</shippingType>
-                <shipToLocations>Worldwide</shipToLocations>
-                <expeditedShipping>true</expeditedShipping>
-                <oneDayShippingAvailable>false</oneDayShippingAvailable>
-                <handlingTime>1</handlingTime>
-            </shippingInfo>
-            <sellingStatus>
-                <currentPrice currencyId="USD">3.94</currentPrice>
-                <convertedCurrentPrice currencyId="USD">3.94</convertedCurrentPrice>
-                <sellingState>Active</sellingState>
-                <timeLeft>P8DT19H53M30S</timeLeft>
-            </sellingStatus>
-            <listingInfo>
-                <bestOfferEnabled>false</bestOfferEnabled>
-                <buyItNowAvailable>false</buyItNowAvailable>
-                <startTime>2018-09-30T00:29:32.000Z</startTime>
-                <endTime>2020-08-30T00:29:32.000Z</endTime>
-                <listingType>StoreInventory</listingType>
-                <gift>false</gift>
-                <watchCount>24</watchCount>
-            </listingInfo>
-            <returnsAccepted>true</returnsAccepted>
-            <condition>
-                <conditionId>4000</conditionId>
-                <conditionDisplayName>Very Good</conditionDisplayName>
-            </condition>
-            <isMultiVariationListing>false</isMultiVariationListing>
-            <topRatedListing>true</topRatedListing>
         </item>
         <item>
             <itemId>363074389611</itemId>
@@ -1058,117 +1005,13 @@
                 <currentPrice currencyId="USD">2.99</currentPrice>
                 <convertedCurrentPrice currencyId="USD">2.99</convertedCurrentPrice>
                 <sellingState>Active</sellingState>
-                <timeLeft>P22DT13H23M49S</timeLeft>
+                <timeLeft>P19DT13H23M15S</timeLeft>
             </sellingStatus>
             <listingInfo>
                 <bestOfferEnabled>false</bestOfferEnabled>
                 <buyItNowAvailable>false</buyItNowAvailable>
                 <startTime>2020-08-12T17:59:51.000Z</startTime>
                 <endTime>2020-09-12T17:59:51.000Z</endTime>
-                <listingType>FixedPrice</listingType>
-                <gift>false</gift>
-            </listingInfo>
-            <returnsAccepted>true</returnsAccepted>
-            <condition>
-                <conditionId>6000</conditionId>
-                <conditionDisplayName>Acceptable</conditionDisplayName>
-            </condition>
-            <isMultiVariationListing>false</isMultiVariationListing>
-            <topRatedListing>false</topRatedListing>
-        </item>
-        <item>
-            <itemId>254517906742</itemId>
-            <title>Harry Potter and the Half-Blood Prince (Book 6) - Paperback - GOOD</title>
-            <globalId>EBAY-US</globalId>
-            <primaryCategory>
-                <categoryId>171219</categoryId>
-                <categoryName>Children &amp; YA Fiction</categoryName>
-            </primaryCategory>
-            <galleryURL>https://thumbs3.ebaystatic.com/m/mbSoT1ERBoETeACKyb7QtDQ/140.jpg</galleryURL>
-            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-Book-6-Paperback-GOOD-/254517906742</viewItemURL>
-            <productId type="ReferenceID">48045670</productId>
-            <autoPay>true</autoPay>
-            <postalCode>605**</postalCode>
-            <location>Montgomery,IL,USA</location>
-            <country>US</country>
-            <sellerInfo>
-                <sellerUserName>second.sale</sellerUserName>
-                <feedbackScore>883357</feedbackScore>
-                <positiveFeedbackPercent>99.0</positiveFeedbackPercent>
-                <feedbackRatingStar>RedShooting</feedbackRatingStar>
-                <topRatedSeller>true</topRatedSeller>
-            </sellerInfo>
-            <shippingInfo>
-                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
-                <shippingType>Free</shippingType>
-                <shipToLocations>Worldwide</shipToLocations>
-                <expeditedShipping>true</expeditedShipping>
-                <oneDayShippingAvailable>false</oneDayShippingAvailable>
-                <handlingTime>1</handlingTime>
-            </shippingInfo>
-            <sellingStatus>
-                <currentPrice currencyId="USD">3.98</currentPrice>
-                <convertedCurrentPrice currencyId="USD">3.98</convertedCurrentPrice>
-                <sellingState>Active</sellingState>
-                <timeLeft>P29DT21H9M31S</timeLeft>
-            </sellingStatus>
-            <listingInfo>
-                <bestOfferEnabled>false</bestOfferEnabled>
-                <buyItNowAvailable>false</buyItNowAvailable>
-                <startTime>2020-02-20T01:45:33.000Z</startTime>
-                <endTime>2020-09-20T01:45:33.000Z</endTime>
-                <listingType>FixedPrice</listingType>
-                <gift>false</gift>
-                <watchCount>25</watchCount>
-            </listingInfo>
-            <returnsAccepted>true</returnsAccepted>
-            <condition>
-                <conditionId>5000</conditionId>
-                <conditionDisplayName>Good</conditionDisplayName>
-            </condition>
-            <isMultiVariationListing>false</isMultiVariationListing>
-            <topRatedListing>true</topRatedListing>
-        </item>
-        <item>
-            <itemId>383684815643</itemId>
-            <title>Harry Potter and the Half-Blood Prince (Book 6)</title>
-            <globalId>EBAY-US</globalId>
-            <primaryCategory>
-                <categoryId>171219</categoryId>
-                <categoryName>Children &amp; YA Fiction</categoryName>
-            </primaryCategory>
-            <galleryURL>https://thumbs4.ebaystatic.com/m/mZoDouNjvBTWM3T8mNqjhgw/140.jpg</galleryURL>
-            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-Book-6-/383684815643</viewItemURL>
-            <productId type="ReferenceID">44462740</productId>
-            <autoPay>true</autoPay>
-            <location>USA</location>
-            <country>US</country>
-            <sellerInfo>
-                <sellerUserName>your_online_bookstore</sellerUserName>
-                <feedbackScore>502201</feedbackScore>
-                <positiveFeedbackPercent>99.0</positiveFeedbackPercent>
-                <feedbackRatingStar>RedShooting</feedbackRatingStar>
-                <topRatedSeller>true</topRatedSeller>
-            </sellerInfo>
-            <shippingInfo>
-                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
-                <shippingType>Free</shippingType>
-                <shipToLocations>Worldwide</shipToLocations>
-                <expeditedShipping>true</expeditedShipping>
-                <oneDayShippingAvailable>false</oneDayShippingAvailable>
-                <handlingTime>2</handlingTime>
-            </shippingInfo>
-            <sellingStatus>
-                <currentPrice currencyId="USD">3.98</currentPrice>
-                <convertedCurrentPrice currencyId="USD">3.98</convertedCurrentPrice>
-                <sellingState>Active</sellingState>
-                <timeLeft>P30DT7H55M11S</timeLeft>
-            </sellingStatus>
-            <listingInfo>
-                <bestOfferEnabled>false</bestOfferEnabled>
-                <buyItNowAvailable>false</buyItNowAvailable>
-                <startTime>2020-08-20T12:31:13.000Z</startTime>
-                <endTime>2020-09-20T12:31:13.000Z</endTime>
                 <listingType>FixedPrice</listingType>
                 <gift>false</gift>
             </listingInfo>
@@ -1213,7 +1056,7 @@
                 <currentPrice currencyId="USD">3.99</currentPrice>
                 <convertedCurrentPrice currencyId="USD">3.99</convertedCurrentPrice>
                 <sellingState>Active</sellingState>
-                <timeLeft>P23DT0H1M34S</timeLeft>
+                <timeLeft>P20DT0H1M0S</timeLeft>
             </sellingStatus>
             <listingInfo>
                 <bestOfferEnabled>false</bestOfferEnabled>
@@ -1232,105 +1075,56 @@
             <topRatedListing>false</topRatedListing>
         </item>
         <item>
-            <itemId>363079161953</itemId>
-            <title>Harry Potter and the Half-Blood Prince 6 by J. K. Rowling P�F</title>
+            <itemId>362973952296</itemId>
+            <title>Harry Potter and the Half-Blood Prince [Widescreen Edition]  DVD</title>
             <globalId>EBAY-US</globalId>
             <primaryCategory>
-                <categoryId>171219</categoryId>
-                <categoryName>Children &amp; YA Fiction</categoryName>
+                <categoryId>617</categoryId>
+                <categoryName>DVDs &amp; Blu-ray Discs</categoryName>
             </primaryCategory>
-            <galleryURL>https://thumbs2.ebaystatic.com/m/mZoDouNjvBTWM3T8mNqjhgw/140.jpg</galleryURL>
-            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-6-J-K-Rowling-P-F-/363079161953</viewItemURL>
-            <productId type="ReferenceID">44462740</productId>
-            <paymentMethod>PayPal</paymentMethod>
+            <galleryURL>https://thumbs1.ebaystatic.com/m/mV6MP2QO-bfVI8iy8RRcKQA/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-Widescreen-Edition-DVD-/362973952296</viewItemURL>
+            <productId type="ReferenceID">78413115</productId>
             <autoPay>true</autoPay>
-            <location>United Kingdom</location>
-            <country>GB</country>
+            <postalCode>553**</postalCode>
+            <location>Burnsville,MN,USA</location>
+            <country>US</country>
             <sellerInfo>
-                <sellerUserName>yousseft_15</sellerUserName>
-                <feedbackScore>4</feedbackScore>
-                <positiveFeedbackPercent>100.0</positiveFeedbackPercent>
-                <feedbackRatingStar>None</feedbackRatingStar>
-                <topRatedSeller>false</topRatedSeller>
+                <sellerUserName>swordkillers</sellerUserName>
+                <feedbackScore>123122</feedbackScore>
+                <positiveFeedbackPercent>99.6</positiveFeedbackPercent>
+                <feedbackRatingStar>RedShooting</feedbackRatingStar>
+                <topRatedSeller>true</topRatedSeller>
             </sellerInfo>
             <shippingInfo>
                 <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
                 <shippingType>Free</shippingType>
                 <shipToLocations>Worldwide</shipToLocations>
-                <expeditedShipping>false</expeditedShipping>
+                <expeditedShipping>true</expeditedShipping>
                 <oneDayShippingAvailable>false</oneDayShippingAvailable>
-                <handlingTime>0</handlingTime>
+                <handlingTime>1</handlingTime>
             </shippingInfo>
             <sellingStatus>
                 <currentPrice currencyId="USD">3.99</currentPrice>
                 <convertedCurrentPrice currencyId="USD">3.99</convertedCurrentPrice>
                 <sellingState>Active</sellingState>
-                <timeLeft>P27DT16H47M40S</timeLeft>
+                <timeLeft>P25DT10H27M40S</timeLeft>
             </sellingStatus>
             <listingInfo>
-                <bestOfferEnabled>true</bestOfferEnabled>
+                <bestOfferEnabled>false</bestOfferEnabled>
                 <buyItNowAvailable>false</buyItNowAvailable>
-                <startTime>2020-08-17T21:23:42.000Z</startTime>
-                <endTime>2020-09-17T21:23:42.000Z</endTime>
+                <startTime>2020-04-18T15:04:16.000Z</startTime>
+                <endTime>2020-09-18T15:04:16.000Z</endTime>
                 <listingType>FixedPrice</listingType>
                 <gift>false</gift>
             </listingInfo>
-            <returnsAccepted>false</returnsAccepted>
+            <returnsAccepted>true</returnsAccepted>
             <condition>
                 <conditionId>4000</conditionId>
                 <conditionDisplayName>Very Good</conditionDisplayName>
             </condition>
             <isMultiVariationListing>false</isMultiVariationListing>
-            <topRatedListing>false</topRatedListing>
-        </item>
-        <item>
-            <itemId>402176634940</itemId>
-            <title>Harry Potter and the Half-Blood Prince (pdf sent via email)</title>
-            <globalId>EBAY-US</globalId>
-            <primaryCategory>
-                <categoryId>88433</categoryId>
-                <categoryName>Every Other Thing</categoryName>
-            </primaryCategory>
-            <galleryURL>https://thumbs1.ebaystatic.com/m/m6rIdMdGXiMSML89qfBS3dA/140.jpg</galleryURL>
-            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-pdf-sent-via-email-/402176634940</viewItemURL>
-            <paymentMethod>PayPal</paymentMethod>
-            <autoPay>false</autoPay>
-            <postalCode>100**</postalCode>
-            <location>New York,NY,USA</location>
-            <country>US</country>
-            <sellerInfo>
-                <sellerUserName>jackbooks</sellerUserName>
-                <feedbackScore>19</feedbackScore>
-                <positiveFeedbackPercent>92.6</positiveFeedbackPercent>
-                <feedbackRatingStar>Yellow</feedbackRatingStar>
-                <topRatedSeller>false</topRatedSeller>
-            </sellerInfo>
-            <shippingInfo>
-                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
-                <shippingType>Free</shippingType>
-                <shipToLocations>Worldwide</shipToLocations>
-                <expeditedShipping>false</expeditedShipping>
-                <oneDayShippingAvailable>false</oneDayShippingAvailable>
-                <handlingTime>1</handlingTime>
-            </shippingInfo>
-            <sellingStatus>
-                <currentPrice currencyId="USD">4.0</currentPrice>
-                <convertedCurrentPrice currencyId="USD">4.0</convertedCurrentPrice>
-                <sellingState>Active</sellingState>
-                <timeLeft>P0DT15H56M32S</timeLeft>
-            </sellingStatus>
-            <listingInfo>
-                <bestOfferEnabled>true</bestOfferEnabled>
-                <buyItNowAvailable>false</buyItNowAvailable>
-                <startTime>2020-03-21T20:32:34.000Z</startTime>
-                <endTime>2020-08-21T20:32:34.000Z</endTime>
-                <listingType>FixedPrice</listingType>
-                <gift>false</gift>
-                <watchCount>1</watchCount>
-            </listingInfo>
-            <returnsAccepted>false</returnsAccepted>
-            <isMultiVariationListing>false</isMultiVariationListing>
-            <topRatedListing>false</topRatedListing>
+            <topRatedListing>true</topRatedListing>
         </item>
         <item>
             <itemId>254611902327</itemId>
@@ -1367,7 +1161,7 @@
                 <currentPrice currencyId="USD">4.0</currentPrice>
                 <convertedCurrentPrice currencyId="USD">4.0</convertedCurrentPrice>
                 <sellingState>Active</sellingState>
-                <timeLeft>P8DT17H25M52S</timeLeft>
+                <timeLeft>P5DT17H25M18S</timeLeft>
             </sellingStatus>
             <listingInfo>
                 <bestOfferEnabled>true</bestOfferEnabled>
@@ -1405,7 +1199,7 @@
             <sellerInfo>
                 <sellerUserName>valleys_books_andmore</sellerUserName>
                 <feedbackScore>87165</feedbackScore>
-                <positiveFeedbackPercent>99.7</positiveFeedbackPercent>
+                <positiveFeedbackPercent>99.6</positiveFeedbackPercent>
                 <feedbackRatingStar>PurpleShooting</feedbackRatingStar>
                 <topRatedSeller>true</topRatedSeller>
             </sellerInfo>
@@ -1421,7 +1215,7 @@
                 <currentPrice currencyId="USD">4.0</currentPrice>
                 <convertedCurrentPrice currencyId="USD">4.0</convertedCurrentPrice>
                 <sellingState>Active</sellingState>
-                <timeLeft>P28DT13H21M46S</timeLeft>
+                <timeLeft>P25DT13H21M12S</timeLeft>
             </sellingStatus>
             <listingInfo>
                 <bestOfferEnabled>false</bestOfferEnabled>
@@ -1440,26 +1234,77 @@
             <topRatedListing>false</topRatedListing>
         </item>
         <item>
-            <itemId>353153055013</itemId>
-            <title>Harry Potter and the Half-Blood Prince [Single-Disc Full Screen Edition]</title>
+            <itemId>402176634940</itemId>
+            <title>Harry Potter and the Half-Blood Prince (pdf sent via email)</title>
             <globalId>EBAY-US</globalId>
             <primaryCategory>
-                <categoryId>617</categoryId>
-                <categoryName>DVDs &amp; Blu-ray Discs</categoryName>
+                <categoryId>88433</categoryId>
+                <categoryName>Every Other Thing</categoryName>
             </primaryCategory>
-            <galleryURL>https://thumbs2.ebaystatic.com/m/mLadlSg7CnxzmxAQ-nmKiKw/140.jpg</galleryURL>
-            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-Single-Disc-Full-Screen-Edition-/353153055013</viewItemURL>
-            <productId type="ReferenceID">78421866</productId>
-            <autoPay>true</autoPay>
-            <postalCode>802**</postalCode>
-            <location>Denver,CO,USA</location>
+            <galleryURL>https://thumbs1.ebaystatic.com/m/m6rIdMdGXiMSML89qfBS3dA/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-pdf-sent-via-email-/402176634940</viewItemURL>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>false</autoPay>
+            <postalCode>100**</postalCode>
+            <location>New York,NY,USA</location>
             <country>US</country>
             <sellerInfo>
-                <sellerUserName>dreambooks_co</sellerUserName>
-                <feedbackScore>112569</feedbackScore>
-                <positiveFeedbackPercent>98.9</positiveFeedbackPercent>
-                <feedbackRatingStar>RedShooting</feedbackRatingStar>
+                <sellerUserName>jackbooks</sellerUserName>
+                <feedbackScore>23</feedbackScore>
+                <positiveFeedbackPercent>92.9</positiveFeedbackPercent>
+                <feedbackRatingStar>Yellow</feedbackRatingStar>
                 <topRatedSeller>false</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+                <shippingType>Free</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>false</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>1</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">4.0</currentPrice>
+                <convertedCurrentPrice currencyId="USD">4.0</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P28DT15H55M58S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>true</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-03-21T20:32:34.000Z</startTime>
+                <endTime>2020-09-21T20:32:34.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+                <watchCount>1</watchCount>
+            </listingInfo>
+            <returnsAccepted>false</returnsAccepted>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>193622071697</itemId>
+            <title>Harry Potter and the Half-Blood Prince [Book 6]</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs2.ebaystatic.com/m/mMplbsBt_WKDf8BIaK9Koeg/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-Book-6-/193622071697</viewItemURL>
+            <charityId>112675</charityId>
+            <productId type="ReferenceID">48045670</productId>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>true</autoPay>
+            <postalCode>462**</postalCode>
+            <location>Indianapolis,IN,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>clickgoodwillbooks</sellerUserName>
+                <feedbackScore>563826</feedbackScore>
+                <positiveFeedbackPercent>99.8</positiveFeedbackPercent>
+                <feedbackRatingStar>RedShooting</feedbackRatingStar>
+                <topRatedSeller>true</topRatedSeller>
             </sellerInfo>
             <shippingInfo>
                 <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
@@ -1467,21 +1312,22 @@
                 <shipToLocations>Worldwide</shipToLocations>
                 <expeditedShipping>true</expeditedShipping>
                 <oneDayShippingAvailable>false</oneDayShippingAvailable>
-                <handlingTime>2</handlingTime>
+                <handlingTime>3</handlingTime>
             </shippingInfo>
             <sellingStatus>
-                <currentPrice currencyId="USD">4.06</currentPrice>
-                <convertedCurrentPrice currencyId="USD">4.06</convertedCurrentPrice>
+                <currentPrice currencyId="USD">4.08</currentPrice>
+                <convertedCurrentPrice currencyId="USD">4.08</convertedCurrentPrice>
                 <sellingState>Active</sellingState>
-                <timeLeft>P7DT14H0M36S</timeLeft>
+                <timeLeft>P19DT14H50M53S</timeLeft>
             </sellingStatus>
             <listingInfo>
                 <bestOfferEnabled>false</bestOfferEnabled>
                 <buyItNowAvailable>false</buyItNowAvailable>
-                <startTime>2020-07-28T18:36:38.000Z</startTime>
-                <endTime>2020-08-28T18:36:38.000Z</endTime>
+                <startTime>2020-08-12T19:27:29.000Z</startTime>
+                <endTime>2020-09-12T19:27:29.000Z</endTime>
                 <listingType>FixedPrice</listingType>
                 <gift>false</gift>
+                <watchCount>1</watchCount>
             </listingInfo>
             <returnsAccepted>true</returnsAccepted>
             <condition>
@@ -1490,110 +1336,6 @@
             </condition>
             <isMultiVariationListing>false</isMultiVariationListing>
             <topRatedListing>false</topRatedListing>
-        </item>
-        <item>
-            <itemId>373123757528</itemId>
-            <title>Harry Potter and the Half-Blood Prince (Widescreen Edition)</title>
-            <globalId>EBAY-US</globalId>
-            <subtitle>by  | Acceptable</subtitle>
-            <primaryCategory>
-                <categoryId>171228</categoryId>
-                <categoryName>Fiction &amp; Literature</categoryName>
-            </primaryCategory>
-            <galleryURL>https://thumbs1.ebaystatic.com/m/m4cza6JSzLNDk_FfByIq3kQ/140.jpg</galleryURL>
-            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-Widescreen-Edition-/373123757528</viewItemURL>
-            <autoPay>true</autoPay>
-            <postalCode>605**</postalCode>
-            <location>Aurora,IL,USA</location>
-            <country>US</country>
-            <sellerInfo>
-                <sellerUserName>thrift.books</sellerUserName>
-                <feedbackScore>2256184</feedbackScore>
-                <positiveFeedbackPercent>99.4</positiveFeedbackPercent>
-                <feedbackRatingStar>RedShooting</feedbackRatingStar>
-                <topRatedSeller>true</topRatedSeller>
-            </sellerInfo>
-            <shippingInfo>
-                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
-                <shippingType>Free</shippingType>
-                <shipToLocations>Worldwide</shipToLocations>
-                <expeditedShipping>true</expeditedShipping>
-                <oneDayShippingAvailable>false</oneDayShippingAvailable>
-                <handlingTime>1</handlingTime>
-            </shippingInfo>
-            <sellingStatus>
-                <currentPrice currencyId="USD">4.09</currentPrice>
-                <convertedCurrentPrice currencyId="USD">4.09</convertedCurrentPrice>
-                <sellingState>Active</sellingState>
-                <timeLeft>P1DT21H9M11S</timeLeft>
-            </sellingStatus>
-            <listingInfo>
-                <bestOfferEnabled>false</bestOfferEnabled>
-                <buyItNowAvailable>false</buyItNowAvailable>
-                <startTime>2020-07-23T01:45:13.000Z</startTime>
-                <endTime>2020-08-23T01:45:13.000Z</endTime>
-                <listingType>FixedPrice</listingType>
-                <gift>false</gift>
-            </listingInfo>
-            <returnsAccepted>true</returnsAccepted>
-            <condition>
-                <conditionId>6000</conditionId>
-                <conditionDisplayName>Acceptable</conditionDisplayName>
-            </condition>
-            <isMultiVariationListing>false</isMultiVariationListing>
-            <topRatedListing>true</topRatedListing>
-        </item>
-        <item>
-            <itemId>143612969410</itemId>
-            <title>Harry Potter and the Half-Blood Prince by Rowling, J. K.</title>
-            <globalId>EBAY-US</globalId>
-            <subtitle>by Rowling, J. K. | HC | Acceptable</subtitle>
-            <primaryCategory>
-                <categoryId>171228</categoryId>
-                <categoryName>Fiction &amp; Literature</categoryName>
-            </primaryCategory>
-            <galleryURL>https://thumbs3.ebaystatic.com/m/m0UcZSlO8-YAeiiaFoP7jtw/140.jpg</galleryURL>
-            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-Rowling-J-K-/143612969410</viewItemURL>
-            <autoPay>true</autoPay>
-            <postalCode>605**</postalCode>
-            <location>Aurora,IL,USA</location>
-            <country>US</country>
-            <sellerInfo>
-                <sellerUserName>thrift.books</sellerUserName>
-                <feedbackScore>2257196</feedbackScore>
-                <positiveFeedbackPercent>99.4</positiveFeedbackPercent>
-                <feedbackRatingStar>RedShooting</feedbackRatingStar>
-                <topRatedSeller>true</topRatedSeller>
-            </sellerInfo>
-            <shippingInfo>
-                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
-                <shippingType>Free</shippingType>
-                <shipToLocations>Worldwide</shipToLocations>
-                <expeditedShipping>true</expeditedShipping>
-                <oneDayShippingAvailable>false</oneDayShippingAvailable>
-                <handlingTime>1</handlingTime>
-            </shippingInfo>
-            <sellingStatus>
-                <currentPrice currencyId="USD">4.09</currentPrice>
-                <convertedCurrentPrice currencyId="USD">4.09</convertedCurrentPrice>
-                <sellingState>Active</sellingState>
-                <timeLeft>P2DT11H53M11S</timeLeft>
-            </sellingStatus>
-            <listingInfo>
-                <bestOfferEnabled>false</bestOfferEnabled>
-                <buyItNowAvailable>false</buyItNowAvailable>
-                <startTime>2020-05-23T16:29:13.000Z</startTime>
-                <endTime>2020-08-23T16:29:13.000Z</endTime>
-                <listingType>FixedPrice</listingType>
-                <gift>false</gift>
-            </listingInfo>
-            <returnsAccepted>true</returnsAccepted>
-            <condition>
-                <conditionId>6000</conditionId>
-                <conditionDisplayName>Acceptable</conditionDisplayName>
-            </condition>
-            <isMultiVariationListing>false</isMultiVariationListing>
-            <topRatedListing>true</topRatedListing>
         </item>
         <item>
             <itemId>143591999146</itemId>
@@ -1612,7 +1354,7 @@
             <country>US</country>
             <sellerInfo>
                 <sellerUserName>thrift.books</sellerUserName>
-                <feedbackScore>2248283</feedbackScore>
+                <feedbackScore>2260561</feedbackScore>
                 <positiveFeedbackPercent>99.4</positiveFeedbackPercent>
                 <feedbackRatingStar>RedShooting</feedbackRatingStar>
                 <topRatedSeller>true</topRatedSeller>
@@ -1629,7 +1371,7 @@
                 <currentPrice currencyId="USD">4.09</currentPrice>
                 <convertedCurrentPrice currencyId="USD">4.09</convertedCurrentPrice>
                 <sellingState>Active</sellingState>
-                <timeLeft>P8DT1H41M45S</timeLeft>
+                <timeLeft>P5DT1H41M11S</timeLeft>
             </sellingStatus>
             <listingInfo>
                 <bestOfferEnabled>false</bestOfferEnabled>
@@ -1648,23 +1390,23 @@
             <topRatedListing>true</topRatedListing>
         </item>
         <item>
-            <itemId>373014519711</itemId>
-            <title>Harry Potter and the Half-Blood Prince (Widescreen Edition)</title>
+            <itemId>373134465068</itemId>
+            <title>Harry Potter and the Half-Blood Prince by Rowling, J. K.</title>
             <globalId>EBAY-US</globalId>
-            <subtitle>by  | Good</subtitle>
+            <subtitle>by Rowling, J. K. | HC | Acceptable</subtitle>
             <primaryCategory>
                 <categoryId>171228</categoryId>
                 <categoryName>Fiction &amp; Literature</categoryName>
             </primaryCategory>
-            <galleryURL>https://thumbs4.ebaystatic.com/m/m4cza6JSzLNDk_FfByIq3kQ/140.jpg</galleryURL>
-            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-Widescreen-Edition-/373014519711</viewItemURL>
+            <galleryURL>https://thumbs1.ebaystatic.com/m/m0UcZSlO8-YAeiiaFoP7jtw/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-Rowling-J-K-/373134465068</viewItemURL>
             <autoPay>true</autoPay>
             <postalCode>605**</postalCode>
             <location>Aurora,IL,USA</location>
             <country>US</country>
             <sellerInfo>
                 <sellerUserName>thrift.books</sellerUserName>
-                <feedbackScore>2244877</feedbackScore>
+                <feedbackScore>2257674</feedbackScore>
                 <positiveFeedbackPercent>99.4</positiveFeedbackPercent>
                 <feedbackRatingStar>RedShooting</feedbackRatingStar>
                 <topRatedSeller>true</topRatedSeller>
@@ -1681,20 +1423,72 @@
                 <currentPrice currencyId="USD">4.09</currentPrice>
                 <convertedCurrentPrice currencyId="USD">4.09</convertedCurrentPrice>
                 <sellingState>Active</sellingState>
-                <timeLeft>P17DT18H35M42S</timeLeft>
+                <timeLeft>P8DT17H8M51S</timeLeft>
             </sellingStatus>
             <listingInfo>
                 <bestOfferEnabled>false</bestOfferEnabled>
                 <buyItNowAvailable>false</buyItNowAvailable>
-                <startTime>2020-04-07T23:11:44.000Z</startTime>
-                <endTime>2020-09-07T23:11:44.000Z</endTime>
+                <startTime>2020-08-01T21:45:27.000Z</startTime>
+                <endTime>2020-09-01T21:45:27.000Z</endTime>
                 <listingType>FixedPrice</listingType>
                 <gift>false</gift>
             </listingInfo>
             <returnsAccepted>true</returnsAccepted>
             <condition>
-                <conditionId>5000</conditionId>
-                <conditionDisplayName>Good</conditionDisplayName>
+                <conditionId>6000</conditionId>
+                <conditionDisplayName>Acceptable</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>true</topRatedListing>
+        </item>
+        <item>
+            <itemId>373123757528</itemId>
+            <title>Harry Potter and the Half-Blood Prince (Widescreen Edition)</title>
+            <globalId>EBAY-US</globalId>
+            <subtitle>by  | Acceptable</subtitle>
+            <primaryCategory>
+                <categoryId>171228</categoryId>
+                <categoryName>Fiction &amp; Literature</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs1.ebaystatic.com/m/m4cza6JSzLNDk_FfByIq3kQ/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-Widescreen-Edition-/373123757528</viewItemURL>
+            <autoPay>true</autoPay>
+            <postalCode>605**</postalCode>
+            <location>Aurora,IL,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>thrift.books</sellerUserName>
+                <feedbackScore>2260150</feedbackScore>
+                <positiveFeedbackPercent>99.4</positiveFeedbackPercent>
+                <feedbackRatingStar>RedShooting</feedbackRatingStar>
+                <topRatedSeller>true</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+                <shippingType>Free</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>true</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>1</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">4.09</currentPrice>
+                <convertedCurrentPrice currencyId="USD">4.09</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P29DT21H8M37S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>false</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-07-23T01:45:13.000Z</startTime>
+                <endTime>2020-09-23T01:45:13.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>true</returnsAccepted>
+            <condition>
+                <conditionId>6000</conditionId>
+                <conditionDisplayName>Acceptable</conditionDisplayName>
             </condition>
             <isMultiVariationListing>false</isMultiVariationListing>
             <topRatedListing>true</topRatedListing>
@@ -1733,7 +1527,7 @@
                 <currentPrice currencyId="USD">1.25</currentPrice>
                 <convertedCurrentPrice currencyId="USD">1.25</convertedCurrentPrice>
                 <sellingState>Active</sellingState>
-                <timeLeft>P26DT2H59M59S</timeLeft>
+                <timeLeft>P23DT2H59M25S</timeLeft>
             </sellingStatus>
             <listingInfo>
                 <bestOfferEnabled>false</bestOfferEnabled>
@@ -1769,7 +1563,7 @@
             <country>US</country>
             <sellerInfo>
                 <sellerUserName>thrift.books</sellerUserName>
-                <feedbackScore>2257352</feedbackScore>
+                <feedbackScore>2261208</feedbackScore>
                 <positiveFeedbackPercent>99.4</positiveFeedbackPercent>
                 <feedbackRatingStar>RedShooting</feedbackRatingStar>
                 <topRatedSeller>true</topRatedSeller>
@@ -1786,7 +1580,7 @@
                 <currentPrice currencyId="USD">4.14</currentPrice>
                 <convertedCurrentPrice currencyId="USD">4.14</convertedCurrentPrice>
                 <sellingState>Active</sellingState>
-                <timeLeft>P7DT0H7M48S</timeLeft>
+                <timeLeft>P4DT0H7M14S</timeLeft>
             </sellingStatus>
             <listingInfo>
                 <bestOfferEnabled>false</bestOfferEnabled>
@@ -1795,7 +1589,7 @@
                 <endTime>2020-08-28T04:43:50.000Z</endTime>
                 <listingType>FixedPrice</listingType>
                 <gift>false</gift>
-                <watchCount>30</watchCount>
+                <watchCount>29</watchCount>
             </listingInfo>
             <returnsAccepted>true</returnsAccepted>
             <condition>
@@ -1823,7 +1617,7 @@
             <country>US</country>
             <sellerInfo>
                 <sellerUserName>thrift.books</sellerUserName>
-                <feedbackScore>2256651</feedbackScore>
+                <feedbackScore>2260782</feedbackScore>
                 <positiveFeedbackPercent>99.4</positiveFeedbackPercent>
                 <feedbackRatingStar>RedShooting</feedbackRatingStar>
                 <topRatedSeller>true</topRatedSeller>
@@ -1840,7 +1634,7 @@
                 <currentPrice currencyId="USD">4.14</currentPrice>
                 <convertedCurrentPrice currencyId="USD">4.14</convertedCurrentPrice>
                 <sellingState>Active</sellingState>
-                <timeLeft>P7DT12H13M47S</timeLeft>
+                <timeLeft>P4DT12H13M13S</timeLeft>
             </sellingStatus>
             <listingInfo>
                 <bestOfferEnabled>false</bestOfferEnabled>
@@ -1849,172 +1643,12 @@
                 <endTime>2020-08-28T16:49:49.000Z</endTime>
                 <listingType>FixedPrice</listingType>
                 <gift>false</gift>
-                <watchCount>10</watchCount>
+                <watchCount>13</watchCount>
             </listingInfo>
             <returnsAccepted>true</returnsAccepted>
             <condition>
                 <conditionId>6000</conditionId>
                 <conditionDisplayName>Acceptable</conditionDisplayName>
-            </condition>
-            <isMultiVariationListing>false</isMultiVariationListing>
-            <topRatedListing>true</topRatedListing>
-        </item>
-        <item>
-            <itemId>193322950315</itemId>
-            <title>Harry Potter and the Half-Blood Prince (Book 6) by Rowling, J. K.</title>
-            <globalId>EBAY-US</globalId>
-            <subtitle>by Rowling, J. K. | HC | Good</subtitle>
-            <primaryCategory>
-                <categoryId>171219</categoryId>
-                <categoryName>Children &amp; YA Fiction</categoryName>
-            </primaryCategory>
-            <galleryURL>https://thumbs4.ebaystatic.com/m/mZoDouNjvBTWM3T8mNqjhgw/140.jpg</galleryURL>
-            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-Book-6-Rowling-J-K-/193322950315</viewItemURL>
-            <productId type="ReferenceID">44462740</productId>
-            <autoPay>true</autoPay>
-            <postalCode>605**</postalCode>
-            <location>Aurora,IL,USA</location>
-            <country>US</country>
-            <sellerInfo>
-                <sellerUserName>thrift.books</sellerUserName>
-                <feedbackScore>2257260</feedbackScore>
-                <positiveFeedbackPercent>99.4</positiveFeedbackPercent>
-                <feedbackRatingStar>RedShooting</feedbackRatingStar>
-                <topRatedSeller>true</topRatedSeller>
-            </sellerInfo>
-            <shippingInfo>
-                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
-                <shippingType>Free</shippingType>
-                <shipToLocations>Worldwide</shipToLocations>
-                <expeditedShipping>true</expeditedShipping>
-                <oneDayShippingAvailable>false</oneDayShippingAvailable>
-                <handlingTime>1</handlingTime>
-            </shippingInfo>
-            <sellingStatus>
-                <currentPrice currencyId="USD">4.14</currentPrice>
-                <convertedCurrentPrice currencyId="USD">4.14</convertedCurrentPrice>
-                <sellingState>Active</sellingState>
-                <timeLeft>P7DT22H52M9S</timeLeft>
-            </sellingStatus>
-            <listingInfo>
-                <bestOfferEnabled>false</bestOfferEnabled>
-                <buyItNowAvailable>false</buyItNowAvailable>
-                <startTime>2020-01-29T03:28:11.000Z</startTime>
-                <endTime>2020-08-29T03:28:11.000Z</endTime>
-                <listingType>FixedPrice</listingType>
-                <gift>false</gift>
-                <watchCount>1</watchCount>
-            </listingInfo>
-            <returnsAccepted>true</returnsAccepted>
-            <condition>
-                <conditionId>5000</conditionId>
-                <conditionDisplayName>Good</conditionDisplayName>
-            </condition>
-            <isMultiVariationListing>false</isMultiVariationListing>
-            <topRatedListing>true</topRatedListing>
-        </item>
-        <item>
-            <itemId>143646387682</itemId>
-            <title>Harry Potter and the Half-Blood Prince (Two-Disc Special Edition)</title>
-            <globalId>EBAY-US</globalId>
-            <subtitle>by  | Acceptable</subtitle>
-            <primaryCategory>
-                <categoryId>171228</categoryId>
-                <categoryName>Fiction &amp; Literature</categoryName>
-            </primaryCategory>
-            <galleryURL>https://thumbs3.ebaystatic.com/m/ml7yxA3o-YRNhhDyKgH5-Iw/140.jpg</galleryURL>
-            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-Two-Disc-Special-Edition-/143646387682</viewItemURL>
-            <autoPay>true</autoPay>
-            <postalCode>605**</postalCode>
-            <location>Aurora,IL,USA</location>
-            <country>US</country>
-            <sellerInfo>
-                <sellerUserName>thrift.books</sellerUserName>
-                <feedbackScore>2229320</feedbackScore>
-                <positiveFeedbackPercent>99.4</positiveFeedbackPercent>
-                <feedbackRatingStar>RedShooting</feedbackRatingStar>
-                <topRatedSeller>true</topRatedSeller>
-            </sellerInfo>
-            <shippingInfo>
-                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
-                <shippingType>Free</shippingType>
-                <shipToLocations>Worldwide</shipToLocations>
-                <expeditedShipping>true</expeditedShipping>
-                <oneDayShippingAvailable>false</oneDayShippingAvailable>
-                <handlingTime>1</handlingTime>
-            </shippingInfo>
-            <sellingStatus>
-                <currentPrice currencyId="USD">4.14</currentPrice>
-                <convertedCurrentPrice currencyId="USD">4.14</convertedCurrentPrice>
-                <sellingState>Active</sellingState>
-                <timeLeft>P9DT21H5M14S</timeLeft>
-            </sellingStatus>
-            <listingInfo>
-                <bestOfferEnabled>false</bestOfferEnabled>
-                <buyItNowAvailable>false</buyItNowAvailable>
-                <startTime>2020-07-01T01:41:16.000Z</startTime>
-                <endTime>2020-08-31T01:41:16.000Z</endTime>
-                <listingType>FixedPrice</listingType>
-                <gift>false</gift>
-            </listingInfo>
-            <returnsAccepted>true</returnsAccepted>
-            <condition>
-                <conditionId>6000</conditionId>
-                <conditionDisplayName>Acceptable</conditionDisplayName>
-            </condition>
-            <isMultiVariationListing>false</isMultiVariationListing>
-            <topRatedListing>true</topRatedListing>
-        </item>
-        <item>
-            <itemId>193469066231</itemId>
-            <title>Harry Potter and the Half-Blood Prince (Book 6) by Rowling, J. K.</title>
-            <globalId>EBAY-US</globalId>
-            <subtitle>by Rowling, J. K. | HC | VeryGood</subtitle>
-            <primaryCategory>
-                <categoryId>171219</categoryId>
-                <categoryName>Children &amp; YA Fiction</categoryName>
-            </primaryCategory>
-            <galleryURL>https://thumbs4.ebaystatic.com/m/mZoDouNjvBTWM3T8mNqjhgw/140.jpg</galleryURL>
-            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-Book-6-Rowling-J-K-/193469066231</viewItemURL>
-            <productId type="ReferenceID">44462740</productId>
-            <autoPay>true</autoPay>
-            <postalCode>605**</postalCode>
-            <location>Aurora,IL,USA</location>
-            <country>US</country>
-            <sellerInfo>
-                <sellerUserName>thrift.books</sellerUserName>
-                <feedbackScore>2257346</feedbackScore>
-                <positiveFeedbackPercent>99.4</positiveFeedbackPercent>
-                <feedbackRatingStar>RedShooting</feedbackRatingStar>
-                <topRatedSeller>true</topRatedSeller>
-            </sellerInfo>
-            <shippingInfo>
-                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
-                <shippingType>Free</shippingType>
-                <shipToLocations>Worldwide</shipToLocations>
-                <expeditedShipping>true</expeditedShipping>
-                <oneDayShippingAvailable>false</oneDayShippingAvailable>
-                <handlingTime>1</handlingTime>
-            </shippingInfo>
-            <sellingStatus>
-                <currentPrice currencyId="USD">4.14</currentPrice>
-                <convertedCurrentPrice currencyId="USD">4.14</convertedCurrentPrice>
-                <sellingState>Active</sellingState>
-                <timeLeft>P26DT21H57M51S</timeLeft>
-            </sellingStatus>
-            <listingInfo>
-                <bestOfferEnabled>false</bestOfferEnabled>
-                <buyItNowAvailable>false</buyItNowAvailable>
-                <startTime>2020-05-17T02:33:53.000Z</startTime>
-                <endTime>2020-09-17T02:33:53.000Z</endTime>
-                <listingType>FixedPrice</listingType>
-                <gift>false</gift>
-                <watchCount>2</watchCount>
-            </listingInfo>
-            <returnsAccepted>true</returnsAccepted>
-            <condition>
-                <conditionId>4000</conditionId>
-                <conditionDisplayName>Very Good</conditionDisplayName>
             </condition>
             <isMultiVariationListing>false</isMultiVariationListing>
             <topRatedListing>true</topRatedListing>
@@ -2053,7 +1687,7 @@
                 <currentPrice currencyId="USD">4.15</currentPrice>
                 <convertedCurrentPrice currencyId="USD">4.15</convertedCurrentPrice>
                 <sellingState>Active</sellingState>
-                <timeLeft>P4DT5H27M32S</timeLeft>
+                <timeLeft>P1DT5H26M58S</timeLeft>
             </sellingStatus>
             <listingInfo>
                 <bestOfferEnabled>false</bestOfferEnabled>
@@ -2072,24 +1706,26 @@
             <topRatedListing>true</topRatedListing>
         </item>
         <item>
-            <itemId>293699249475</itemId>
-            <title>Harry Potter and the Half-Blood Prince (Book 6)</title>
+            <itemId>313172945361</itemId>
+            <title>Harry Potter and the Half-Blood Prince</title>
             <globalId>EBAY-US</globalId>
             <primaryCategory>
                 <categoryId>171219</categoryId>
                 <categoryName>Children &amp; YA Fiction</categoryName>
             </primaryCategory>
-            <galleryURL>https://thumbs4.ebaystatic.com/m/mMplbsBt_WKDf8BIaK9Koeg/140.jpg</galleryURL>
-            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-Book-6-/293699249475</viewItemURL>
-            <productId type="ReferenceID">48045670</productId>
-            <autoPay>false</autoPay>
-            <location>USA</location>
+            <galleryURL>https://thumbs2.ebaystatic.com/m/mcOxHfmxWAcp9Pxgx80w4LA/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-/313172945361</viewItemURL>
+            <charityId>112675</charityId>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>true</autoPay>
+            <postalCode>462**</postalCode>
+            <location>Indianapolis,IN,USA</location>
             <country>US</country>
             <sellerInfo>
-                <sellerUserName>gulfcoastllc</sellerUserName>
-                <feedbackScore>84983</feedbackScore>
-                <positiveFeedbackPercent>99.2</positiveFeedbackPercent>
-                <feedbackRatingStar>PurpleShooting</feedbackRatingStar>
+                <sellerUserName>clickgoodwillbooks</sellerUserName>
+                <feedbackScore>563882</feedbackScore>
+                <positiveFeedbackPercent>99.8</positiveFeedbackPercent>
+                <feedbackRatingStar>RedShooting</feedbackRatingStar>
                 <topRatedSeller>true</topRatedSeller>
             </sellerInfo>
             <shippingInfo>
@@ -2098,79 +1734,26 @@
                 <shipToLocations>Worldwide</shipToLocations>
                 <expeditedShipping>true</expeditedShipping>
                 <oneDayShippingAvailable>false</oneDayShippingAvailable>
-                <handlingTime>2</handlingTime>
+                <handlingTime>3</handlingTime>
             </shippingInfo>
             <sellingStatus>
-                <currentPrice currencyId="USD">4.15</currentPrice>
-                <convertedCurrentPrice currencyId="USD">4.15</convertedCurrentPrice>
+                <currentPrice currencyId="USD">4.23</currentPrice>
+                <convertedCurrentPrice currencyId="USD">4.23</convertedCurrentPrice>
                 <sellingState>Active</sellingState>
-                <timeLeft>P30DT20H1M6S</timeLeft>
+                <timeLeft>P12DT8H18M7S</timeLeft>
             </sellingStatus>
             <listingInfo>
                 <bestOfferEnabled>false</bestOfferEnabled>
                 <buyItNowAvailable>false</buyItNowAvailable>
-                <startTime>2020-08-21T00:37:08.000Z</startTime>
-                <endTime>2020-09-21T00:37:08.000Z</endTime>
+                <startTime>2020-08-05T12:54:43.000Z</startTime>
+                <endTime>2020-09-05T12:54:43.000Z</endTime>
                 <listingType>FixedPrice</listingType>
                 <gift>false</gift>
             </listingInfo>
             <returnsAccepted>true</returnsAccepted>
             <condition>
-                <conditionId>4000</conditionId>
-                <conditionDisplayName>Very Good</conditionDisplayName>
-            </condition>
-            <isMultiVariationListing>false</isMultiVariationListing>
-            <topRatedListing>false</topRatedListing>
-        </item>
-        <item>
-            <itemId>164336055686</itemId>
-            <title>Harry Potter and the Half-Blood Prince (DVD, 2009, WS)</title>
-            <globalId>EBAY-US</globalId>
-            <primaryCategory>
-                <categoryId>617</categoryId>
-                <categoryName>DVDs &amp; Blu-ray Discs</categoryName>
-            </primaryCategory>
-            <galleryURL>https://thumbs3.ebaystatic.com/m/mV6MP2QO-bfVI8iy8RRcKQA/140.jpg</galleryURL>
-            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-DVD-2009-WS-/164336055686</viewItemURL>
-            <productId type="ReferenceID">78413115</productId>
-            <autoPay>false</autoPay>
-            <postalCode>349**</postalCode>
-            <location>Stuart,FL,USA</location>
-            <country>US</country>
-            <sellerInfo>
-                <sellerUserName>hagglersllc</sellerUserName>
-                <feedbackScore>4623</feedbackScore>
-                <positiveFeedbackPercent>98.3</positiveFeedbackPercent>
-                <feedbackRatingStar>Red</feedbackRatingStar>
-                <topRatedSeller>false</topRatedSeller>
-            </sellerInfo>
-            <shippingInfo>
-                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
-                <shippingType>Free</shippingType>
-                <shipToLocations>Worldwide</shipToLocations>
-                <expeditedShipping>false</expeditedShipping>
-                <oneDayShippingAvailable>false</oneDayShippingAvailable>
-                <handlingTime>1</handlingTime>
-            </shippingInfo>
-            <sellingStatus>
-                <currentPrice currencyId="USD">4.16</currentPrice>
-                <convertedCurrentPrice currencyId="USD">4.16</convertedCurrentPrice>
-                <sellingState>Active</sellingState>
-                <timeLeft>P23DT12H57M12S</timeLeft>
-            </sellingStatus>
-            <listingInfo>
-                <bestOfferEnabled>false</bestOfferEnabled>
-                <buyItNowAvailable>false</buyItNowAvailable>
-                <startTime>2020-08-13T17:33:14.000Z</startTime>
-                <endTime>2020-09-13T17:33:14.000Z</endTime>
-                <listingType>StoreInventory</listingType>
-                <gift>false</gift>
-                <watchCount>1</watchCount>
-            </listingInfo>
-            <returnsAccepted>false</returnsAccepted>
-            <condition>
-                <conditionId>4000</conditionId>
-                <conditionDisplayName>Very Good</conditionDisplayName>
+                <conditionId>6000</conditionId>
+                <conditionDisplayName>Acceptable</conditionDisplayName>
             </condition>
             <isMultiVariationListing>false</isMultiVariationListing>
             <topRatedListing>false</topRatedListing>
@@ -2191,7 +1774,7 @@
             <country>US</country>
             <sellerInfo>
                 <sellerUserName>jetset-modern</sellerUserName>
-                <feedbackScore>4852</feedbackScore>
+                <feedbackScore>4864</feedbackScore>
                 <positiveFeedbackPercent>99.9</positiveFeedbackPercent>
                 <feedbackRatingStar>Red</feedbackRatingStar>
                 <topRatedSeller>true</topRatedSeller>
@@ -2208,7 +1791,7 @@
                 <currentPrice currencyId="USD">1.0</currentPrice>
                 <convertedCurrentPrice currencyId="USD">1.0</convertedCurrentPrice>
                 <sellingState>Active</sellingState>
-                <timeLeft>P26DT8H58M19S</timeLeft>
+                <timeLeft>P23DT8H57M45S</timeLeft>
             </sellingStatus>
             <listingInfo>
                 <bestOfferEnabled>false</bestOfferEnabled>
@@ -2224,6 +1807,60 @@
                 <conditionDisplayName>Good</conditionDisplayName>
             </condition>
             <isMultiVariationListing>true</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>203077221198</itemId>
+            <title>HARRY POTTER AND THE HALF-BLOOD PRINCE DVD-*DISC ONLY*</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>617</categoryId>
+                <categoryName>DVDs &amp; Blu-ray Discs</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs3.ebaystatic.com/m/mdNsRh82jGqQmK0tIxwBZFQ/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/HARRY-POTTER-AND-HALF-BLOOD-PRINCE-DVD-DISC-ONLY-/203077221198</viewItemURL>
+            <productId type="ReferenceID">78384624</productId>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>true</autoPay>
+            <postalCode>921**</postalCode>
+            <location>San Diego,CA,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>vinyl_asylum</sellerUserName>
+                <feedbackScore>183375</feedbackScore>
+                <positiveFeedbackPercent>98.8</positiveFeedbackPercent>
+                <feedbackRatingStar>RedShooting</feedbackRatingStar>
+                <topRatedSeller>false</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+                <shippingType>Free</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>false</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>2</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">4.27</currentPrice>
+                <convertedCurrentPrice currencyId="USD">4.27</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P21DT14H47M7S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>false</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-08-14T19:23:43.000Z</startTime>
+                <endTime>2020-09-14T19:23:43.000Z</endTime>
+                <listingType>StoreInventory</listingType>
+                <gift>false</gift>
+                <watchCount>1</watchCount>
+            </listingInfo>
+            <returnsAccepted>true</returnsAccepted>
+            <condition>
+                <conditionId>5000</conditionId>
+                <conditionDisplayName>Good</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
             <topRatedListing>false</topRatedListing>
         </item>
         <item>
@@ -2262,7 +1899,7 @@
                 <currentPrice currencyId="USD">4.3</currentPrice>
                 <convertedCurrentPrice currencyId="USD">4.3</convertedCurrentPrice>
                 <sellingState>Active</sellingState>
-                <timeLeft>P17DT10H15M58S</timeLeft>
+                <timeLeft>P14DT10H15M24S</timeLeft>
             </sellingStatus>
             <listingInfo>
                 <bestOfferEnabled>false</bestOfferEnabled>
@@ -2271,167 +1908,6 @@
                 <endTime>2020-09-07T14:52:00.000Z</endTime>
                 <listingType>FixedPrice</listingType>
                 <gift>false</gift>
-            </listingInfo>
-            <returnsAccepted>false</returnsAccepted>
-            <condition>
-                <conditionId>5000</conditionId>
-                <conditionDisplayName>Good</conditionDisplayName>
-            </condition>
-            <isMultiVariationListing>false</isMultiVariationListing>
-            <topRatedListing>false</topRatedListing>
-        </item>
-        <item>
-            <itemId>193622071697</itemId>
-            <title>Harry Potter and the Half-Blood Prince [Book 6]</title>
-            <globalId>EBAY-US</globalId>
-            <primaryCategory>
-                <categoryId>171219</categoryId>
-                <categoryName>Children &amp; YA Fiction</categoryName>
-            </primaryCategory>
-            <galleryURL>https://thumbs2.ebaystatic.com/m/mMplbsBt_WKDf8BIaK9Koeg/140.jpg</galleryURL>
-            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-Book-6-/193622071697</viewItemURL>
-            <charityId>112675</charityId>
-            <productId type="ReferenceID">48045670</productId>
-            <paymentMethod>PayPal</paymentMethod>
-            <autoPay>true</autoPay>
-            <postalCode>462**</postalCode>
-            <location>Indianapolis,IN,USA</location>
-            <country>US</country>
-            <sellerInfo>
-                <sellerUserName>clickgoodwillbooks</sellerUserName>
-                <feedbackScore>563565</feedbackScore>
-                <positiveFeedbackPercent>99.8</positiveFeedbackPercent>
-                <feedbackRatingStar>RedShooting</feedbackRatingStar>
-                <topRatedSeller>true</topRatedSeller>
-            </sellerInfo>
-            <shippingInfo>
-                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
-                <shippingType>Free</shippingType>
-                <shipToLocations>Worldwide</shipToLocations>
-                <expeditedShipping>true</expeditedShipping>
-                <oneDayShippingAvailable>false</oneDayShippingAvailable>
-                <handlingTime>3</handlingTime>
-            </shippingInfo>
-            <sellingStatus>
-                <currentPrice currencyId="USD">4.31</currentPrice>
-                <convertedCurrentPrice currencyId="USD">4.31</convertedCurrentPrice>
-                <sellingState>Active</sellingState>
-                <timeLeft>P22DT14H51M27S</timeLeft>
-            </sellingStatus>
-            <listingInfo>
-                <bestOfferEnabled>false</bestOfferEnabled>
-                <buyItNowAvailable>false</buyItNowAvailable>
-                <startTime>2020-08-12T19:27:29.000Z</startTime>
-                <endTime>2020-09-12T19:27:29.000Z</endTime>
-                <listingType>FixedPrice</listingType>
-                <gift>false</gift>
-            </listingInfo>
-            <returnsAccepted>true</returnsAccepted>
-            <condition>
-                <conditionId>6000</conditionId>
-                <conditionDisplayName>Acceptable</conditionDisplayName>
-            </condition>
-            <isMultiVariationListing>false</isMultiVariationListing>
-            <topRatedListing>false</topRatedListing>
-        </item>
-        <item>
-            <itemId>193526481324</itemId>
-            <title>Harry Potter and the Half-Blood Prince (Widescreen) (Bilingual French/English...</title>
-            <globalId>EBAY-US</globalId>
-            <subtitle>by  | Acceptable</subtitle>
-            <primaryCategory>
-                <categoryId>171228</categoryId>
-                <categoryName>Fiction &amp; Literature</categoryName>
-            </primaryCategory>
-            <galleryURL>https://thumbs1.ebaystatic.com/m/mXlqMyCMrtQUokrh4BMv-Gg/140.jpg</galleryURL>
-            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-Widescreen-Bilingual-French-English-/193526481324</viewItemURL>
-            <autoPay>true</autoPay>
-            <postalCode>605**</postalCode>
-            <location>Aurora,IL,USA</location>
-            <country>US</country>
-            <sellerInfo>
-                <sellerUserName>thrift.books</sellerUserName>
-                <feedbackScore>2255354</feedbackScore>
-                <positiveFeedbackPercent>99.4</positiveFeedbackPercent>
-                <feedbackRatingStar>RedShooting</feedbackRatingStar>
-                <topRatedSeller>true</topRatedSeller>
-            </sellerInfo>
-            <shippingInfo>
-                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
-                <shippingType>Free</shippingType>
-                <shipToLocations>Worldwide</shipToLocations>
-                <expeditedShipping>true</expeditedShipping>
-                <oneDayShippingAvailable>false</oneDayShippingAvailable>
-                <handlingTime>1</handlingTime>
-            </shippingInfo>
-            <sellingStatus>
-                <currentPrice currencyId="USD">4.35</currentPrice>
-                <convertedCurrentPrice currencyId="USD">4.35</convertedCurrentPrice>
-                <sellingState>Active</sellingState>
-                <timeLeft>P29DT17H6M49S</timeLeft>
-            </sellingStatus>
-            <listingInfo>
-                <bestOfferEnabled>false</bestOfferEnabled>
-                <buyItNowAvailable>false</buyItNowAvailable>
-                <startTime>2020-06-19T21:42:51.000Z</startTime>
-                <endTime>2020-09-19T21:42:51.000Z</endTime>
-                <listingType>FixedPrice</listingType>
-                <gift>false</gift>
-            </listingInfo>
-            <returnsAccepted>true</returnsAccepted>
-            <condition>
-                <conditionId>6000</conditionId>
-                <conditionDisplayName>Acceptable</conditionDisplayName>
-            </condition>
-            <isMultiVariationListing>false</isMultiVariationListing>
-            <topRatedListing>true</topRatedListing>
-        </item>
-        <item>
-            <itemId>363080476439</itemId>
-            <title>Harry Potter and the Half-Blood Prince [Book 6]</title>
-            <globalId>EBAY-US</globalId>
-            <primaryCategory>
-                <categoryId>171219</categoryId>
-                <categoryName>Children &amp; YA Fiction</categoryName>
-            </primaryCategory>
-            <galleryURL>https://thumbs4.ebaystatic.com/m/mMplbsBt_WKDf8BIaK9Koeg/140.jpg</galleryURL>
-            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-Book-6-/363080476439</viewItemURL>
-            <charityId>53018</charityId>
-            <productId type="ReferenceID">48045670</productId>
-            <paymentMethod>PayPal</paymentMethod>
-            <autoPay>true</autoPay>
-            <postalCode>328**</postalCode>
-            <location>Orlando,FL,USA</location>
-            <country>US</country>
-            <sellerInfo>
-                <sellerUserName>goodwillorlando</sellerUserName>
-                <feedbackScore>195367</feedbackScore>
-                <positiveFeedbackPercent>99.4</positiveFeedbackPercent>
-                <feedbackRatingStar>RedShooting</feedbackRatingStar>
-                <topRatedSeller>true</topRatedSeller>
-            </sellerInfo>
-            <shippingInfo>
-                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
-                <shippingType>Free</shippingType>
-                <shipToLocations>Worldwide</shipToLocations>
-                <expeditedShipping>true</expeditedShipping>
-                <oneDayShippingAvailable>false</oneDayShippingAvailable>
-                <handlingTime>4</handlingTime>
-            </shippingInfo>
-            <sellingStatus>
-                <currentPrice currencyId="USD">4.39</currentPrice>
-                <convertedCurrentPrice currencyId="USD">4.39</convertedCurrentPrice>
-                <sellingState>Active</sellingState>
-                <timeLeft>P29DT7H5M10S</timeLeft>
-            </sellingStatus>
-            <listingInfo>
-                <bestOfferEnabled>false</bestOfferEnabled>
-                <buyItNowAvailable>false</buyItNowAvailable>
-                <startTime>2020-08-19T11:41:12.000Z</startTime>
-                <endTime>2020-09-19T11:41:12.000Z</endTime>
-                <listingType>FixedPrice</listingType>
-                <gift>false</gift>
-                <watchCount>2</watchCount>
             </listingInfo>
             <returnsAccepted>false</returnsAccepted>
             <condition>
@@ -2475,7 +1951,7 @@
                 <currentPrice currencyId="USD">4.41</currentPrice>
                 <convertedCurrentPrice currencyId="USD">4.41</convertedCurrentPrice>
                 <sellingState>Active</sellingState>
-                <timeLeft>P24DT14H52M19S</timeLeft>
+                <timeLeft>P21DT14H51M45S</timeLeft>
             </sellingStatus>
             <listingInfo>
                 <bestOfferEnabled>false</bestOfferEnabled>
@@ -2494,106 +1970,594 @@
             <topRatedListing>false</topRatedListing>
         </item>
         <item>
-            <itemId>373134465068</itemId>
-            <title>Harry Potter and the Half-Blood Prince by Rowling, J. K.</title>
+            <itemId>373097488033</itemId>
+            <title>Harry Potter and the Half Blood Prince Promo Card 01</title>
             <globalId>EBAY-US</globalId>
-            <subtitle>by Rowling, J. K. | HC | Acceptable</subtitle>
             <primaryCategory>
-                <categoryId>171228</categoryId>
-                <categoryName>Fiction &amp; Literature</categoryName>
+                <categoryId>219</categoryId>
+                <categoryName>Other Non-Sport Card Merch</categoryName>
             </primaryCategory>
-            <galleryURL>https://thumbs1.ebaystatic.com/m/m0UcZSlO8-YAeiiaFoP7jtw/140.jpg</galleryURL>
-            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-Rowling-J-K-/373134465068</viewItemURL>
-            <autoPay>true</autoPay>
-            <postalCode>605**</postalCode>
-            <location>Aurora,IL,USA</location>
+            <galleryURL>https://thumbs2.ebaystatic.com/m/mcyFl-yroLdTTStK2hM-xIQ/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-Promo-Card-01-/373097488033</viewItemURL>
+            <autoPay>false</autoPay>
+            <postalCode>940**</postalCode>
+            <location>Redwood City,CA,USA</location>
             <country>US</country>
             <sellerInfo>
-                <sellerUserName>thrift.books</sellerUserName>
-                <feedbackScore>2256058</feedbackScore>
-                <positiveFeedbackPercent>99.4</positiveFeedbackPercent>
-                <feedbackRatingStar>RedShooting</feedbackRatingStar>
+                <sellerUserName>bobrrewak</sellerUserName>
+                <feedbackScore>45957</feedbackScore>
+                <positiveFeedbackPercent>100.0</positiveFeedbackPercent>
+                <feedbackRatingStar>TurquoiseShooting</feedbackRatingStar>
                 <topRatedSeller>true</topRatedSeller>
             </sellerInfo>
             <shippingInfo>
-                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
-                <shippingType>Free</shippingType>
+                <shippingServiceCost currencyId="USD">2.99</shippingServiceCost>
+                <shippingType>Flat</shippingType>
                 <shipToLocations>Worldwide</shipToLocations>
-                <expeditedShipping>true</expeditedShipping>
+                <expeditedShipping>false</expeditedShipping>
                 <oneDayShippingAvailable>false</oneDayShippingAvailable>
                 <handlingTime>1</handlingTime>
             </shippingInfo>
             <sellingStatus>
-                <currentPrice currencyId="USD">4.43</currentPrice>
-                <convertedCurrentPrice currencyId="USD">4.43</convertedCurrentPrice>
+                <currentPrice currencyId="USD">1.49</currentPrice>
+                <convertedCurrentPrice currencyId="USD">1.49</convertedCurrentPrice>
                 <sellingState>Active</sellingState>
-                <timeLeft>P11DT17H9M25S</timeLeft>
+                <timeLeft>P4DT21H44M22S</timeLeft>
             </sellingStatus>
             <listingInfo>
                 <bestOfferEnabled>false</bestOfferEnabled>
                 <buyItNowAvailable>false</buyItNowAvailable>
-                <startTime>2020-08-01T21:45:27.000Z</startTime>
-                <endTime>2020-09-01T21:45:27.000Z</endTime>
+                <startTime>2020-06-29T02:20:58.000Z</startTime>
+                <endTime>2020-08-29T02:20:58.000Z</endTime>
                 <listingType>FixedPrice</listingType>
                 <gift>false</gift>
             </listingInfo>
             <returnsAccepted>true</returnsAccepted>
             <condition>
-                <conditionId>6000</conditionId>
-                <conditionDisplayName>Acceptable</conditionDisplayName>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>New</conditionDisplayName>
             </condition>
             <isMultiVariationListing>false</isMultiVariationListing>
             <topRatedListing>true</topRatedListing>
         </item>
         <item>
-            <itemId>193557366952</itemId>
-            <title>Harry Potter and the Half-Blood Prince by Rowling, J. K.</title>
+            <itemId>373097493672</itemId>
+            <title>Harry Potter and the Half Blood Prince Promo Card 02</title>
             <globalId>EBAY-US</globalId>
-            <subtitle>by Rowling, J. K. | HC | Good</subtitle>
             <primaryCategory>
-                <categoryId>171228</categoryId>
-                <categoryName>Fiction &amp; Literature</categoryName>
+                <categoryId>219</categoryId>
+                <categoryName>Other Non-Sport Card Merch</categoryName>
             </primaryCategory>
-            <galleryURL>https://thumbs1.ebaystatic.com/m/m0UcZSlO8-YAeiiaFoP7jtw/140.jpg</galleryURL>
-            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-Rowling-J-K-/193557366952</viewItemURL>
-            <autoPay>true</autoPay>
-            <postalCode>605**</postalCode>
-            <location>Aurora,IL,USA</location>
+            <galleryURL>https://thumbs1.ebaystatic.com/m/mmXyxnDszdTLhhbow58GQig/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-Promo-Card-02-/373097493672</viewItemURL>
+            <autoPay>false</autoPay>
+            <postalCode>940**</postalCode>
+            <location>Redwood City,CA,USA</location>
             <country>US</country>
             <sellerInfo>
-                <sellerUserName>thrift.books</sellerUserName>
-                <feedbackScore>2256062</feedbackScore>
-                <positiveFeedbackPercent>99.4</positiveFeedbackPercent>
-                <feedbackRatingStar>RedShooting</feedbackRatingStar>
+                <sellerUserName>bobrrewak</sellerUserName>
+                <feedbackScore>45957</feedbackScore>
+                <positiveFeedbackPercent>100.0</positiveFeedbackPercent>
+                <feedbackRatingStar>TurquoiseShooting</feedbackRatingStar>
                 <topRatedSeller>true</topRatedSeller>
             </sellerInfo>
             <shippingInfo>
-                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
-                <shippingType>Free</shippingType>
+                <shippingServiceCost currencyId="USD">2.99</shippingServiceCost>
+                <shippingType>Flat</shippingType>
                 <shipToLocations>Worldwide</shipToLocations>
-                <expeditedShipping>true</expeditedShipping>
+                <expeditedShipping>false</expeditedShipping>
                 <oneDayShippingAvailable>false</oneDayShippingAvailable>
                 <handlingTime>1</handlingTime>
             </shippingInfo>
             <sellingStatus>
-                <currentPrice currencyId="USD">4.43</currentPrice>
-                <convertedCurrentPrice currencyId="USD">4.43</convertedCurrentPrice>
+                <currentPrice currencyId="USD">1.49</currentPrice>
+                <convertedCurrentPrice currencyId="USD">1.49</convertedCurrentPrice>
                 <sellingState>Active</sellingState>
-                <timeLeft>P17DT1H12M44S</timeLeft>
+                <timeLeft>P4DT21H52M29S</timeLeft>
             </sellingStatus>
             <listingInfo>
                 <bestOfferEnabled>false</bestOfferEnabled>
                 <buyItNowAvailable>false</buyItNowAvailable>
-                <startTime>2020-07-07T05:48:46.000Z</startTime>
-                <endTime>2020-09-07T05:48:46.000Z</endTime>
+                <startTime>2020-06-29T02:29:05.000Z</startTime>
+                <endTime>2020-08-29T02:29:05.000Z</endTime>
                 <listingType>FixedPrice</listingType>
                 <gift>false</gift>
             </listingInfo>
             <returnsAccepted>true</returnsAccepted>
             <condition>
-                <conditionId>5000</conditionId>
-                <conditionDisplayName>Good</conditionDisplayName>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>New</conditionDisplayName>
             </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>true</topRatedListing>
+        </item>
+        <item>
+            <itemId>392407003838</itemId>
+            <title>Harry Potter and the Half Blood Prince Promo Card 03</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>219</categoryId>
+                <categoryName>Other Non-Sport Card Merch</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs3.ebaystatic.com/m/mdJlpRVlFruqC9jx63LsefQ/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-Promo-Card-03-/392407003838</viewItemURL>
+            <autoPay>false</autoPay>
+            <postalCode>940**</postalCode>
+            <location>Redwood City,CA,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>bobrrewak</sellerUserName>
+                <feedbackScore>45957</feedbackScore>
+                <positiveFeedbackPercent>100.0</positiveFeedbackPercent>
+                <feedbackRatingStar>TurquoiseShooting</feedbackRatingStar>
+                <topRatedSeller>true</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">2.99</shippingServiceCost>
+                <shippingType>Flat</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>false</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>1</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">1.49</currentPrice>
+                <convertedCurrentPrice currencyId="USD">1.49</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P7DT14H5M59S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>false</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2019-08-31T18:42:35.000Z</startTime>
+                <endTime>2020-08-31T18:42:35.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>true</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>true</topRatedListing>
+        </item>
+        <item>
+            <itemId>390493741435</itemId>
+            <title>HARRY POTTER AND &amp; THE HALF-BLOOD PRINCE UPDATE 2009 SDCC PROMO CARD SD08 PI</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>73570</categoryId>
+                <categoryName>Trading Card Singles</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs4.ebaystatic.com/m/mUzjzaJ6pQPbBcHKJnvAufg/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/HARRY-POTTER-AND-HALF-BLOOD-PRINCE-UPDATE-2009-SDCC-PROMO-CARD-SD08-PI-/390493741435</viewItemURL>
+            <paymentMethod>CashOnPickup</paymentMethod>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>false</autoPay>
+            <postalCode>928**</postalCode>
+            <location>Garden Grove,CA,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>juliosnonsportdepot</sellerUserName>
+                <feedbackScore>49744</feedbackScore>
+                <positiveFeedbackPercent>100.0</positiveFeedbackPercent>
+                <feedbackRatingStar>TurquoiseShooting</feedbackRatingStar>
+                <topRatedSeller>false</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+                <shippingType>Free</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>false</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>4</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">4.49</currentPrice>
+                <convertedCurrentPrice currencyId="USD">4.49</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P14DT20H11M6S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>false</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2012-11-08T00:47:42.000Z</startTime>
+                <endTime>2020-09-08T00:47:42.000Z</endTime>
+                <listingType>StoreInventory</listingType>
+                <gift>false</gift>
+                <watchCount>2</watchCount>
+            </listingInfo>
+            <returnsAccepted>true</returnsAccepted>
+            <galleryPlusPictureURL>https://galleryplus.ebayimg.com/ws/web/390493741435_1_2_1.jpg</galleryPlusPictureURL>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>164167132777</itemId>
+            <title>2009 Harry Potter and the Half-Blood Prince #2 Harry Potter</title>
+            <globalId>EBAY-US</globalId>
+            <subtitle>Burbank Sportscards - World�s Largest Selection</subtitle>
+            <primaryCategory>
+                <categoryId>219</categoryId>
+                <categoryName>Other Non-Sport Card Merch</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs2.ebaystatic.com/m/mdM09EmKliJ_tac08_Evanw/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/2009-Harry-Potter-and-Half-Blood-Prince-2-Harry-Potter-/164167132777</viewItemURL>
+            <autoPay>true</autoPay>
+            <postalCode>915**</postalCode>
+            <location>Burbank,CA,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>burbanksportscards</sellerUserName>
+                <feedbackScore>320902</feedbackScore>
+                <positiveFeedbackPercent>99.9</positiveFeedbackPercent>
+                <feedbackRatingStar>RedShooting</feedbackRatingStar>
+                <topRatedSeller>true</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">3.5</shippingServiceCost>
+                <shippingType>Flat</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>true</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>0</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">0.99</currentPrice>
+                <convertedCurrentPrice currencyId="USD">0.99</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P26DT18H9M5S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>false</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-04-19T22:45:41.000Z</startTime>
+                <endTime>2020-09-19T22:45:41.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>true</returnsAccepted>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>true</topRatedListing>
+        </item>
+        <item>
+            <itemId>164167132780</itemId>
+            <title>2009 Harry Potter and the Half-Blood Prince #22 The New Potions Professor</title>
+            <globalId>EBAY-US</globalId>
+            <subtitle>Burbank Sportscards - World�s Largest Selection</subtitle>
+            <primaryCategory>
+                <categoryId>219</categoryId>
+                <categoryName>Other Non-Sport Card Merch</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs1.ebaystatic.com/m/mIyG-gNhcCtVl7s3mAat6Fg/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/2009-Harry-Potter-and-Half-Blood-Prince-22-New-Potions-Professor-/164167132780</viewItemURL>
+            <autoPay>true</autoPay>
+            <postalCode>915**</postalCode>
+            <location>Burbank,CA,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>burbanksportscards</sellerUserName>
+                <feedbackScore>320902</feedbackScore>
+                <positiveFeedbackPercent>99.9</positiveFeedbackPercent>
+                <feedbackRatingStar>RedShooting</feedbackRatingStar>
+                <topRatedSeller>true</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">3.5</shippingServiceCost>
+                <shippingType>Flat</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>true</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>0</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">0.99</currentPrice>
+                <convertedCurrentPrice currencyId="USD">0.99</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P26DT18H9M5S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>false</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-04-19T22:45:41.000Z</startTime>
+                <endTime>2020-09-19T22:45:41.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>true</returnsAccepted>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>true</topRatedListing>
+        </item>
+        <item>
+            <itemId>362974923416</itemId>
+            <title>2009 Harry Potter and the Half-Blood Prince #49 The Competition</title>
+            <globalId>EBAY-US</globalId>
+            <subtitle>Burbank Sportscards - World�s Largest Selection</subtitle>
+            <primaryCategory>
+                <categoryId>219</categoryId>
+                <categoryName>Other Non-Sport Card Merch</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs1.ebaystatic.com/m/mCy4a8EYA-65WtQtokgnViw/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/2009-Harry-Potter-and-Half-Blood-Prince-49-Competition-/362974923416</viewItemURL>
+            <autoPay>true</autoPay>
+            <postalCode>915**</postalCode>
+            <location>Burbank,CA,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>burbanksportscards</sellerUserName>
+                <feedbackScore>320902</feedbackScore>
+                <positiveFeedbackPercent>99.9</positiveFeedbackPercent>
+                <feedbackRatingStar>RedShooting</feedbackRatingStar>
+                <topRatedSeller>true</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">3.5</shippingServiceCost>
+                <shippingType>Flat</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>true</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>0</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">0.99</currentPrice>
+                <convertedCurrentPrice currencyId="USD">0.99</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P26DT18H9M5S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>false</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-04-19T22:45:41.000Z</startTime>
+                <endTime>2020-09-19T22:45:41.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>true</returnsAccepted>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>true</topRatedListing>
+        </item>
+        <item>
+            <itemId>362974923424</itemId>
+            <title>2009 Harry Potter and the Half-Blood Prince #66 Don't Trust Me?</title>
+            <globalId>EBAY-US</globalId>
+            <subtitle>Burbank Sportscards - World�s Largest Selection</subtitle>
+            <primaryCategory>
+                <categoryId>219</categoryId>
+                <categoryName>Other Non-Sport Card Merch</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs1.ebaystatic.com/m/m1cXEMFKAorTT9FznC8LBzw/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/2009-Harry-Potter-and-Half-Blood-Prince-66-Dont-Trust-Me-/362974923424</viewItemURL>
+            <autoPay>true</autoPay>
+            <postalCode>915**</postalCode>
+            <location>Burbank,CA,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>burbanksportscards</sellerUserName>
+                <feedbackScore>320902</feedbackScore>
+                <positiveFeedbackPercent>99.9</positiveFeedbackPercent>
+                <feedbackRatingStar>RedShooting</feedbackRatingStar>
+                <topRatedSeller>true</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">3.5</shippingServiceCost>
+                <shippingType>Flat</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>true</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>0</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">0.99</currentPrice>
+                <convertedCurrentPrice currencyId="USD">0.99</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P26DT18H9M5S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>false</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-04-19T22:45:41.000Z</startTime>
+                <endTime>2020-09-19T22:45:41.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>true</returnsAccepted>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>true</topRatedListing>
+        </item>
+        <item>
+            <itemId>313058857895</itemId>
+            <title>2009 Harry Potter and the Half-Blood Prince #55 She Thinks You're the Chosen One</title>
+            <globalId>EBAY-US</globalId>
+            <subtitle>Burbank Sportscards - World�s Largest Selection</subtitle>
+            <primaryCategory>
+                <categoryId>219</categoryId>
+                <categoryName>Other Non-Sport Card Merch</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs4.ebaystatic.com/m/mZeo-mbq7bz1Q46IEwk232g/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/2009-Harry-Potter-and-Half-Blood-Prince-55-She-Thinks-Youre-Chosen-One-/313058857895</viewItemURL>
+            <autoPay>true</autoPay>
+            <postalCode>915**</postalCode>
+            <location>Burbank,CA,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>burbanksportscards</sellerUserName>
+                <feedbackScore>320902</feedbackScore>
+                <positiveFeedbackPercent>99.9</positiveFeedbackPercent>
+                <feedbackRatingStar>RedShooting</feedbackRatingStar>
+                <topRatedSeller>true</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">3.5</shippingServiceCost>
+                <shippingType>Flat</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>true</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>0</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">0.99</currentPrice>
+                <convertedCurrentPrice currencyId="USD">0.99</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P26DT18H9M6S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>false</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-04-19T22:45:42.000Z</startTime>
+                <endTime>2020-09-19T22:45:42.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>true</returnsAccepted>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>true</topRatedListing>
+        </item>
+        <item>
+            <itemId>362974923427</itemId>
+            <title>2009 Harry Potter and the Half-Blood Prince #72 The Map is Never Wrong</title>
+            <globalId>EBAY-US</globalId>
+            <subtitle>Burbank Sportscards - World�s Largest Selection</subtitle>
+            <primaryCategory>
+                <categoryId>219</categoryId>
+                <categoryName>Other Non-Sport Card Merch</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs4.ebaystatic.com/m/mdwNHlgWQy3UDi3mFfYZixA/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/2009-Harry-Potter-and-Half-Blood-Prince-72-Map-Never-Wrong-/362974923427</viewItemURL>
+            <autoPay>true</autoPay>
+            <postalCode>915**</postalCode>
+            <location>Burbank,CA,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>burbanksportscards</sellerUserName>
+                <feedbackScore>320902</feedbackScore>
+                <positiveFeedbackPercent>99.9</positiveFeedbackPercent>
+                <feedbackRatingStar>RedShooting</feedbackRatingStar>
+                <topRatedSeller>true</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">3.5</shippingServiceCost>
+                <shippingType>Flat</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>true</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>0</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">0.99</currentPrice>
+                <convertedCurrentPrice currencyId="USD">0.99</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P26DT18H9M6S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>false</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-04-19T22:45:42.000Z</startTime>
+                <endTime>2020-09-19T22:45:42.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>true</returnsAccepted>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>true</topRatedListing>
+        </item>
+        <item>
+            <itemId>362974923428</itemId>
+            <title>2009 Harry Potter and the Half-Blood Prince #85 On a Mission</title>
+            <globalId>EBAY-US</globalId>
+            <subtitle>Burbank Sportscards - World�s Largest Selection</subtitle>
+            <primaryCategory>
+                <categoryId>219</categoryId>
+                <categoryName>Other Non-Sport Card Merch</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs1.ebaystatic.com/m/mxpUz3pkGAx4HF4bF8L-nhw/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/2009-Harry-Potter-and-Half-Blood-Prince-85-Mission-/362974923428</viewItemURL>
+            <autoPay>true</autoPay>
+            <postalCode>915**</postalCode>
+            <location>Burbank,CA,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>burbanksportscards</sellerUserName>
+                <feedbackScore>320902</feedbackScore>
+                <positiveFeedbackPercent>99.9</positiveFeedbackPercent>
+                <feedbackRatingStar>RedShooting</feedbackRatingStar>
+                <topRatedSeller>true</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">3.5</shippingServiceCost>
+                <shippingType>Flat</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>true</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>0</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">0.99</currentPrice>
+                <convertedCurrentPrice currencyId="USD">0.99</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P26DT18H9M6S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>false</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-04-19T22:45:42.000Z</startTime>
+                <endTime>2020-09-19T22:45:42.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>true</returnsAccepted>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>true</topRatedListing>
+        </item>
+        <item>
+            <itemId>164167132816</itemId>
+            <title>2009 Harry Potter and the Half-Blood Prince #50 Before the Big Match</title>
+            <globalId>EBAY-US</globalId>
+            <subtitle>Burbank Sportscards - World�s Largest Selection</subtitle>
+            <primaryCategory>
+                <categoryId>219</categoryId>
+                <categoryName>Other Non-Sport Card Merch</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs1.ebaystatic.com/m/mh3oC8UNfT-U9x8f6MI6bKQ/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/2009-Harry-Potter-and-Half-Blood-Prince-50-Before-Big-Match-/164167132816</viewItemURL>
+            <autoPay>true</autoPay>
+            <postalCode>915**</postalCode>
+            <location>Burbank,CA,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>burbanksportscards</sellerUserName>
+                <feedbackScore>320902</feedbackScore>
+                <positiveFeedbackPercent>99.9</positiveFeedbackPercent>
+                <feedbackRatingStar>RedShooting</feedbackRatingStar>
+                <topRatedSeller>true</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">3.5</shippingServiceCost>
+                <shippingType>Flat</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>true</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>0</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">0.99</currentPrice>
+                <convertedCurrentPrice currencyId="USD">0.99</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P26DT18H9M7S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>false</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-04-19T22:45:43.000Z</startTime>
+                <endTime>2020-09-19T22:45:43.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>true</returnsAccepted>
             <isMultiVariationListing>false</isMultiVariationListing>
             <topRatedListing>true</topRatedListing>
         </item>
@@ -2602,7 +2566,7 @@
         <pageNumber>1</pageNumber>
         <entriesPerPage>50</entriesPerPage>
         <totalPages>70</totalPages>
-        <totalEntries>3500</totalEntries>
+        <totalEntries>3479</totalEntries>
     </paginationOutput>
     <itemSearchURL>https://www.ebay.com/sch/i.html?_nkw=harry+potter+and+the+half+blood+prince&amp;LH_BIN=1&amp;_ddo=1&amp;_incaucbin=0&amp;_ipg=50&amp;_os=S%7CD&amp;_pgn=1&amp;_sop=15</itemSearchURL>
 </findItemsAdvancedResponse>

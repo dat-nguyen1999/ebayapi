@@ -5,7 +5,7 @@ if __name__ == '__main__':
     api = Connection(config_file='ebay.yaml', siteid="EBAY-US")
 
     request = {
-        'ItemID': '274243297019',
+        'ItemID': '274013418704',
         
     }
     response = api.execute('GetSingleItem', request)

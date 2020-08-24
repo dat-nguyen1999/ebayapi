@@ -1,547 +1,864 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<findItemsAdvancedResponse xmlns="http://www.ebay.com/marketplace/search/v1/services">
-    <ack>Success</ack>
-    <version>1.13.0</version>
-    <timestamp>2020-08-21T07:41:25.896Z</timestamp>
-    <searchResult count="10">
-        <item>
-            <itemId>383684815643</itemId>
-            <title>Harry Potter and the Half-Blood Prince (Book 6)</title>
-            <globalId>EBAY-US</globalId>
-            <primaryCategory>
-                <categoryId>171219</categoryId>
-                <categoryName>Children &amp; YA Fiction</categoryName>
-            </primaryCategory>
-            <galleryURL>https://thumbs4.ebaystatic.com/m/mZoDouNjvBTWM3T8mNqjhgw/140.jpg</galleryURL>
-            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-Book-6-/383684815643</viewItemURL>
-            <productId type="ReferenceID">44462740</productId>
-            <autoPay>true</autoPay>
-            <location>USA</location>
-            <country>US</country>
-            <sellerInfo>
-                <sellerUserName>your_online_bookstore</sellerUserName>
-                <feedbackScore>502201</feedbackScore>
-                <positiveFeedbackPercent>99.0</positiveFeedbackPercent>
-                <feedbackRatingStar>RedShooting</feedbackRatingStar>
-                <topRatedSeller>true</topRatedSeller>
-            </sellerInfo>
-            <shippingInfo>
-                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
-                <shippingType>Free</shippingType>
-                <shipToLocations>Worldwide</shipToLocations>
-                <expeditedShipping>true</expeditedShipping>
-                <oneDayShippingAvailable>false</oneDayShippingAvailable>
-                <handlingTime>2</handlingTime>
-            </shippingInfo>
-            <sellingStatus>
-                <currentPrice currencyId="USD">3.98</currentPrice>
-                <convertedCurrentPrice currencyId="USD">3.98</convertedCurrentPrice>
-                <sellingState>Active</sellingState>
-                <timeLeft>P30DT4H49M48S</timeLeft>
-            </sellingStatus>
-            <listingInfo>
-                <bestOfferEnabled>false</bestOfferEnabled>
-                <buyItNowAvailable>false</buyItNowAvailable>
-                <startTime>2020-08-20T12:31:13.000Z</startTime>
-                <endTime>2020-09-20T12:31:13.000Z</endTime>
-                <listingType>FixedPrice</listingType>
-                <gift>false</gift>
-            </listingInfo>
-            <returnsAccepted>true</returnsAccepted>
-            <condition>
-                <conditionId>6000</conditionId>
-                <conditionDisplayName>Acceptable</conditionDisplayName>
-            </condition>
-            <isMultiVariationListing>false</isMultiVariationListing>
-            <topRatedListing>false</topRatedListing>
-        </item>
-        <item>
-            <itemId>363079161953</itemId>
-            <title>Harry Potter and the Half-Blood Prince 6 by J. K. Rowling P�F</title>
-            <globalId>EBAY-US</globalId>
-            <primaryCategory>
-                <categoryId>171219</categoryId>
-                <categoryName>Children &amp; YA Fiction</categoryName>
-            </primaryCategory>
-            <galleryURL>https://thumbs2.ebaystatic.com/m/mZoDouNjvBTWM3T8mNqjhgw/140.jpg</galleryURL>
-            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-6-J-K-Rowling-P-F-/363079161953</viewItemURL>
-            <productId type="ReferenceID">44462740</productId>
-            <paymentMethod>PayPal</paymentMethod>
-            <autoPay>true</autoPay>
-            <location>United Kingdom</location>
-            <country>GB</country>
-            <sellerInfo>
-                <sellerUserName>yousseft_15</sellerUserName>
-                <feedbackScore>4</feedbackScore>
-                <positiveFeedbackPercent>100.0</positiveFeedbackPercent>
-                <feedbackRatingStar>None</feedbackRatingStar>
-                <topRatedSeller>false</topRatedSeller>
-            </sellerInfo>
-            <shippingInfo>
-                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
-                <shippingType>Free</shippingType>
-                <shipToLocations>Worldwide</shipToLocations>
-                <expeditedShipping>false</expeditedShipping>
-                <oneDayShippingAvailable>false</oneDayShippingAvailable>
-                <handlingTime>0</handlingTime>
-            </shippingInfo>
-            <sellingStatus>
-                <currentPrice currencyId="USD">3.99</currentPrice>
-                <convertedCurrentPrice currencyId="USD">3.99</convertedCurrentPrice>
-                <sellingState>Active</sellingState>
-                <timeLeft>P27DT13H42M17S</timeLeft>
-            </sellingStatus>
-            <listingInfo>
-                <bestOfferEnabled>true</bestOfferEnabled>
-                <buyItNowAvailable>false</buyItNowAvailable>
-                <startTime>2020-08-17T21:23:42.000Z</startTime>
-                <endTime>2020-09-17T21:23:42.000Z</endTime>
-                <listingType>FixedPrice</listingType>
-                <gift>false</gift>
-            </listingInfo>
-            <returnsAccepted>false</returnsAccepted>
-            <condition>
-                <conditionId>4000</conditionId>
-                <conditionDisplayName>Very Good</conditionDisplayName>
-            </condition>
-            <isMultiVariationListing>false</isMultiVariationListing>
-            <topRatedListing>false</topRatedListing>
-        </item>
-        <item>
-            <itemId>254611902327</itemId>
-            <title>Harry Potter and the Half-Blood Prince (Book 6)</title>
-            <globalId>EBAY-US</globalId>
-            <primaryCategory>
-                <categoryId>171219</categoryId>
-                <categoryName>Children &amp; YA Fiction</categoryName>
-            </primaryCategory>
-            <galleryURL>https://thumbs4.ebaystatic.com/m/mafYNMAsqWM3vydX-OdC-5Q/140.jpg</galleryURL>
-            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-Book-6-/254611902327</viewItemURL>
-            <productId type="ReferenceID">44462740</productId>
-            <paymentMethod>PayPal</paymentMethod>
-            <autoPay>true</autoPay>
-            <postalCode>276**</postalCode>
-            <location>Raleigh,NC,USA</location>
-            <country>US</country>
-            <sellerInfo>
-                <sellerUserName>saramessie-7</sellerUserName>
-                <feedbackScore>2</feedbackScore>
-                <positiveFeedbackPercent>100.0</positiveFeedbackPercent>
-                <feedbackRatingStar>None</feedbackRatingStar>
-                <topRatedSeller>false</topRatedSeller>
-            </sellerInfo>
-            <shippingInfo>
-                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
-                <shippingType>FreePickup</shippingType>
-                <shipToLocations>Worldwide</shipToLocations>
-                <expeditedShipping>true</expeditedShipping>
-                <oneDayShippingAvailable>false</oneDayShippingAvailable>
-                <handlingTime>3</handlingTime>
-            </shippingInfo>
-            <sellingStatus>
-                <currentPrice currencyId="USD">4.0</currentPrice>
-                <convertedCurrentPrice currencyId="USD">4.0</convertedCurrentPrice>
-                <sellingState>Active</sellingState>
-                <timeLeft>P8DT14H20M29S</timeLeft>
-            </sellingStatus>
-            <listingInfo>
-                <bestOfferEnabled>true</bestOfferEnabled>
-                <buyItNowAvailable>false</buyItNowAvailable>
-                <startTime>2020-05-29T22:01:54.000Z</startTime>
-                <endTime>2020-08-29T22:01:54.000Z</endTime>
-                <listingType>FixedPrice</listingType>
-                <gift>false</gift>
-            </listingInfo>
-            <returnsAccepted>false</returnsAccepted>
-            <condition>
-                <conditionId>5000</conditionId>
-                <conditionDisplayName>Good</conditionDisplayName>
-            </condition>
-            <isMultiVariationListing>false</isMultiVariationListing>
-            <topRatedListing>false</topRatedListing>
-        </item>
-        <item>
-            <itemId>143515367369</itemId>
-            <title>Harry Potter and the Half-Blood Prince (Book 6)  (NoDust) by Rowling, J. K.</title>
-            <globalId>EBAY-US</globalId>
-            <subtitle>by Rowling, J. K. | HC | Good</subtitle>
-            <primaryCategory>
-                <categoryId>171219</categoryId>
-                <categoryName>Children &amp; YA Fiction</categoryName>
-            </primaryCategory>
-            <galleryURL>https://thumbs2.ebaystatic.com/m/mZoDouNjvBTWM3T8mNqjhgw/140.jpg</galleryURL>
-            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-Book-6-NoDust-Rowling-J-K-/143515367369</viewItemURL>
-            <productId type="ReferenceID">44462740</productId>
-            <autoPay>true</autoPay>
-            <postalCode>605**</postalCode>
-            <location>Aurora,IL,USA</location>
-            <country>US</country>
-            <sellerInfo>
-                <sellerUserName>thrift.books</sellerUserName>
-                <feedbackScore>2257422</feedbackScore>
-                <positiveFeedbackPercent>99.4</positiveFeedbackPercent>
-                <feedbackRatingStar>RedShooting</feedbackRatingStar>
-                <topRatedSeller>true</topRatedSeller>
-            </sellerInfo>
-            <shippingInfo>
-                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
-                <shippingType>Free</shippingType>
-                <shipToLocations>Worldwide</shipToLocations>
-                <expeditedShipping>true</expeditedShipping>
-                <oneDayShippingAvailable>false</oneDayShippingAvailable>
-                <handlingTime>1</handlingTime>
-            </shippingInfo>
-            <sellingStatus>
-                <currentPrice currencyId="USD">4.14</currentPrice>
-                <convertedCurrentPrice currencyId="USD">4.14</convertedCurrentPrice>
-                <sellingState>Active</sellingState>
-                <timeLeft>P6DT21H2M25S</timeLeft>
-            </sellingStatus>
-            <listingInfo>
-                <bestOfferEnabled>false</bestOfferEnabled>
-                <buyItNowAvailable>false</buyItNowAvailable>
-                <startTime>2020-01-28T04:43:50.000Z</startTime>
-                <endTime>2020-08-28T04:43:50.000Z</endTime>
-                <listingType>FixedPrice</listingType>
-                <gift>false</gift>
-                <watchCount>30</watchCount>
-            </listingInfo>
-            <returnsAccepted>true</returnsAccepted>
-            <condition>
-                <conditionId>5000</conditionId>
-                <conditionDisplayName>Good</conditionDisplayName>
-            </condition>
-            <isMultiVariationListing>false</isMultiVariationListing>
-            <topRatedListing>true</topRatedListing>
-        </item>
-        <item>
-            <itemId>143516097756</itemId>
-            <title>Harry Potter and the Half-Blood Prince (Book 6) by Rowling, J. K.</title>
-            <globalId>EBAY-US</globalId>
-            <subtitle>by Rowling, J. K. | HC | Acceptable</subtitle>
-            <primaryCategory>
-                <categoryId>171219</categoryId>
-                <categoryName>Children &amp; YA Fiction</categoryName>
-            </primaryCategory>
-            <galleryURL>https://thumbs1.ebaystatic.com/m/mZoDouNjvBTWM3T8mNqjhgw/140.jpg</galleryURL>
-            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-Book-6-Rowling-J-K-/143516097756</viewItemURL>
-            <productId type="ReferenceID">44462740</productId>
-            <autoPay>true</autoPay>
-            <postalCode>605**</postalCode>
-            <location>Aurora,IL,USA</location>
-            <country>US</country>
-            <sellerInfo>
-                <sellerUserName>thrift.books</sellerUserName>
-                <feedbackScore>2256651</feedbackScore>
-                <positiveFeedbackPercent>99.4</positiveFeedbackPercent>
-                <feedbackRatingStar>RedShooting</feedbackRatingStar>
-                <topRatedSeller>true</topRatedSeller>
-            </sellerInfo>
-            <shippingInfo>
-                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
-                <shippingType>Free</shippingType>
-                <shipToLocations>Worldwide</shipToLocations>
-                <expeditedShipping>true</expeditedShipping>
-                <oneDayShippingAvailable>false</oneDayShippingAvailable>
-                <handlingTime>1</handlingTime>
-            </shippingInfo>
-            <sellingStatus>
-                <currentPrice currencyId="USD">4.14</currentPrice>
-                <convertedCurrentPrice currencyId="USD">4.14</convertedCurrentPrice>
-                <sellingState>Active</sellingState>
-                <timeLeft>P7DT9H8M24S</timeLeft>
-            </sellingStatus>
-            <listingInfo>
-                <bestOfferEnabled>false</bestOfferEnabled>
-                <buyItNowAvailable>false</buyItNowAvailable>
-                <startTime>2020-01-28T16:49:49.000Z</startTime>
-                <endTime>2020-08-28T16:49:49.000Z</endTime>
-                <listingType>FixedPrice</listingType>
-                <gift>false</gift>
-                <watchCount>10</watchCount>
-            </listingInfo>
-            <returnsAccepted>true</returnsAccepted>
-            <condition>
-                <conditionId>6000</conditionId>
-                <conditionDisplayName>Acceptable</conditionDisplayName>
-            </condition>
-            <isMultiVariationListing>false</isMultiVariationListing>
-            <topRatedListing>true</topRatedListing>
-        </item>
-        <item>
-            <itemId>193322950315</itemId>
-            <title>Harry Potter and the Half-Blood Prince (Book 6) by Rowling, J. K.</title>
-            <globalId>EBAY-US</globalId>
-            <subtitle>by Rowling, J. K. | HC | Good</subtitle>
-            <primaryCategory>
-                <categoryId>171219</categoryId>
-                <categoryName>Children &amp; YA Fiction</categoryName>
-            </primaryCategory>
-            <galleryURL>https://thumbs4.ebaystatic.com/m/mZoDouNjvBTWM3T8mNqjhgw/140.jpg</galleryURL>
-            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-Book-6-Rowling-J-K-/193322950315</viewItemURL>
-            <productId type="ReferenceID">44462740</productId>
-            <autoPay>true</autoPay>
-            <postalCode>605**</postalCode>
-            <location>Aurora,IL,USA</location>
-            <country>US</country>
-            <sellerInfo>
-                <sellerUserName>thrift.books</sellerUserName>
-                <feedbackScore>2257260</feedbackScore>
-                <positiveFeedbackPercent>99.4</positiveFeedbackPercent>
-                <feedbackRatingStar>RedShooting</feedbackRatingStar>
-                <topRatedSeller>true</topRatedSeller>
-            </sellerInfo>
-            <shippingInfo>
-                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
-                <shippingType>Free</shippingType>
-                <shipToLocations>Worldwide</shipToLocations>
-                <expeditedShipping>true</expeditedShipping>
-                <oneDayShippingAvailable>false</oneDayShippingAvailable>
-                <handlingTime>1</handlingTime>
-            </shippingInfo>
-            <sellingStatus>
-                <currentPrice currencyId="USD">4.14</currentPrice>
-                <convertedCurrentPrice currencyId="USD">4.14</convertedCurrentPrice>
-                <sellingState>Active</sellingState>
-                <timeLeft>P7DT19H46M46S</timeLeft>
-            </sellingStatus>
-            <listingInfo>
-                <bestOfferEnabled>false</bestOfferEnabled>
-                <buyItNowAvailable>false</buyItNowAvailable>
-                <startTime>2020-01-29T03:28:11.000Z</startTime>
-                <endTime>2020-08-29T03:28:11.000Z</endTime>
-                <listingType>FixedPrice</listingType>
-                <gift>false</gift>
-                <watchCount>1</watchCount>
-            </listingInfo>
-            <returnsAccepted>true</returnsAccepted>
-            <condition>
-                <conditionId>5000</conditionId>
-                <conditionDisplayName>Good</conditionDisplayName>
-            </condition>
-            <isMultiVariationListing>false</isMultiVariationListing>
-            <topRatedListing>true</topRatedListing>
-        </item>
-        <item>
-            <itemId>193469066231</itemId>
-            <title>Harry Potter and the Half-Blood Prince (Book 6) by Rowling, J. K.</title>
-            <globalId>EBAY-US</globalId>
-            <subtitle>by Rowling, J. K. | HC | VeryGood</subtitle>
-            <primaryCategory>
-                <categoryId>171219</categoryId>
-                <categoryName>Children &amp; YA Fiction</categoryName>
-            </primaryCategory>
-            <galleryURL>https://thumbs4.ebaystatic.com/m/mZoDouNjvBTWM3T8mNqjhgw/140.jpg</galleryURL>
-            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-Book-6-Rowling-J-K-/193469066231</viewItemURL>
-            <productId type="ReferenceID">44462740</productId>
-            <autoPay>true</autoPay>
-            <postalCode>605**</postalCode>
-            <location>Aurora,IL,USA</location>
-            <country>US</country>
-            <sellerInfo>
-                <sellerUserName>thrift.books</sellerUserName>
-                <feedbackScore>2257346</feedbackScore>
-                <positiveFeedbackPercent>99.4</positiveFeedbackPercent>
-                <feedbackRatingStar>RedShooting</feedbackRatingStar>
-                <topRatedSeller>true</topRatedSeller>
-            </sellerInfo>
-            <shippingInfo>
-                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
-                <shippingType>Free</shippingType>
-                <shipToLocations>Worldwide</shipToLocations>
-                <expeditedShipping>true</expeditedShipping>
-                <oneDayShippingAvailable>false</oneDayShippingAvailable>
-                <handlingTime>1</handlingTime>
-            </shippingInfo>
-            <sellingStatus>
-                <currentPrice currencyId="USD">4.14</currentPrice>
-                <convertedCurrentPrice currencyId="USD">4.14</convertedCurrentPrice>
-                <sellingState>Active</sellingState>
-                <timeLeft>P26DT18H52M28S</timeLeft>
-            </sellingStatus>
-            <listingInfo>
-                <bestOfferEnabled>false</bestOfferEnabled>
-                <buyItNowAvailable>false</buyItNowAvailable>
-                <startTime>2020-05-17T02:33:53.000Z</startTime>
-                <endTime>2020-09-17T02:33:53.000Z</endTime>
-                <listingType>FixedPrice</listingType>
-                <gift>false</gift>
-                <watchCount>2</watchCount>
-            </listingInfo>
-            <returnsAccepted>true</returnsAccepted>
-            <condition>
-                <conditionId>4000</conditionId>
-                <conditionDisplayName>Very Good</conditionDisplayName>
-            </condition>
-            <isMultiVariationListing>false</isMultiVariationListing>
-            <topRatedListing>true</topRatedListing>
-        </item>
-        <item>
-            <itemId>293699249475</itemId>
-            <title>Harry Potter and the Half-Blood Prince (Book 6)</title>
-            <globalId>EBAY-US</globalId>
-            <primaryCategory>
-                <categoryId>171219</categoryId>
-                <categoryName>Children &amp; YA Fiction</categoryName>
-            </primaryCategory>
-            <galleryURL>https://thumbs4.ebaystatic.com/m/mMplbsBt_WKDf8BIaK9Koeg/140.jpg</galleryURL>
-            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-Book-6-/293699249475</viewItemURL>
-            <productId type="ReferenceID">48045670</productId>
-            <autoPay>false</autoPay>
-            <location>USA</location>
-            <country>US</country>
-            <sellerInfo>
-                <sellerUserName>gulfcoastllc</sellerUserName>
-                <feedbackScore>84983</feedbackScore>
-                <positiveFeedbackPercent>99.2</positiveFeedbackPercent>
-                <feedbackRatingStar>PurpleShooting</feedbackRatingStar>
-                <topRatedSeller>true</topRatedSeller>
-            </sellerInfo>
-            <shippingInfo>
-                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
-                <shippingType>Free</shippingType>
-                <shipToLocations>Worldwide</shipToLocations>
-                <expeditedShipping>true</expeditedShipping>
-                <oneDayShippingAvailable>false</oneDayShippingAvailable>
-                <handlingTime>2</handlingTime>
-            </shippingInfo>
-            <sellingStatus>
-                <currentPrice currencyId="USD">4.15</currentPrice>
-                <convertedCurrentPrice currencyId="USD">4.15</convertedCurrentPrice>
-                <sellingState>Active</sellingState>
-                <timeLeft>P30DT16H55M43S</timeLeft>
-            </sellingStatus>
-            <listingInfo>
-                <bestOfferEnabled>false</bestOfferEnabled>
-                <buyItNowAvailable>false</buyItNowAvailable>
-                <startTime>2020-08-21T00:37:08.000Z</startTime>
-                <endTime>2020-09-21T00:37:08.000Z</endTime>
-                <listingType>FixedPrice</listingType>
-                <gift>false</gift>
-            </listingInfo>
-            <returnsAccepted>true</returnsAccepted>
-            <condition>
-                <conditionId>4000</conditionId>
-                <conditionDisplayName>Very Good</conditionDisplayName>
-            </condition>
-            <isMultiVariationListing>false</isMultiVariationListing>
-            <topRatedListing>false</topRatedListing>
-        </item>
-        <item>
-            <itemId>193622071697</itemId>
-            <title>Harry Potter and the Half-Blood Prince [Book 6]</title>
-            <globalId>EBAY-US</globalId>
-            <primaryCategory>
-                <categoryId>171219</categoryId>
-                <categoryName>Children &amp; YA Fiction</categoryName>
-            </primaryCategory>
-            <galleryURL>https://thumbs2.ebaystatic.com/m/mMplbsBt_WKDf8BIaK9Koeg/140.jpg</galleryURL>
-            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-Book-6-/193622071697</viewItemURL>
-            <charityId>112675</charityId>
-            <productId type="ReferenceID">48045670</productId>
-            <paymentMethod>PayPal</paymentMethod>
-            <autoPay>true</autoPay>
-            <postalCode>462**</postalCode>
-            <location>Indianapolis,IN,USA</location>
-            <country>US</country>
-            <sellerInfo>
-                <sellerUserName>clickgoodwillbooks</sellerUserName>
-                <feedbackScore>563600</feedbackScore>
-                <positiveFeedbackPercent>99.8</positiveFeedbackPercent>
-                <feedbackRatingStar>RedShooting</feedbackRatingStar>
-                <topRatedSeller>true</topRatedSeller>
-            </sellerInfo>
-            <shippingInfo>
-                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
-                <shippingType>Free</shippingType>
-                <shipToLocations>Worldwide</shipToLocations>
-                <expeditedShipping>true</expeditedShipping>
-                <oneDayShippingAvailable>false</oneDayShippingAvailable>
-                <handlingTime>3</handlingTime>
-            </shippingInfo>
-            <sellingStatus>
-                <currentPrice currencyId="USD">4.28</currentPrice>
-                <convertedCurrentPrice currencyId="USD">4.28</convertedCurrentPrice>
-                <sellingState>Active</sellingState>
-                <timeLeft>P22DT11H46M4S</timeLeft>
-            </sellingStatus>
-            <listingInfo>
-                <bestOfferEnabled>false</bestOfferEnabled>
-                <buyItNowAvailable>false</buyItNowAvailable>
-                <startTime>2020-08-12T19:27:29.000Z</startTime>
-                <endTime>2020-09-12T19:27:29.000Z</endTime>
-                <listingType>FixedPrice</listingType>
-                <gift>false</gift>
-            </listingInfo>
-            <returnsAccepted>true</returnsAccepted>
-            <condition>
-                <conditionId>6000</conditionId>
-                <conditionDisplayName>Acceptable</conditionDisplayName>
-            </condition>
-            <isMultiVariationListing>false</isMultiVariationListing>
-            <topRatedListing>false</topRatedListing>
-        </item>
-        <item>
-            <itemId>363080476439</itemId>
-            <title>Harry Potter and the Half-Blood Prince [Book 6]</title>
-            <globalId>EBAY-US</globalId>
-            <primaryCategory>
-                <categoryId>171219</categoryId>
-                <categoryName>Children &amp; YA Fiction</categoryName>
-            </primaryCategory>
-            <galleryURL>https://thumbs4.ebaystatic.com/m/mMplbsBt_WKDf8BIaK9Koeg/140.jpg</galleryURL>
-            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-Book-6-/363080476439</viewItemURL>
-            <charityId>53018</charityId>
-            <productId type="ReferenceID">48045670</productId>
-            <paymentMethod>PayPal</paymentMethod>
-            <autoPay>true</autoPay>
-            <postalCode>328**</postalCode>
-            <location>Orlando,FL,USA</location>
-            <country>US</country>
-            <sellerInfo>
-                <sellerUserName>goodwillorlando</sellerUserName>
-                <feedbackScore>195367</feedbackScore>
-                <positiveFeedbackPercent>99.4</positiveFeedbackPercent>
-                <feedbackRatingStar>RedShooting</feedbackRatingStar>
-                <topRatedSeller>true</topRatedSeller>
-            </sellerInfo>
-            <shippingInfo>
-                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
-                <shippingType>Free</shippingType>
-                <shipToLocations>Worldwide</shipToLocations>
-                <expeditedShipping>true</expeditedShipping>
-                <oneDayShippingAvailable>false</oneDayShippingAvailable>
-                <handlingTime>4</handlingTime>
-            </shippingInfo>
-            <sellingStatus>
-                <currentPrice currencyId="USD">4.39</currentPrice>
-                <convertedCurrentPrice currencyId="USD">4.39</convertedCurrentPrice>
-                <sellingState>Active</sellingState>
-                <timeLeft>P29DT3H59M47S</timeLeft>
-            </sellingStatus>
-            <listingInfo>
-                <bestOfferEnabled>false</bestOfferEnabled>
-                <buyItNowAvailable>false</buyItNowAvailable>
-                <startTime>2020-08-19T11:41:12.000Z</startTime>
-                <endTime>2020-09-19T11:41:12.000Z</endTime>
-                <listingType>FixedPrice</listingType>
-                <gift>false</gift>
-                <watchCount>2</watchCount>
-            </listingInfo>
-            <returnsAccepted>false</returnsAccepted>
-            <condition>
-                <conditionId>5000</conditionId>
-                <conditionDisplayName>Good</conditionDisplayName>
-            </condition>
-            <isMultiVariationListing>false</isMultiVariationListing>
-            <topRatedListing>false</topRatedListing>
-        </item>
-    </searchResult>
-    <paginationOutput>
-        <pageNumber>1</pageNumber>
-        <entriesPerPage>10</entriesPerPage>
-        <totalPages>84</totalPages>
-        <totalEntries>835</totalEntries>
-    </paginationOutput>
-    <itemSearchURL>https://www.ebay.com/sch/171219/i.html?_nkw=harry+potter+and+the+half+blood+prince&amp;LH_BIN=1&amp;_ddo=1&amp;_incaucbin=0&amp;_ipg=10&amp;_os=S%7CD&amp;_pgn=1&amp;_sop=15</itemSearchURL>
-</findItemsAdvancedResponse>
+<ns0:findItemsAdvancedResponse xmlns:ns0="http://www.ebay.com/marketplace/search/v1/services">
+    <ns0:ack>Success</ns0:ack>
+    <ns0:version>1.13.0</ns0:version>
+    <ns0:timestamp>2020-08-24T04:49:55.654Z</ns0:timestamp>
+    <ns0:searchResult count="16">
+        <ns0:item>
+            <ns0:itemId>333559637794</ns0:itemId>
+            <ns0:title>Apple iPhone 11 Pro Max 512GB Midnight Green Verizon AT&amp;T Unlocked Smartphone</ns0:title>
+            <ns0:globalId>EBAY-US</ns0:globalId>
+            <ns0:subtitle>FREE Shipping FREE Returns | 60 Day Warranty &amp; Support</ns0:subtitle>
+            <ns0:primaryCategory>
+                <ns0:categoryId>9355</ns0:categoryId>
+                <ns0:categoryName>Cell Phones &amp; Smartphones</ns0:categoryName>
+            </ns0:primaryCategory>
+            <ns0:galleryURL>https://thumbs3.ebaystatic.com/m/mieSUlnJQbxGrVHK6VcSenQ/140.jpg</ns0:galleryURL>
+            <ns0:viewItemURL>https://www.ebay.com/itm/Apple-iPhone-11-Pro-Max-512GB-Midnight-Green-Verizon-AT-T-Unlocked-Smartphone-/333559637794</ns0:viewItemURL>
+            <ns0:productId type="ReferenceID">9034209121</ns0:productId>
+            <ns0:paymentMethod>PayPal</ns0:paymentMethod>
+            <ns0:autoPay>true</ns0:autoPay>
+            <ns0:postalCode>208**</ns0:postalCode>
+            <ns0:location>Gaithersburg,MD,USA</ns0:location>
+            <ns0:country>US</ns0:country>
+            <ns0:sellerInfo>
+                <ns0:sellerUserName>buyspry</ns0:sellerUserName>
+                <ns0:feedbackScore>201365</ns0:feedbackScore>
+                <ns0:positiveFeedbackPercent>99.2</ns0:positiveFeedbackPercent>
+                <ns0:feedbackRatingStar>RedShooting</ns0:feedbackRatingStar>
+                <ns0:topRatedSeller>true</ns0:topRatedSeller>
+            </ns0:sellerInfo>
+            <ns0:shippingInfo>
+                <ns0:shippingServiceCost currencyId="USD">0.0</ns0:shippingServiceCost>
+                <ns0:shippingType>Free</ns0:shippingType>
+                <ns0:shipToLocations>Worldwide</ns0:shipToLocations>
+                <ns0:expeditedShipping>true</ns0:expeditedShipping>
+                <ns0:oneDayShippingAvailable>true</ns0:oneDayShippingAvailable>
+                <ns0:handlingTime>1</ns0:handlingTime>
+            </ns0:shippingInfo>
+            <ns0:sellingStatus>
+                <ns0:currentPrice currencyId="USD">1069.99</ns0:currentPrice>
+                <ns0:convertedCurrentPrice currencyId="USD">1069.99</ns0:convertedCurrentPrice>
+                <ns0:sellingState>Active</ns0:sellingState>
+                <ns0:timeLeft>P3DT8H19M56S</ns0:timeLeft>
+            </ns0:sellingStatus>
+            <ns0:listingInfo>
+                <ns0:bestOfferEnabled>false</ns0:bestOfferEnabled>
+                <ns0:buyItNowAvailable>false</ns0:buyItNowAvailable>
+                <ns0:startTime>2020-03-27T13:09:51.000Z</ns0:startTime>
+                <ns0:endTime>2020-08-27T13:09:51.000Z</ns0:endTime>
+                <ns0:listingType>FixedPrice</ns0:listingType>
+                <ns0:gift>false</ns0:gift>
+                <ns0:watchCount>394</ns0:watchCount>
+            </ns0:listingInfo>
+            <ns0:returnsAccepted>true</ns0:returnsAccepted>
+            <ns0:condition>
+                <ns0:conditionId>1500</ns0:conditionId>
+                <ns0:conditionDisplayName>Open box</ns0:conditionDisplayName>
+            </ns0:condition>
+            <ns0:isMultiVariationListing>false</ns0:isMultiVariationListing>
+            <ns0:topRatedListing>true</ns0:topRatedListing>
+        </ns0:item>
+        <ns0:item>
+            <ns0:itemId>283986245234</ns0:itemId>
+            <ns0:title>Apple iPhone 11 Pro Max - 512GB - Midnight&#160;Green (Unlocked) A2161 (CDMA + GSM)</ns0:title>
+            <ns0:globalId>EBAY-US</ns0:globalId>
+            <ns0:primaryCategory>
+                <ns0:categoryId>9355</ns0:categoryId>
+                <ns0:categoryName>Cell Phones &amp; Smartphones</ns0:categoryName>
+            </ns0:primaryCategory>
+            <ns0:galleryURL>https://thumbs3.ebaystatic.com/m/m4-_VQUvbkZ_M4bXZ94V1UQ/140.jpg</ns0:galleryURL>
+            <ns0:viewItemURL>https://www.ebay.com/itm/Apple-iPhone-11-Pro-Max-512GB-Midnight-Green-Unlocked-A2161-CDMA-GSM-/283986245234</ns0:viewItemURL>
+            <ns0:productId type="ReferenceID">9034209121</ns0:productId>
+            <ns0:autoPay>true</ns0:autoPay>
+            <ns0:postalCode>327**</ns0:postalCode>
+            <ns0:location>Oviedo,FL,USA</ns0:location>
+            <ns0:country>US</ns0:country>
+            <ns0:sellerInfo>
+                <ns0:sellerUserName>iphones.tested.trusted</ns0:sellerUserName>
+                <ns0:feedbackScore>14327</ns0:feedbackScore>
+                <ns0:positiveFeedbackPercent>99.8</ns0:positiveFeedbackPercent>
+                <ns0:feedbackRatingStar>YellowShooting</ns0:feedbackRatingStar>
+                <ns0:topRatedSeller>true</ns0:topRatedSeller>
+            </ns0:sellerInfo>
+            <ns0:shippingInfo>
+                <ns0:shippingServiceCost currencyId="USD">0.0</ns0:shippingServiceCost>
+                <ns0:shippingType>Free</ns0:shippingType>
+                <ns0:shipToLocations>Worldwide</ns0:shipToLocations>
+                <ns0:expeditedShipping>true</ns0:expeditedShipping>
+                <ns0:oneDayShippingAvailable>false</ns0:oneDayShippingAvailable>
+                <ns0:handlingTime>0</ns0:handlingTime>
+            </ns0:shippingInfo>
+            <ns0:sellingStatus>
+                <ns0:currentPrice currencyId="USD">1309.0</ns0:currentPrice>
+                <ns0:convertedCurrentPrice currencyId="USD">1309.0</ns0:convertedCurrentPrice>
+                <ns0:sellingState>Active</ns0:sellingState>
+                <ns0:timeLeft>P28DT14H18M29S</ns0:timeLeft>
+            </ns0:sellingStatus>
+            <ns0:listingInfo>
+                <ns0:bestOfferEnabled>false</ns0:bestOfferEnabled>
+                <ns0:buyItNowAvailable>false</ns0:buyItNowAvailable>
+                <ns0:startTime>2020-08-21T19:08:24.000Z</ns0:startTime>
+                <ns0:endTime>2020-09-21T19:08:24.000Z</ns0:endTime>
+                <ns0:listingType>FixedPrice</ns0:listingType>
+                <ns0:gift>false</ns0:gift>
+                <ns0:watchCount>11</ns0:watchCount>
+            </ns0:listingInfo>
+            <ns0:returnsAccepted>true</ns0:returnsAccepted>
+            <ns0:condition>
+                <ns0:conditionId>1500</ns0:conditionId>
+                <ns0:conditionDisplayName>Open box</ns0:conditionDisplayName>
+            </ns0:condition>
+            <ns0:isMultiVariationListing>false</ns0:isMultiVariationListing>
+            <ns0:topRatedListing>true</ns0:topRatedListing>
+        </ns0:item>
+        <ns0:item>
+            <ns0:itemId>174037018736</ns0:itemId>
+            <ns0:title>Apple iPhone 11 Pro Max [64GB, 256GB, 512GB] Midnight Green Gold A2218 [AU Stock</ns0:title>
+            <ns0:globalId>EBAY-AU</ns0:globalId>
+            <ns0:primaryCategory>
+                <ns0:categoryId>9355</ns0:categoryId>
+                <ns0:categoryName>Mobile Phones</ns0:categoryName>
+            </ns0:primaryCategory>
+            <ns0:galleryURL>https://thumbs1.ebaystatic.com/pict/04040_0.jpg</ns0:galleryURL>
+            <ns0:viewItemURL>https://www.ebay.com/itm/Apple-iPhone-11-Pro-Max-64GB-256GB-512GB-Midnight-Green-Gold-A2218-AU-Stock-/174037018736?var=0</ns0:viewItemURL>
+            <ns0:paymentMethod>PayPal</ns0:paymentMethod>
+            <ns0:autoPay>true</ns0:autoPay>
+            <ns0:postalCode>2000</ns0:postalCode>
+            <ns0:location>Australia</ns0:location>
+            <ns0:country>AU</ns0:country>
+            <ns0:sellerInfo>
+                <ns0:sellerUserName>three.sons</ns0:sellerUserName>
+                <ns0:feedbackScore>9304</ns0:feedbackScore>
+                <ns0:positiveFeedbackPercent>98.6</ns0:positiveFeedbackPercent>
+                <ns0:feedbackRatingStar>Green</ns0:feedbackRatingStar>
+                <ns0:topRatedSeller>false</ns0:topRatedSeller>
+            </ns0:sellerInfo>
+            <ns0:shippingInfo>
+                <ns0:shippingServiceCost currencyId="USD">17.17</ns0:shippingServiceCost>
+                <ns0:shippingType>FlatDomesticCalculatedInternational</ns0:shippingType>
+                <ns0:shipToLocations>Worldwide</ns0:shipToLocations>
+                <ns0:expeditedShipping>false</ns0:expeditedShipping>
+                <ns0:oneDayShippingAvailable>false</ns0:oneDayShippingAvailable>
+                <ns0:handlingTime>1</ns0:handlingTime>
+            </ns0:shippingInfo>
+            <ns0:sellingStatus>
+                <ns0:currentPrice currencyId="AUD">1849.0</ns0:currentPrice>
+                <ns0:convertedCurrentPrice currencyId="USD">1322.68</ns0:convertedCurrentPrice>
+                <ns0:sellingState>Active</ns0:sellingState>
+                <ns0:timeLeft>P27DT1H54M39S</ns0:timeLeft>
+            </ns0:sellingStatus>
+            <ns0:listingInfo>
+                <ns0:bestOfferEnabled>false</ns0:bestOfferEnabled>
+                <ns0:buyItNowAvailable>false</ns0:buyItNowAvailable>
+                <ns0:startTime>2019-09-20T06:44:34.000Z</ns0:startTime>
+                <ns0:endTime>2020-09-20T06:44:34.000Z</ns0:endTime>
+                <ns0:listingType>StoreInventory</ns0:listingType>
+                <ns0:gift>false</ns0:gift>
+                <ns0:watchCount>40</ns0:watchCount>
+            </ns0:listingInfo>
+            <ns0:returnsAccepted>true</ns0:returnsAccepted>
+            <ns0:condition>
+                <ns0:conditionId>1000</ns0:conditionId>
+                <ns0:conditionDisplayName>New</ns0:conditionDisplayName>
+            </ns0:condition>
+            <ns0:isMultiVariationListing>true</ns0:isMultiVariationListing>
+            <ns0:topRatedListing>false</ns0:topRatedListing>
+        </ns0:item>
+        <ns0:item>
+            <ns0:itemId>174037018736</ns0:itemId>
+            <ns0:title>Apple iPhone 11 Pro Max [64GB, 256GB, 512GB] Midnight Green Gold A2218 [AU Stock</ns0:title>
+            <ns0:globalId>EBAY-AU</ns0:globalId>
+            <ns0:primaryCategory>
+                <ns0:categoryId>9355</ns0:categoryId>
+                <ns0:categoryName>Mobile Phones</ns0:categoryName>
+            </ns0:primaryCategory>
+            <ns0:galleryURL>https://thumbs1.ebaystatic.com/pict/174037018736404000000001_1.jpg</ns0:galleryURL>
+            <ns0:viewItemURL>https://www.ebay.com/itm/Apple-iPhone-11-Pro-Max-64GB-256GB-512GB-Midnight-Green-Gold-A2218-AU-Stock-/174037018736?var=472850565436</ns0:viewItemURL>
+            <ns0:paymentMethod>PayPal</ns0:paymentMethod>
+            <ns0:autoPay>true</ns0:autoPay>
+            <ns0:postalCode>2000</ns0:postalCode>
+            <ns0:location>Australia</ns0:location>
+            <ns0:country>AU</ns0:country>
+            <ns0:sellerInfo>
+                <ns0:sellerUserName>three.sons</ns0:sellerUserName>
+                <ns0:feedbackScore>9304</ns0:feedbackScore>
+                <ns0:positiveFeedbackPercent>98.6</ns0:positiveFeedbackPercent>
+                <ns0:feedbackRatingStar>Green</ns0:feedbackRatingStar>
+                <ns0:topRatedSeller>false</ns0:topRatedSeller>
+            </ns0:sellerInfo>
+            <ns0:shippingInfo>
+                <ns0:shippingServiceCost currencyId="USD">17.17</ns0:shippingServiceCost>
+                <ns0:shippingType>FlatDomesticCalculatedInternational</ns0:shippingType>
+                <ns0:shipToLocations>Worldwide</ns0:shipToLocations>
+                <ns0:expeditedShipping>false</ns0:expeditedShipping>
+                <ns0:oneDayShippingAvailable>false</ns0:oneDayShippingAvailable>
+                <ns0:handlingTime>1</ns0:handlingTime>
+            </ns0:shippingInfo>
+            <ns0:sellingStatus>
+                <ns0:currentPrice currencyId="AUD">1849.0</ns0:currentPrice>
+                <ns0:convertedCurrentPrice currencyId="USD">1322.68</ns0:convertedCurrentPrice>
+                <ns0:sellingState>Active</ns0:sellingState>
+                <ns0:timeLeft>P27DT1H54M39S</ns0:timeLeft>
+            </ns0:sellingStatus>
+            <ns0:listingInfo>
+                <ns0:bestOfferEnabled>false</ns0:bestOfferEnabled>
+                <ns0:buyItNowAvailable>false</ns0:buyItNowAvailable>
+                <ns0:startTime>2019-09-20T06:44:34.000Z</ns0:startTime>
+                <ns0:endTime>2020-09-20T06:44:34.000Z</ns0:endTime>
+                <ns0:listingType>StoreInventory</ns0:listingType>
+                <ns0:gift>false</ns0:gift>
+                <ns0:watchCount>3</ns0:watchCount>
+            </ns0:listingInfo>
+            <ns0:returnsAccepted>true</ns0:returnsAccepted>
+            <ns0:galleryPlusPictureURL>https://galleryplus.ebayimg.com/ws/web/174037018736_1_20_1_00000001.jpg</ns0:galleryPlusPictureURL>
+            <ns0:condition>
+                <ns0:conditionId>1000</ns0:conditionId>
+                <ns0:conditionDisplayName>New</ns0:conditionDisplayName>
+            </ns0:condition>
+            <ns0:isMultiVariationListing>true</ns0:isMultiVariationListing>
+            <ns0:topRatedListing>false</ns0:topRatedListing>
+        </ns0:item>
+        <ns0:item>
+            <ns0:itemId>254589645454</ns0:itemId>
+            <ns0:title>Apple iPhone 11 PRO MAX  64GB / 256GB / 512GB - 4G LTE (Unlocked) </ns0:title>
+            <ns0:globalId>EBAY-ENCA</ns0:globalId>
+            <ns0:primaryCategory>
+                <ns0:categoryId>9355</ns0:categoryId>
+                <ns0:categoryName>Cell Phones &amp; Smartphones</ns0:categoryName>
+            </ns0:primaryCategory>
+            <ns0:galleryURL>https://thumbs3.ebaystatic.com/pict/254589645454404000000002_1.jpg</ns0:galleryURL>
+            <ns0:viewItemURL>https://www.ebay.com/itm/Apple-iPhone-11-PRO-MAX-64GB-256GB-512GB-4G-LTE-Unlocked-/254589645454?var=554364453557</ns0:viewItemURL>
+            <ns0:paymentMethod>PayPal</ns0:paymentMethod>
+            <ns0:autoPay>true</ns0:autoPay>
+            <ns0:postalCode>M9W6C7</ns0:postalCode>
+            <ns0:location>Canada</ns0:location>
+            <ns0:country>CA</ns0:country>
+            <ns0:sellerInfo>
+                <ns0:sellerUserName>gadgetonsale</ns0:sellerUserName>
+                <ns0:feedbackScore>399</ns0:feedbackScore>
+                <ns0:positiveFeedbackPercent>99.5</ns0:positiveFeedbackPercent>
+                <ns0:feedbackRatingStar>Turquoise</ns0:feedbackRatingStar>
+                <ns0:topRatedSeller>false</ns0:topRatedSeller>
+            </ns0:sellerInfo>
+            <ns0:shippingInfo>
+                <ns0:shippingServiceCost currencyId="USD">75.77</ns0:shippingServiceCost>
+                <ns0:shippingType>Flat</ns0:shippingType>
+                <ns0:shipToLocations>Worldwide</ns0:shipToLocations>
+                <ns0:expeditedShipping>false</ns0:expeditedShipping>
+                <ns0:oneDayShippingAvailable>false</ns0:oneDayShippingAvailable>
+                <ns0:handlingTime>1</ns0:handlingTime>
+            </ns0:shippingInfo>
+            <ns0:sellingStatus>
+                <ns0:currentPrice currencyId="CAD">1899.0</ns0:currentPrice>
+                <ns0:convertedCurrentPrice currencyId="USD">1438.8</ns0:convertedCurrentPrice>
+                <ns0:sellingState>Active</ns0:sellingState>
+                <ns0:timeLeft>P13DT12H55M33S</ns0:timeLeft>
+            </ns0:sellingStatus>
+            <ns0:listingInfo>
+                <ns0:bestOfferEnabled>false</ns0:bestOfferEnabled>
+                <ns0:buyItNowAvailable>false</ns0:buyItNowAvailable>
+                <ns0:startTime>2020-05-06T17:45:28.000Z</ns0:startTime>
+                <ns0:endTime>2020-09-06T17:45:28.000Z</ns0:endTime>
+                <ns0:listingType>StoreInventory</ns0:listingType>
+                <ns0:gift>false</ns0:gift>
+                <ns0:watchCount>1</ns0:watchCount>
+            </ns0:listingInfo>
+            <ns0:returnsAccepted>true</ns0:returnsAccepted>
+            <ns0:condition>
+                <ns0:conditionId>1500</ns0:conditionId>
+                <ns0:conditionDisplayName>Open box</ns0:conditionDisplayName>
+            </ns0:condition>
+            <ns0:isMultiVariationListing>true</ns0:isMultiVariationListing>
+            <ns0:topRatedListing>false</ns0:topRatedListing>
+        </ns0:item>
+        <ns0:item>
+            <ns0:itemId>254589645454</ns0:itemId>
+            <ns0:title>Apple iPhone 11 PRO MAX  64GB / 256GB / 512GB - 4G LTE (Unlocked) </ns0:title>
+            <ns0:globalId>EBAY-ENCA</ns0:globalId>
+            <ns0:primaryCategory>
+                <ns0:categoryId>9355</ns0:categoryId>
+                <ns0:categoryName>Cell Phones &amp; Smartphones</ns0:categoryName>
+            </ns0:primaryCategory>
+            <ns0:galleryURL>https://thumbs3.ebaystatic.com/pict/254589645454404000000002_1.jpg</ns0:galleryURL>
+            <ns0:viewItemURL>https://www.ebay.com/itm/Apple-iPhone-11-PRO-MAX-64GB-256GB-512GB-4G-LTE-Unlocked-/254589645454?var=554364453561</ns0:viewItemURL>
+            <ns0:paymentMethod>PayPal</ns0:paymentMethod>
+            <ns0:autoPay>true</ns0:autoPay>
+            <ns0:postalCode>M9W6C7</ns0:postalCode>
+            <ns0:location>Canada</ns0:location>
+            <ns0:country>CA</ns0:country>
+            <ns0:sellerInfo>
+                <ns0:sellerUserName>gadgetonsale</ns0:sellerUserName>
+                <ns0:feedbackScore>399</ns0:feedbackScore>
+                <ns0:positiveFeedbackPercent>99.5</ns0:positiveFeedbackPercent>
+                <ns0:feedbackRatingStar>Turquoise</ns0:feedbackRatingStar>
+                <ns0:topRatedSeller>false</ns0:topRatedSeller>
+            </ns0:sellerInfo>
+            <ns0:shippingInfo>
+                <ns0:shippingServiceCost currencyId="USD">75.77</ns0:shippingServiceCost>
+                <ns0:shippingType>Flat</ns0:shippingType>
+                <ns0:shipToLocations>Worldwide</ns0:shipToLocations>
+                <ns0:expeditedShipping>false</ns0:expeditedShipping>
+                <ns0:oneDayShippingAvailable>false</ns0:oneDayShippingAvailable>
+                <ns0:handlingTime>1</ns0:handlingTime>
+            </ns0:shippingInfo>
+            <ns0:sellingStatus>
+                <ns0:currentPrice currencyId="CAD">1899.0</ns0:currentPrice>
+                <ns0:convertedCurrentPrice currencyId="USD">1438.8</ns0:convertedCurrentPrice>
+                <ns0:sellingState>Active</ns0:sellingState>
+                <ns0:timeLeft>P13DT12H55M33S</ns0:timeLeft>
+            </ns0:sellingStatus>
+            <ns0:listingInfo>
+                <ns0:bestOfferEnabled>false</ns0:bestOfferEnabled>
+                <ns0:buyItNowAvailable>false</ns0:buyItNowAvailable>
+                <ns0:startTime>2020-05-06T17:45:28.000Z</ns0:startTime>
+                <ns0:endTime>2020-09-06T17:45:28.000Z</ns0:endTime>
+                <ns0:listingType>StoreInventory</ns0:listingType>
+                <ns0:gift>false</ns0:gift>
+                <ns0:watchCount>3</ns0:watchCount>
+            </ns0:listingInfo>
+            <ns0:returnsAccepted>true</ns0:returnsAccepted>
+            <ns0:condition>
+                <ns0:conditionId>1500</ns0:conditionId>
+                <ns0:conditionDisplayName>Open box</ns0:conditionDisplayName>
+            </ns0:condition>
+            <ns0:isMultiVariationListing>true</ns0:isMultiVariationListing>
+            <ns0:topRatedListing>false</ns0:topRatedListing>
+        </ns0:item>
+        <ns0:item>
+            <ns0:itemId>254589645454</ns0:itemId>
+            <ns0:title>Apple iPhone 11 PRO MAX  64GB / 256GB / 512GB - 4G LTE (Unlocked) </ns0:title>
+            <ns0:globalId>EBAY-ENCA</ns0:globalId>
+            <ns0:primaryCategory>
+                <ns0:categoryId>9355</ns0:categoryId>
+                <ns0:categoryName>Cell Phones &amp; Smartphones</ns0:categoryName>
+            </ns0:primaryCategory>
+            <ns0:galleryURL>https://thumbs3.ebaystatic.com/pict/254589645454404000000002_1.jpg</ns0:galleryURL>
+            <ns0:viewItemURL>https://www.ebay.com/itm/Apple-iPhone-11-PRO-MAX-64GB-256GB-512GB-4G-LTE-Unlocked-/254589645454?var=554364453564</ns0:viewItemURL>
+            <ns0:paymentMethod>PayPal</ns0:paymentMethod>
+            <ns0:autoPay>true</ns0:autoPay>
+            <ns0:postalCode>M9W6C7</ns0:postalCode>
+            <ns0:location>Canada</ns0:location>
+            <ns0:country>CA</ns0:country>
+            <ns0:sellerInfo>
+                <ns0:sellerUserName>gadgetonsale</ns0:sellerUserName>
+                <ns0:feedbackScore>399</ns0:feedbackScore>
+                <ns0:positiveFeedbackPercent>99.5</ns0:positiveFeedbackPercent>
+                <ns0:feedbackRatingStar>Turquoise</ns0:feedbackRatingStar>
+                <ns0:topRatedSeller>false</ns0:topRatedSeller>
+            </ns0:sellerInfo>
+            <ns0:shippingInfo>
+                <ns0:shippingServiceCost currencyId="USD">75.77</ns0:shippingServiceCost>
+                <ns0:shippingType>Flat</ns0:shippingType>
+                <ns0:shipToLocations>Worldwide</ns0:shipToLocations>
+                <ns0:expeditedShipping>false</ns0:expeditedShipping>
+                <ns0:oneDayShippingAvailable>false</ns0:oneDayShippingAvailable>
+                <ns0:handlingTime>1</ns0:handlingTime>
+            </ns0:shippingInfo>
+            <ns0:sellingStatus>
+                <ns0:currentPrice currencyId="CAD">1899.0</ns0:currentPrice>
+                <ns0:convertedCurrentPrice currencyId="USD">1438.8</ns0:convertedCurrentPrice>
+                <ns0:sellingState>Active</ns0:sellingState>
+                <ns0:timeLeft>P13DT12H55M33S</ns0:timeLeft>
+            </ns0:sellingStatus>
+            <ns0:listingInfo>
+                <ns0:bestOfferEnabled>false</ns0:bestOfferEnabled>
+                <ns0:buyItNowAvailable>false</ns0:buyItNowAvailable>
+                <ns0:startTime>2020-05-06T17:45:28.000Z</ns0:startTime>
+                <ns0:endTime>2020-09-06T17:45:28.000Z</ns0:endTime>
+                <ns0:listingType>StoreInventory</ns0:listingType>
+                <ns0:gift>false</ns0:gift>
+                <ns0:watchCount>7</ns0:watchCount>
+            </ns0:listingInfo>
+            <ns0:returnsAccepted>true</ns0:returnsAccepted>
+            <ns0:condition>
+                <ns0:conditionId>1500</ns0:conditionId>
+                <ns0:conditionDisplayName>Open box</ns0:conditionDisplayName>
+            </ns0:condition>
+            <ns0:isMultiVariationListing>true</ns0:isMultiVariationListing>
+            <ns0:topRatedListing>false</ns0:topRatedListing>
+        </ns0:item>
+        <ns0:item>
+            <ns0:itemId>373143992336</ns0:itemId>
+            <ns0:title>Apple iPhone 11 Pro Max - 512GB - Midnight green (Unlocked) A2161 (CDMA + GSM)</ns0:title>
+            <ns0:globalId>EBAY-US</ns0:globalId>
+            <ns0:primaryCategory>
+                <ns0:categoryId>9355</ns0:categoryId>
+                <ns0:categoryName>Cell Phones &amp; Smartphones</ns0:categoryName>
+            </ns0:primaryCategory>
+            <ns0:galleryURL>https://thumbs1.ebaystatic.com/m/mWI-BN8yiFPnWQdjO6E3l9w/140.jpg</ns0:galleryURL>
+            <ns0:viewItemURL>https://www.ebay.com/itm/Apple-iPhone-11-Pro-Max-512GB-Midnight-green-Unlocked-A2161-CDMA-GSM-/373143992336</ns0:viewItemURL>
+            <ns0:productId type="ReferenceID">9034209121</ns0:productId>
+            <ns0:paymentMethod>PayPal</ns0:paymentMethod>
+            <ns0:autoPay>false</ns0:autoPay>
+            <ns0:postalCode>606**</ns0:postalCode>
+            <ns0:location>Chicago,IL,USA</ns0:location>
+            <ns0:country>US</ns0:country>
+            <ns0:sellerInfo>
+                <ns0:sellerUserName>spo4a_54</ns0:sellerUserName>
+                <ns0:feedbackScore>12</ns0:feedbackScore>
+                <ns0:positiveFeedbackPercent>100.0</ns0:positiveFeedbackPercent>
+                <ns0:feedbackRatingStar>Yellow</ns0:feedbackRatingStar>
+                <ns0:topRatedSeller>false</ns0:topRatedSeller>
+            </ns0:sellerInfo>
+            <ns0:shippingInfo>
+                <ns0:shippingServiceCost currencyId="USD">0.0</ns0:shippingServiceCost>
+                <ns0:shippingType>Free</ns0:shippingType>
+                <ns0:shipToLocations>Worldwide</ns0:shipToLocations>
+                <ns0:expeditedShipping>true</ns0:expeditedShipping>
+                <ns0:oneDayShippingAvailable>false</ns0:oneDayShippingAvailable>
+                <ns0:handlingTime>3</ns0:handlingTime>
+            </ns0:shippingInfo>
+            <ns0:sellingStatus>
+                <ns0:currentPrice currencyId="USD">1800.0</ns0:currentPrice>
+                <ns0:convertedCurrentPrice currencyId="USD">1800.0</ns0:convertedCurrentPrice>
+                <ns0:sellingState>Active</ns0:sellingState>
+                <ns0:timeLeft>P17DT10H7M33S</ns0:timeLeft>
+            </ns0:sellingStatus>
+            <ns0:listingInfo>
+                <ns0:bestOfferEnabled>false</ns0:bestOfferEnabled>
+                <ns0:buyItNowAvailable>false</ns0:buyItNowAvailable>
+                <ns0:startTime>2020-08-10T14:57:28.000Z</ns0:startTime>
+                <ns0:endTime>2020-09-10T14:57:28.000Z</ns0:endTime>
+                <ns0:listingType>FixedPrice</ns0:listingType>
+                <ns0:gift>false</ns0:gift>
+                <ns0:watchCount>2</ns0:watchCount>
+            </ns0:listingInfo>
+            <ns0:returnsAccepted>false</ns0:returnsAccepted>
+            <ns0:condition>
+                <ns0:conditionId>1000</ns0:conditionId>
+                <ns0:conditionDisplayName>New</ns0:conditionDisplayName>
+            </ns0:condition>
+            <ns0:isMultiVariationListing>false</ns0:isMultiVariationListing>
+            <ns0:topRatedListing>false</ns0:topRatedListing>
+        </ns0:item>
+        <ns0:item>
+            <ns0:itemId>274013418704</ns0:itemId>
+            <ns0:title>Apple iPhone 11 Pro Max 512GB Green REAL Dual SIM Hong Kong A2220 Unlocked FedEx</ns0:title>
+            <ns0:globalId>EBAY-US</ns0:globalId>
+            <ns0:primaryCategory>
+                <ns0:categoryId>9355</ns0:categoryId>
+                <ns0:categoryName>Cell Phones &amp; Smartphones</ns0:categoryName>
+            </ns0:primaryCategory>
+            <ns0:galleryURL>https://thumbs1.ebaystatic.com/m/m-5GNjrkqoDBXo5Ph6nkrNQ/140.jpg</ns0:galleryURL>
+            <ns0:viewItemURL>https://www.ebay.com/itm/Apple-iPhone-11-Pro-Max-512GB-Green-REAL-Dual-SIM-Hong-Kong-A2220-Unlocked-FedEx-/274013418704</ns0:viewItemURL>
+            <ns0:paymentMethod>PayPal</ns0:paymentMethod>
+            <ns0:autoPay>true</ns0:autoPay>
+            <ns0:location>Hong Kong</ns0:location>
+            <ns0:country>HK</ns0:country>
+            <ns0:sellerInfo>
+                <ns0:sellerUserName>smartshophk</ns0:sellerUserName>
+                <ns0:feedbackScore>959</ns0:feedbackScore>
+                <ns0:positiveFeedbackPercent>100.0</ns0:positiveFeedbackPercent>
+                <ns0:feedbackRatingStar>Purple</ns0:feedbackRatingStar>
+                <ns0:topRatedSeller>true</ns0:topRatedSeller>
+            </ns0:sellerInfo>
+            <ns0:shippingInfo>
+                <ns0:shippingServiceCost currencyId="USD">25.0</ns0:shippingServiceCost>
+                <ns0:shippingType>Flat</ns0:shippingType>
+                <ns0:shipToLocations>Worldwide</ns0:shipToLocations>
+                <ns0:expeditedShipping>false</ns0:expeditedShipping>
+                <ns0:oneDayShippingAvailable>false</ns0:oneDayShippingAvailable>
+                <ns0:handlingTime>2</ns0:handlingTime>
+            </ns0:shippingInfo>
+            <ns0:sellingStatus>
+                <ns0:currentPrice currencyId="USD">1798.0</ns0:currentPrice>
+                <ns0:convertedCurrentPrice currencyId="USD">1798.0</ns0:convertedCurrentPrice>
+                <ns0:sellingState>Active</ns0:sellingState>
+                <ns0:timeLeft>P24DT12H46M42S</ns0:timeLeft>
+            </ns0:sellingStatus>
+            <ns0:listingInfo>
+                <ns0:bestOfferEnabled>false</ns0:bestOfferEnabled>
+                <ns0:buyItNowAvailable>false</ns0:buyItNowAvailable>
+                <ns0:startTime>2019-09-17T17:36:37.000Z</ns0:startTime>
+                <ns0:endTime>2020-09-17T17:36:37.000Z</ns0:endTime>
+                <ns0:listingType>StoreInventory</ns0:listingType>
+                <ns0:gift>false</ns0:gift>
+                <ns0:watchCount>46</ns0:watchCount>
+            </ns0:listingInfo>
+            <ns0:returnsAccepted>false</ns0:returnsAccepted>
+            <ns0:condition>
+                <ns0:conditionId>1000</ns0:conditionId>
+                <ns0:conditionDisplayName>New</ns0:conditionDisplayName>
+            </ns0:condition>
+            <ns0:isMultiVariationListing>false</ns0:isMultiVariationListing>
+            <ns0:topRatedListing>false</ns0:topRatedListing>
+        </ns0:item>
+        <ns0:item>
+            <ns0:itemId>274460449335</ns0:itemId>
+            <ns0:title>Apple iPhone 11 Pro Max 512GB Green REAL Dual SIM A2220 Unlocked Open Box</ns0:title>
+            <ns0:globalId>EBAY-US</ns0:globalId>
+            <ns0:primaryCategory>
+                <ns0:categoryId>9355</ns0:categoryId>
+                <ns0:categoryName>Cell Phones &amp; Smartphones</ns0:categoryName>
+            </ns0:primaryCategory>
+            <ns0:galleryURL>https://thumbs4.ebaystatic.com/m/mjQbbatzrI3K8Q_7uoNFAZA/140.jpg</ns0:galleryURL>
+            <ns0:viewItemURL>https://www.ebay.com/itm/Apple-iPhone-11-Pro-Max-512GB-Green-REAL-Dual-SIM-A2220-Unlocked-Open-Box-/274460449335</ns0:viewItemURL>
+            <ns0:paymentMethod>PayPal</ns0:paymentMethod>
+            <ns0:autoPay>true</ns0:autoPay>
+            <ns0:location>Hong Kong</ns0:location>
+            <ns0:country>HK</ns0:country>
+            <ns0:sellerInfo>
+                <ns0:sellerUserName>smartshophk</ns0:sellerUserName>
+                <ns0:feedbackScore>961</ns0:feedbackScore>
+                <ns0:positiveFeedbackPercent>100.0</ns0:positiveFeedbackPercent>
+                <ns0:feedbackRatingStar>Purple</ns0:feedbackRatingStar>
+                <ns0:topRatedSeller>true</ns0:topRatedSeller>
+            </ns0:sellerInfo>
+            <ns0:shippingInfo>
+                <ns0:shippingServiceCost currencyId="USD">25.0</ns0:shippingServiceCost>
+                <ns0:shippingType>Flat</ns0:shippingType>
+                <ns0:shipToLocations>Worldwide</ns0:shipToLocations>
+                <ns0:expeditedShipping>false</ns0:expeditedShipping>
+                <ns0:oneDayShippingAvailable>false</ns0:oneDayShippingAvailable>
+                <ns0:handlingTime>2</ns0:handlingTime>
+            </ns0:shippingInfo>
+            <ns0:sellingStatus>
+                <ns0:currentPrice currencyId="USD">1848.0</ns0:currentPrice>
+                <ns0:convertedCurrentPrice currencyId="USD">1848.0</ns0:convertedCurrentPrice>
+                <ns0:sellingState>Active</ns0:sellingState>
+                <ns0:timeLeft>P22DT6H42M31S</ns0:timeLeft>
+            </ns0:sellingStatus>
+            <ns0:listingInfo>
+                <ns0:bestOfferEnabled>true</ns0:bestOfferEnabled>
+                <ns0:buyItNowAvailable>false</ns0:buyItNowAvailable>
+                <ns0:startTime>2020-08-15T11:32:26.000Z</ns0:startTime>
+                <ns0:endTime>2020-09-15T11:32:26.000Z</ns0:endTime>
+                <ns0:listingType>StoreInventory</ns0:listingType>
+                <ns0:gift>false</ns0:gift>
+                <ns0:watchCount>5</ns0:watchCount>
+            </ns0:listingInfo>
+            <ns0:returnsAccepted>false</ns0:returnsAccepted>
+            <ns0:condition>
+                <ns0:conditionId>1500</ns0:conditionId>
+                <ns0:conditionDisplayName>Open box</ns0:conditionDisplayName>
+            </ns0:condition>
+            <ns0:isMultiVariationListing>false</ns0:isMultiVariationListing>
+            <ns0:topRatedListing>false</ns0:topRatedListing>
+        </ns0:item>
+        <ns0:item>
+            <ns0:itemId>114037524027</ns0:itemId>
+            <ns0:title>Apple iPhone 11 Pro Max - 512GB - Midnight&#160;Green (Unlocked) A2161 (CDMA   GSM)</ns0:title>
+            <ns0:globalId>EBAY-US</ns0:globalId>
+            <ns0:primaryCategory>
+                <ns0:categoryId>9355</ns0:categoryId>
+                <ns0:categoryName>Cell Phones &amp; Smartphones</ns0:categoryName>
+            </ns0:primaryCategory>
+            <ns0:galleryURL>https://thumbs4.ebaystatic.com/m/mWI-BN8yiFPnWQdjO6E3l9w/140.jpg</ns0:galleryURL>
+            <ns0:viewItemURL>https://www.ebay.com/itm/Apple-iPhone-11-Pro-Max-512GB-Midnight-Green-Unlocked-A2161-CDMA-GSM-/114037524027</ns0:viewItemURL>
+            <ns0:productId type="ReferenceID">9034209121</ns0:productId>
+            <ns0:paymentMethod>PayPal</ns0:paymentMethod>
+            <ns0:autoPay>true</ns0:autoPay>
+            <ns0:postalCode>900**</ns0:postalCode>
+            <ns0:location>Los Angeles,CA,USA</ns0:location>
+            <ns0:country>US</ns0:country>
+            <ns0:sellerInfo>
+                <ns0:sellerUserName>the.lux.group</ns0:sellerUserName>
+                <ns0:feedbackScore>380</ns0:feedbackScore>
+                <ns0:positiveFeedbackPercent>100.0</ns0:positiveFeedbackPercent>
+                <ns0:feedbackRatingStar>Turquoise</ns0:feedbackRatingStar>
+                <ns0:topRatedSeller>true</ns0:topRatedSeller>
+            </ns0:sellerInfo>
+            <ns0:shippingInfo>
+                <ns0:shippingServiceCost currencyId="USD">0.0</ns0:shippingServiceCost>
+                <ns0:shippingType>Free</ns0:shippingType>
+                <ns0:shipToLocations>Worldwide</ns0:shipToLocations>
+                <ns0:expeditedShipping>true</ns0:expeditedShipping>
+                <ns0:oneDayShippingAvailable>false</ns0:oneDayShippingAvailable>
+                <ns0:handlingTime>10</ns0:handlingTime>
+            </ns0:shippingInfo>
+            <ns0:sellingStatus>
+                <ns0:currentPrice currencyId="USD">1899.0</ns0:currentPrice>
+                <ns0:convertedCurrentPrice currencyId="USD">1899.0</ns0:convertedCurrentPrice>
+                <ns0:sellingState>Active</ns0:sellingState>
+                <ns0:timeLeft>P4DT15H55M42S</ns0:timeLeft>
+            </ns0:sellingStatus>
+            <ns0:listingInfo>
+                <ns0:bestOfferEnabled>true</ns0:bestOfferEnabled>
+                <ns0:buyItNowAvailable>false</ns0:buyItNowAvailable>
+                <ns0:startTime>2019-12-28T20:45:37.000Z</ns0:startTime>
+                <ns0:endTime>2020-08-28T20:45:37.000Z</ns0:endTime>
+                <ns0:listingType>StoreInventory</ns0:listingType>
+                <ns0:gift>false</ns0:gift>
+                <ns0:watchCount>16</ns0:watchCount>
+            </ns0:listingInfo>
+            <ns0:returnsAccepted>false</ns0:returnsAccepted>
+            <ns0:condition>
+                <ns0:conditionId>1000</ns0:conditionId>
+                <ns0:conditionDisplayName>New</ns0:conditionDisplayName>
+            </ns0:condition>
+            <ns0:isMultiVariationListing>false</ns0:isMultiVariationListing>
+            <ns0:topRatedListing>false</ns0:topRatedListing>
+        </ns0:item>
+        <ns0:item>
+            <ns0:itemId>114157441315</ns0:itemId>
+            <ns0:title>NEW Apple iPhone 11 Pro Max 512GB - Midnight Green - WORLDWIDE UNLOCKED - 2020</ns0:title>
+            <ns0:globalId>EBAY-US</ns0:globalId>
+            <ns0:primaryCategory>
+                <ns0:categoryId>9355</ns0:categoryId>
+                <ns0:categoryName>Cell Phones &amp; Smartphones</ns0:categoryName>
+            </ns0:primaryCategory>
+            <ns0:galleryURL>https://thumbs4.ebaystatic.com/m/mKhtkpdBjU5LxY_3L2oivLQ/140.jpg</ns0:galleryURL>
+            <ns0:viewItemURL>https://www.ebay.com/itm/NEW-Apple-iPhone-11-Pro-Max-512GB-Midnight-Green-WORLDWIDE-UNLOCKED-2020-/114157441315</ns0:viewItemURL>
+            <ns0:productId type="ReferenceID">9034209121</ns0:productId>
+            <ns0:autoPay>true</ns0:autoPay>
+            <ns0:postalCode>902**</ns0:postalCode>
+            <ns0:location>Beverly Hills,CA,USA</ns0:location>
+            <ns0:country>US</ns0:country>
+            <ns0:sellerInfo>
+                <ns0:sellerUserName>hammercosmetics</ns0:sellerUserName>
+                <ns0:feedbackScore>386</ns0:feedbackScore>
+                <ns0:positiveFeedbackPercent>99.2</ns0:positiveFeedbackPercent>
+                <ns0:feedbackRatingStar>Turquoise</ns0:feedbackRatingStar>
+                <ns0:topRatedSeller>true</ns0:topRatedSeller>
+            </ns0:sellerInfo>
+            <ns0:shippingInfo>
+                <ns0:shippingServiceCost currencyId="USD">0.0</ns0:shippingServiceCost>
+                <ns0:shippingType>FlatDomesticCalculatedInternational</ns0:shippingType>
+                <ns0:shipToLocations>Worldwide</ns0:shipToLocations>
+                <ns0:expeditedShipping>false</ns0:expeditedShipping>
+                <ns0:oneDayShippingAvailable>false</ns0:oneDayShippingAvailable>
+                <ns0:handlingTime>3</ns0:handlingTime>
+            </ns0:shippingInfo>
+            <ns0:sellingStatus>
+                <ns0:currentPrice currencyId="USD">2099.99</ns0:currentPrice>
+                <ns0:convertedCurrentPrice currencyId="USD">2099.99</ns0:convertedCurrentPrice>
+                <ns0:sellingState>Active</ns0:sellingState>
+                <ns0:timeLeft>P30DT11H46M45S</ns0:timeLeft>
+            </ns0:sellingStatus>
+            <ns0:listingInfo>
+                <ns0:bestOfferEnabled>false</ns0:bestOfferEnabled>
+                <ns0:buyItNowAvailable>false</ns0:buyItNowAvailable>
+                <ns0:startTime>2020-03-23T16:36:40.000Z</ns0:startTime>
+                <ns0:endTime>2020-09-23T16:36:40.000Z</ns0:endTime>
+                <ns0:listingType>StoreInventory</ns0:listingType>
+                <ns0:gift>false</ns0:gift>
+                <ns0:watchCount>132</ns0:watchCount>
+            </ns0:listingInfo>
+            <ns0:returnsAccepted>false</ns0:returnsAccepted>
+            <ns0:condition>
+                <ns0:conditionId>1000</ns0:conditionId>
+                <ns0:conditionDisplayName>New</ns0:conditionDisplayName>
+            </ns0:condition>
+            <ns0:isMultiVariationListing>false</ns0:isMultiVariationListing>
+            <ns0:topRatedListing>false</ns0:topRatedListing>
+        </ns0:item>
+        <ns0:item>
+            <ns0:itemId>114175983942</ns0:itemId>
+            <ns0:title>NEW Apple iPhone 11 Pro Max 512GB - Midnight Green UNLOCKED - AppleCare+ &amp; Theft</ns0:title>
+            <ns0:globalId>EBAY-US</ns0:globalId>
+            <ns0:primaryCategory>
+                <ns0:categoryId>9355</ns0:categoryId>
+                <ns0:categoryName>Cell Phones &amp; Smartphones</ns0:categoryName>
+            </ns0:primaryCategory>
+            <ns0:galleryURL>https://thumbs3.ebaystatic.com/m/mKhtkpdBjU5LxY_3L2oivLQ/140.jpg</ns0:galleryURL>
+            <ns0:viewItemURL>https://www.ebay.com/itm/NEW-Apple-iPhone-11-Pro-Max-512GB-Midnight-Green-UNLOCKED-AppleCare-Theft-/114175983942</ns0:viewItemURL>
+            <ns0:productId type="ReferenceID">9034209121</ns0:productId>
+            <ns0:paymentMethod>PayPal</ns0:paymentMethod>
+            <ns0:autoPay>true</ns0:autoPay>
+            <ns0:postalCode>902**</ns0:postalCode>
+            <ns0:location>Beverly Hills,CA,USA</ns0:location>
+            <ns0:country>US</ns0:country>
+            <ns0:sellerInfo>
+                <ns0:sellerUserName>hammercosmetics</ns0:sellerUserName>
+                <ns0:feedbackScore>385</ns0:feedbackScore>
+                <ns0:positiveFeedbackPercent>99.2</ns0:positiveFeedbackPercent>
+                <ns0:feedbackRatingStar>Turquoise</ns0:feedbackRatingStar>
+                <ns0:topRatedSeller>true</ns0:topRatedSeller>
+            </ns0:sellerInfo>
+            <ns0:shippingInfo>
+                <ns0:shippingServiceCost currencyId="USD">0.0</ns0:shippingServiceCost>
+                <ns0:shippingType>FlatDomesticCalculatedInternational</ns0:shippingType>
+                <ns0:shipToLocations>Worldwide</ns0:shipToLocations>
+                <ns0:expeditedShipping>false</ns0:expeditedShipping>
+                <ns0:oneDayShippingAvailable>true</ns0:oneDayShippingAvailable>
+                <ns0:handlingTime>3</ns0:handlingTime>
+            </ns0:shippingInfo>
+            <ns0:sellingStatus>
+                <ns0:currentPrice currencyId="USD">2499.99</ns0:currentPrice>
+                <ns0:convertedCurrentPrice currencyId="USD">2499.99</ns0:convertedCurrentPrice>
+                <ns0:sellingState>Active</ns0:sellingState>
+                <ns0:timeLeft>P13DT18H28M31S</ns0:timeLeft>
+            </ns0:sellingStatus>
+            <ns0:listingInfo>
+                <ns0:bestOfferEnabled>false</ns0:bestOfferEnabled>
+                <ns0:buyItNowAvailable>false</ns0:buyItNowAvailable>
+                <ns0:startTime>2020-04-06T23:18:26.000Z</ns0:startTime>
+                <ns0:endTime>2020-09-06T23:18:26.000Z</ns0:endTime>
+                <ns0:listingType>StoreInventory</ns0:listingType>
+                <ns0:gift>false</ns0:gift>
+                <ns0:watchCount>32</ns0:watchCount>
+            </ns0:listingInfo>
+            <ns0:returnsAccepted>false</ns0:returnsAccepted>
+            <ns0:condition>
+                <ns0:conditionId>1000</ns0:conditionId>
+                <ns0:conditionDisplayName>New</ns0:conditionDisplayName>
+            </ns0:condition>
+            <ns0:isMultiVariationListing>false</ns0:isMultiVariationListing>
+            <ns0:topRatedListing>false</ns0:topRatedListing>
+        </ns0:item>
+        <ns0:item>
+            <ns0:itemId>223747211336</ns0:itemId>
+            <ns0:title>Apple iPhone 11 Pro Max - 512GB - Midnight Green (Unlocked) A2161 (CDMA + GSM)  </ns0:title>
+            <ns0:globalId>EBAY-US</ns0:globalId>
+            <ns0:primaryCategory>
+                <ns0:categoryId>9355</ns0:categoryId>
+                <ns0:categoryName>Cell Phones &amp; Smartphones</ns0:categoryName>
+            </ns0:primaryCategory>
+            <ns0:galleryURL>https://thumbs1.ebaystatic.com/m/mWI-BN8yiFPnWQdjO6E3l9w/140.jpg</ns0:galleryURL>
+            <ns0:viewItemURL>https://www.ebay.com/itm/Apple-iPhone-11-Pro-Max-512GB-Midnight-Green-Unlocked-A2161-CDMA-GSM-/223747211336</ns0:viewItemURL>
+            <ns0:productId type="ReferenceID">9034209121</ns0:productId>
+            <ns0:paymentMethod>PayPal</ns0:paymentMethod>
+            <ns0:autoPay>true</ns0:autoPay>
+            <ns0:location>USA</ns0:location>
+            <ns0:country>US</ns0:country>
+            <ns0:sellerInfo>
+                <ns0:sellerUserName>product363</ns0:sellerUserName>
+                <ns0:feedbackScore>1233</ns0:feedbackScore>
+                <ns0:positiveFeedbackPercent>100.0</ns0:positiveFeedbackPercent>
+                <ns0:feedbackRatingStar>Red</ns0:feedbackRatingStar>
+                <ns0:topRatedSeller>true</ns0:topRatedSeller>
+            </ns0:sellerInfo>
+            <ns0:shippingInfo>
+                <ns0:shippingServiceCost currencyId="USD">24.99</ns0:shippingServiceCost>
+                <ns0:shippingType>Flat</ns0:shippingType>
+                <ns0:shipToLocations>Worldwide</ns0:shipToLocations>
+                <ns0:expeditedShipping>true</ns0:expeditedShipping>
+                <ns0:oneDayShippingAvailable>true</ns0:oneDayShippingAvailable>
+                <ns0:handlingTime>3</ns0:handlingTime>
+            </ns0:shippingInfo>
+            <ns0:sellingStatus>
+                <ns0:currentPrice currencyId="USD">2488.98</ns0:currentPrice>
+                <ns0:convertedCurrentPrice currencyId="USD">2488.98</ns0:convertedCurrentPrice>
+                <ns0:sellingState>Active</ns0:sellingState>
+                <ns0:timeLeft>P19DT20H23M25S</ns0:timeLeft>
+            </ns0:sellingStatus>
+            <ns0:listingInfo>
+                <ns0:bestOfferEnabled>false</ns0:bestOfferEnabled>
+                <ns0:buyItNowAvailable>false</ns0:buyItNowAvailable>
+                <ns0:startTime>2019-11-13T01:13:20.000Z</ns0:startTime>
+                <ns0:endTime>2020-09-13T01:13:20.000Z</ns0:endTime>
+                <ns0:listingType>StoreInventory</ns0:listingType>
+                <ns0:gift>false</ns0:gift>
+                <ns0:watchCount>6</ns0:watchCount>
+            </ns0:listingInfo>
+            <ns0:returnsAccepted>true</ns0:returnsAccepted>
+            <ns0:condition>
+                <ns0:conditionId>1000</ns0:conditionId>
+                <ns0:conditionDisplayName>New</ns0:conditionDisplayName>
+            </ns0:condition>
+            <ns0:isMultiVariationListing>false</ns0:isMultiVariationListing>
+            <ns0:topRatedListing>false</ns0:topRatedListing>
+        </ns0:item>
+        <ns0:item>
+            <ns0:itemId>193193498298</ns0:itemId>
+            <ns0:title> iPhone 11 Pro Max - 512GB - Midnight&#160;Green / Green &amp; Gold Luxury Edition</ns0:title>
+            <ns0:globalId>EBAY-US</ns0:globalId>
+            <ns0:primaryCategory>
+                <ns0:categoryId>9355</ns0:categoryId>
+                <ns0:categoryName>Cell Phones &amp; Smartphones</ns0:categoryName>
+            </ns0:primaryCategory>
+            <ns0:galleryURL>https://thumbs3.ebaystatic.com/m/mf4fQ7bkB_pG6UMs04x1bQQ/140.jpg</ns0:galleryURL>
+            <ns0:viewItemURL>https://www.ebay.com/itm/iPhone-11-Pro-Max-512GB-Midnight-Green-Green-Gold-Luxury-Edition-/193193498298</ns0:viewItemURL>
+            <ns0:productId type="ReferenceID">9034209121</ns0:productId>
+            <ns0:paymentMethod>PayPal</ns0:paymentMethod>
+            <ns0:autoPay>true</ns0:autoPay>
+            <ns0:location>United Arab Emirates</ns0:location>
+            <ns0:country>AE</ns0:country>
+            <ns0:sellerInfo>
+                <ns0:sellerUserName>hollywoodtoysme</ns0:sellerUserName>
+                <ns0:feedbackScore>698</ns0:feedbackScore>
+                <ns0:positiveFeedbackPercent>85.0</ns0:positiveFeedbackPercent>
+                <ns0:feedbackRatingStar>Purple</ns0:feedbackRatingStar>
+                <ns0:topRatedSeller>false</ns0:topRatedSeller>
+            </ns0:sellerInfo>
+            <ns0:shippingInfo>
+                <ns0:shippingServiceCost currencyId="USD">25.0</ns0:shippingServiceCost>
+                <ns0:shippingType>Flat</ns0:shippingType>
+                <ns0:shipToLocations>Worldwide</ns0:shipToLocations>
+                <ns0:expeditedShipping>false</ns0:expeditedShipping>
+                <ns0:oneDayShippingAvailable>false</ns0:oneDayShippingAvailable>
+                <ns0:handlingTime>3</ns0:handlingTime>
+            </ns0:shippingInfo>
+            <ns0:sellingStatus>
+                <ns0:currentPrice currencyId="USD">2600.0</ns0:currentPrice>
+                <ns0:convertedCurrentPrice currencyId="USD">2600.0</ns0:convertedCurrentPrice>
+                <ns0:sellingState>Active</ns0:sellingState>
+                <ns0:timeLeft>P12DT0H32M3S</ns0:timeLeft>
+            </ns0:sellingStatus>
+            <ns0:listingInfo>
+                <ns0:bestOfferEnabled>false</ns0:bestOfferEnabled>
+                <ns0:buyItNowAvailable>false</ns0:buyItNowAvailable>
+                <ns0:startTime>2019-11-05T05:21:58.000Z</ns0:startTime>
+                <ns0:endTime>2020-09-05T05:21:58.000Z</ns0:endTime>
+                <ns0:listingType>StoreInventory</ns0:listingType>
+                <ns0:gift>false</ns0:gift>
+                <ns0:watchCount>88</ns0:watchCount>
+            </ns0:listingInfo>
+            <ns0:returnsAccepted>true</ns0:returnsAccepted>
+            <ns0:condition>
+                <ns0:conditionId>1000</ns0:conditionId>
+                <ns0:conditionDisplayName>New</ns0:conditionDisplayName>
+            </ns0:condition>
+            <ns0:isMultiVariationListing>false</ns0:isMultiVariationListing>
+            <ns0:topRatedListing>false</ns0:topRatedListing>
+        </ns0:item>
+        <ns0:item>
+            <ns0:itemId>224127044951</ns0:itemId>
+            <ns0:title>Apple iPhone 11 Pro Max - 512GB - White (Unlocked) A2161 (CDMA + GSM)</ns0:title>
+            <ns0:globalId>EBAY-US</ns0:globalId>
+            <ns0:primaryCategory>
+                <ns0:categoryId>9355</ns0:categoryId>
+                <ns0:categoryName>Cell Phones &amp; Smartphones</ns0:categoryName>
+            </ns0:primaryCategory>
+            <ns0:galleryURL>https://thumbs4.ebaystatic.com/m/mb6KjBZlztOQWKRgjzZlEYA/140.jpg</ns0:galleryURL>
+            <ns0:viewItemURL>https://www.ebay.com/itm/Apple-iPhone-11-Pro-Max-512GB-White-Unlocked-A2161-CDMA-GSM-/224127044951</ns0:viewItemURL>
+            <ns0:paymentMethod>PayPal</ns0:paymentMethod>
+            <ns0:autoPay>false</ns0:autoPay>
+            <ns0:postalCode>900**</ns0:postalCode>
+            <ns0:location>Los Angeles,CA,USA</ns0:location>
+            <ns0:country>US</ns0:country>
+            <ns0:sellerInfo>
+                <ns0:sellerUserName>sha_race</ns0:sellerUserName>
+                <ns0:feedbackScore>430</ns0:feedbackScore>
+                <ns0:positiveFeedbackPercent>100.0</ns0:positiveFeedbackPercent>
+                <ns0:feedbackRatingStar>Turquoise</ns0:feedbackRatingStar>
+                <ns0:topRatedSeller>false</ns0:topRatedSeller>
+            </ns0:sellerInfo>
+            <ns0:shippingInfo>
+                <ns0:shippingType>Calculated</ns0:shippingType>
+                <ns0:shipToLocations>Worldwide</ns0:shipToLocations>
+                <ns0:expeditedShipping>true</ns0:expeditedShipping>
+                <ns0:oneDayShippingAvailable>false</ns0:oneDayShippingAvailable>
+                <ns0:handlingTime>0</ns0:handlingTime>
+            </ns0:shippingInfo>
+            <ns0:sellingStatus>
+                <ns0:currentPrice currencyId="USD">1920.0</ns0:currentPrice>
+                <ns0:convertedCurrentPrice currencyId="USD">1920.0</ns0:convertedCurrentPrice>
+                <ns0:sellingState>Active</ns0:sellingState>
+                <ns0:timeLeft>P28DT13H56M38S</ns0:timeLeft>
+            </ns0:sellingStatus>
+            <ns0:listingInfo>
+                <ns0:bestOfferEnabled>false</ns0:bestOfferEnabled>
+                <ns0:buyItNowAvailable>false</ns0:buyItNowAvailable>
+                <ns0:startTime>2020-08-21T18:46:33.000Z</ns0:startTime>
+                <ns0:endTime>2020-09-21T18:46:33.000Z</ns0:endTime>
+                <ns0:listingType>FixedPrice</ns0:listingType>
+                <ns0:gift>false</ns0:gift>
+            </ns0:listingInfo>
+            <ns0:returnsAccepted>false</ns0:returnsAccepted>
+            <ns0:condition>
+                <ns0:conditionId>1000</ns0:conditionId>
+                <ns0:conditionDisplayName>New</ns0:conditionDisplayName>
+            </ns0:condition>
+            <ns0:isMultiVariationListing>false</ns0:isMultiVariationListing>
+            <ns0:topRatedListing>false</ns0:topRatedListing>
+        </ns0:item>
+    </ns0:searchResult>
+    <ns0:paginationOutput>
+        <ns0:pageNumber>1</ns0:pageNumber>
+        <ns0:entriesPerPage>50</ns0:entriesPerPage>
+        <ns0:totalPages>1</ns0:totalPages>
+        <ns0:totalEntries>16</ns0:totalEntries>
+    </ns0:paginationOutput>
+    <ns0:itemSearchURL>https://www.ebay.com/sch/9355/i.html?LH_ItemCondition=1&amp;_nkw=Apple+iPhone+11+Pro+Max+512GB+Midnight+Green&amp;LH_BIN=1&amp;_ddo=1&amp;_incaucbin=0&amp;_ipg=50&amp;_os=S%7CD&amp;_pgn=1&amp;_sop=15</ns0:itemSearchURL>
+</ns0:findItemsAdvancedResponse>
