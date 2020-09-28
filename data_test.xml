@@ -1,0 +1,2549 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<findItemsByProductResponse xmlns="http://www.ebay.com/marketplace/search/v1/services">
+    <ack>Success</ack>
+    <version>1.13.0</version>
+    <timestamp>2020-08-31T18:01:04.046Z</timestamp>
+    <searchResult count="48">
+        <item>
+            <itemId>224118444447</itemId>
+            <title>Harry Potter and the Half-Blood Prince 6~J. K. Rowling (1st Edition, Hardcover)</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs4.ebaystatic.com/m/mBHe6LMqEx0pIsx9dnkGsMg/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-6-J-K-Rowling-1st-Edition-Hardcover-/224118444447</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>true</autoPay>
+            <postalCode>782**</postalCode>
+            <location>San Antonio,TX,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>picturingyou06</sellerUserName>
+                <feedbackScore>720</feedbackScore>
+                <positiveFeedbackPercent>100.0</positiveFeedbackPercent>
+                <feedbackRatingStar>Purple</feedbackRatingStar>
+                <topRatedSeller>false</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+                <shippingType>FreePickup</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>true</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>2</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">12.99</currentPrice>
+                <convertedCurrentPrice currencyId="USD">12.99</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P14DT8H4M24S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>true</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-08-15T02:05:28.000Z</startTime>
+                <endTime>2020-09-15T02:05:28.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>true</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>233668636016</itemId>
+            <title>1st Edition 1st Printing Harry Potter and the Half-Blood Prince J. K. Rowling HC</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs1.ebaystatic.com/m/mJNlNsti27DFwyRNRmjOkuw/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/1st-Edition-1st-Printing-Harry-Potter-and-Half-Blood-Prince-J-K-Rowling-HC-/233668636016</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>true</autoPay>
+            <postalCode>574**</postalCode>
+            <location>Selby,SD,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>csfch.sc.5c5wbp</sellerUserName>
+                <feedbackScore>17</feedbackScore>
+                <positiveFeedbackPercent>100.0</positiveFeedbackPercent>
+                <feedbackRatingStar>Yellow</feedbackRatingStar>
+                <topRatedSeller>false</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+                <shippingType>Free</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>false</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>3</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">15.0</currentPrice>
+                <convertedCurrentPrice currencyId="USD">15.0</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P2DT3H12M11S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>true</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-08-02T21:13:15.000Z</startTime>
+                <endTime>2020-09-02T21:13:15.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+                <watchCount>1</watchCount>
+            </listingInfo>
+            <returnsAccepted>false</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>383633021732</itemId>
+            <title>Harry Potter and the Half Blood Prince</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs1.ebaystatic.com/m/mNfOB1xODLTRA9VmaEaBRvw/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-/383633021732</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>true</autoPay>
+            <postalCode>191**</postalCode>
+            <location>Philadelphia,PA,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>lowcost-10</sellerUserName>
+                <feedbackScore>3562</feedbackScore>
+                <positiveFeedbackPercent>99.5</positiveFeedbackPercent>
+                <feedbackRatingStar>Red</feedbackRatingStar>
+                <topRatedSeller>false</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+                <shippingType>Free</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>false</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>2</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">15.99</currentPrice>
+                <convertedCurrentPrice currencyId="USD">15.99</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P14DT5H36M54S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>true</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-07-14T23:37:58.000Z</startTime>
+                <endTime>2020-09-14T23:37:58.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+                <watchCount>2</watchCount>
+            </listingInfo>
+            <returnsAccepted>true</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>274460996634</itemId>
+            <title>HARRY POTTER AND THE HALF-BLOOD PRINCE BOOK 1ST AMERICAN EDITION NEW! HC/DJ</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs3.ebaystatic.com/m/mVQr4KpTzJGLvwv63GwK0wA/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/HARRY-POTTER-AND-HALF-BLOOD-PRINCE-BOOK-1ST-AMERICAN-EDITION-NEW-HC-DJ-/274460996634</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <autoPay>false</autoPay>
+            <postalCode>217**</postalCode>
+            <location>Monrovia,MD,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>jamkelmusic</sellerUserName>
+                <feedbackScore>2414</feedbackScore>
+                <positiveFeedbackPercent>99.7</positiveFeedbackPercent>
+                <feedbackRatingStar>Red</feedbackRatingStar>
+                <topRatedSeller>true</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">4.0</shippingServiceCost>
+                <shippingType>Flat</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>false</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>2</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">11.99</currentPrice>
+                <convertedCurrentPrice currencyId="USD">11.99</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P15DT5H44M36S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>true</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-08-15T23:45:40.000Z</startTime>
+                <endTime>2020-09-15T23:45:40.000Z</endTime>
+                <listingType>StoreInventory</listingType>
+                <gift>false</gift>
+                <watchCount>2</watchCount>
+            </listingInfo>
+            <returnsAccepted>false</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>264647039351</itemId>
+            <title>BRAND NEW Harry Potter &amp; the Half Blood Prince, USA 1st Edition 2005 FREE SHIP!</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs4.ebaystatic.com/m/mZoDouNjvBTWM3T8mNqjhgw/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/BRAND-NEW-Harry-Potter-Half-Blood-Prince-USA-1st-Edition-2005-FREE-SHIP-/264647039351</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>true</autoPay>
+            <postalCode>766**</postalCode>
+            <location>Hewitt,TX,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>37th_and_union</sellerUserName>
+                <feedbackScore>185</feedbackScore>
+                <positiveFeedbackPercent>100.0</positiveFeedbackPercent>
+                <feedbackRatingStar>Turquoise</feedbackRatingStar>
+                <topRatedSeller>false</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+                <shippingType>Free</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>false</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>2</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">21.99</currentPrice>
+                <convertedCurrentPrice currencyId="USD">21.99</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P24DT18H55M1S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>true</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-02-25T12:56:05.000Z</startTime>
+                <endTime>2020-09-25T12:56:05.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>true</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>114231597472</itemId>
+            <title>HARRY POTTER &amp; THE HALF-BLOOD PRINCE-J. K. Rowling-BRAND NEW 1st Ed, Print HC dj</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs1.ebaystatic.com/m/mZoDouNjvBTWM3T8mNqjhgw/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/HARRY-POTTER-HALF-BLOOD-PRINCE-J-K-Rowling-BRAND-NEW-1st-Ed-Print-HC-dj-/114231597472</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>false</autoPay>
+            <postalCode>076**</postalCode>
+            <location>Ridgefield Park,NJ,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>yonderbound</sellerUserName>
+                <feedbackScore>615</feedbackScore>
+                <positiveFeedbackPercent>99.5</positiveFeedbackPercent>
+                <feedbackRatingStar>Purple</feedbackRatingStar>
+                <topRatedSeller>false</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingType>Calculated</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>false</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>3</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">18.3</currentPrice>
+                <convertedCurrentPrice currencyId="USD">18.3</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P21DT4H43M20S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>false</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-05-21T22:44:24.000Z</startTime>
+                <endTime>2020-09-21T22:44:24.000Z</endTime>
+                <listingType>StoreInventory</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>false</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>282819327751</itemId>
+            <title>Harry Potter and the Half-Blood Prince by J K Rowling: New</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs4.ebaystatic.com/m/miwYm926zSdq7GFIStdXg0g/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-J-K-Rowling-New-/282819327751</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>true</autoPay>
+            <postalCode>894**</postalCode>
+            <location>Sparks,NV,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>alibrisbooks</sellerUserName>
+                <feedbackScore>186367</feedbackScore>
+                <positiveFeedbackPercent>99.4</positiveFeedbackPercent>
+                <feedbackRatingStar>RedShooting</feedbackRatingStar>
+                <topRatedSeller>true</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">3.99</shippingServiceCost>
+                <shippingType>Flat</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>true</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>2</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">18.74</currentPrice>
+                <convertedCurrentPrice currencyId="USD">18.74</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P22DT5H17M31S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>false</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2018-01-22T23:18:35.000Z</startTime>
+                <endTime>2020-09-22T23:18:35.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+                <watchCount>2</watchCount>
+            </listingInfo>
+            <returnsAccepted>true</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>402324070565</itemId>
+            <title>Harry Potter and the Half-Blood Prince 6 by J. K. Rowling (2005, Hardcover)</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs2.ebaystatic.com/m/mJCRzo8V8Rn0qC-h2bCzVaw/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-6-J-K-Rowling-2005-Hardcover-/402324070565</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>true</autoPay>
+            <postalCode>305**</postalCode>
+            <location>Buford,GA,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>koothi_52</sellerUserName>
+                <feedbackScore>3</feedbackScore>
+                <positiveFeedbackPercent>100.0</positiveFeedbackPercent>
+                <feedbackRatingStar>None</feedbackRatingStar>
+                <topRatedSeller>false</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingType>Calculated</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>true</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>3</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">15.0</currentPrice>
+                <convertedCurrentPrice currencyId="USD">15.0</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P12DT2H50M54S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>true</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-07-13T08:52:04.000Z</startTime>
+                <endTime>2020-09-12T20:51:58.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>false</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>274426356160</itemId>
+            <title>Harry Potter and the Half-blood Prince, Hardcover by Rowling, J. K.; Grandpr�...</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs1.ebaystatic.com/m/mWeNbKFN853VjU1-qu28u8A/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-blood-Prince-Hardcover-Rowling-J-K-Grandpre-/274426356160</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>true</autoPay>
+            <postalCode>207**</postalCode>
+            <location>Jessup,MD,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>greatbookprices2</sellerUserName>
+                <feedbackScore>111165</feedbackScore>
+                <positiveFeedbackPercent>99.0</positiveFeedbackPercent>
+                <feedbackRatingStar>RedShooting</feedbackRatingStar>
+                <topRatedSeller>true</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+                <shippingType>Free</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>false</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>4</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">22.78</currentPrice>
+                <convertedCurrentPrice currencyId="USD">22.78</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P12DT8H50M56S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>false</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-07-13T02:52:00.000Z</startTime>
+                <endTime>2020-09-13T02:52:00.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>true</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <discountPriceInfo>
+                <originalRetailPrice currencyId="USD">29.99</originalRetailPrice>
+                <pricingTreatment>STP</pricingTreatment>
+                <soldOnEbay>false</soldOnEbay>
+                <soldOffEbay>false</soldOffEbay>
+            </discountPriceInfo>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>293450820208</itemId>
+            <title>Harry Potter and the Half-Blood Prince. New 1st First Edition USA. JK Rowling</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs1.ebaystatic.com/m/moItjwWLkGWsoKjpcmlqBCg/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-New-1st-First-Edition-USA-JK-Rowling-/293450820208</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>false</autoPay>
+            <postalCode>075**</postalCode>
+            <location>Paterson,NJ,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>rinkuhero</sellerUserName>
+                <feedbackScore>194</feedbackScore>
+                <positiveFeedbackPercent>100.0</positiveFeedbackPercent>
+                <feedbackRatingStar>Turquoise</feedbackRatingStar>
+                <topRatedSeller>true</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingType>Calculated</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>false</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>3</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">18.99</currentPrice>
+                <convertedCurrentPrice currencyId="USD">18.99</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P29DT8H56M51S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>false</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-01-30T02:57:55.000Z</startTime>
+                <endTime>2020-09-30T02:57:55.000Z</endTime>
+                <listingType>StoreInventory</listingType>
+                <gift>false</gift>
+                <watchCount>2</watchCount>
+            </listingInfo>
+            <returnsAccepted>true</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>203056418707</itemId>
+            <title>Harry Potter and the Half-Blood Prince Hardback American 1st Edition 2005</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs4.ebaystatic.com/m/mpyMa3HjL8csMZ1wcorA-Vw/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-Hardback-American-1st-Edition-2005-/203056418707</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>false</autoPay>
+            <postalCode>982**</postalCode>
+            <location>Marysville,WA,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>motoxstop</sellerUserName>
+                <feedbackScore>658</feedbackScore>
+                <positiveFeedbackPercent>100.0</positiveFeedbackPercent>
+                <feedbackRatingStar>Purple</feedbackRatingStar>
+                <topRatedSeller>false</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">4.75</shippingServiceCost>
+                <shippingType>Flat</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>true</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>3</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">18.99</currentPrice>
+                <convertedCurrentPrice currencyId="USD">18.99</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P22DT21H22M29S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>false</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-07-23T15:23:33.000Z</startTime>
+                <endTime>2020-09-23T15:23:33.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>false</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>382182070981</itemId>
+            <title>Harry Potter and the Half-Blood Prince (Hardback or Cased Book)</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs2.ebaystatic.com/m/mk3rc0H1IdJnRm2I5Z1yb_w/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-Hardback-Cased-Book-/382182070981</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <autoPay>true</autoPay>
+            <postalCode>495**</postalCode>
+            <location>Grand Rapids,MI,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>bargainbookstores</sellerUserName>
+                <feedbackScore>903666</feedbackScore>
+                <positiveFeedbackPercent>99.7</positiveFeedbackPercent>
+                <feedbackRatingStar>RedShooting</feedbackRatingStar>
+                <topRatedSeller>true</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+                <shippingType>Free</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>false</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>5</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">23.98</currentPrice>
+                <convertedCurrentPrice currencyId="USD">23.98</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P0DT9H10M2S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>false</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2017-08-01T03:11:06.000Z</startTime>
+                <endTime>2020-09-01T03:11:06.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+                <watchCount>1</watchCount>
+            </listingInfo>
+            <returnsAccepted>true</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <discountPriceInfo>
+                <originalRetailPrice currencyId="USD">28.78</originalRetailPrice>
+                <pricingTreatment>STP</pricingTreatment>
+                <soldOnEbay>false</soldOnEbay>
+                <soldOffEbay>false</soldOffEbay>
+            </discountPriceInfo>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>254591347705</itemId>
+            <title>HARRY POTTER and the Half-Blood Prince First Printing Nice Shape (Like Magic) FB</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>26425</categoryId>
+                <categoryName>Other Collectible Lots</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs2.ebaystatic.com/m/mV5WeHG-vHNahzinYOrxRGw/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/HARRY-POTTER-and-Half-Blood-Prince-First-Printing-Nice-Shape-Like-Magic-FB-/254591347705</viewItemURL>
+            <autoPay>true</autoPay>
+            <postalCode>852**</postalCode>
+            <location>Chandler,AZ,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>halcptr</sellerUserName>
+                <feedbackScore>11250</feedbackScore>
+                <positiveFeedbackPercent>100.0</positiveFeedbackPercent>
+                <feedbackRatingStar>YellowShooting</feedbackRatingStar>
+                <topRatedSeller>true</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">4.99</shippingServiceCost>
+                <shippingType>FlatDomesticCalculatedInternational</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>false</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>1</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">18.99</currentPrice>
+                <convertedCurrentPrice currencyId="USD">18.99</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P7DT23H57M0S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>true</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-05-08T17:58:04.000Z</startTime>
+                <endTime>2020-09-08T17:58:04.000Z</endTime>
+                <listingType>StoreInventory</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>true</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>true</topRatedListing>
+        </item>
+        <item>
+            <itemId>133462194082</itemId>
+            <title>Harry Potter and the Half-Blood Prince by Mary Grandpre 9780439784542</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs3.ebaystatic.com/m/msltHbMAgWgXBS84COVFdog/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-Mary-Grandpre-9780439784542-/133462194082</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>true</autoPay>
+            <location>USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>worderyus</sellerUserName>
+                <feedbackScore>135499</feedbackScore>
+                <positiveFeedbackPercent>99.0</positiveFeedbackPercent>
+                <feedbackRatingStar>RedShooting</feedbackRatingStar>
+                <topRatedSeller>false</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+                <shippingType>Free</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>false</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>1</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">24.98</currentPrice>
+                <convertedCurrentPrice currencyId="USD">24.98</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P9DT23H58M18S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>false</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-07-10T17:59:22.000Z</startTime>
+                <endTime>2020-09-10T17:59:22.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>true</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>124246482226</itemId>
+            <title>HARRY POTTER AND THE Half Blood Prince J.K. Rowling 1ST US Edition 2005 NEW</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs3.ebaystatic.com/m/mxQ0QCDd17m-hK_PYqMMIJQ/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/HARRY-POTTER-AND-Half-Blood-Prince-J-K-Rowling-1ST-US-Edition-2005-NEW-/124246482226</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <autoPay>false</autoPay>
+            <postalCode>980**</postalCode>
+            <location>Renton,WA,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>kittyslistings</sellerUserName>
+                <feedbackScore>2245</feedbackScore>
+                <positiveFeedbackPercent>99.9</positiveFeedbackPercent>
+                <feedbackRatingStar>Red</feedbackRatingStar>
+                <topRatedSeller>true</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+                <shippingType>Free</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>false</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>1</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">24.99</currentPrice>
+                <convertedCurrentPrice currencyId="USD">24.99</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P3DT5H4M18S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>false</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-07-03T23:05:22.000Z</startTime>
+                <endTime>2020-09-03T23:05:22.000Z</endTime>
+                <listingType>StoreInventory</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>true</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>264359772373</itemId>
+            <title>HARRY POTTER AND THE HALF-BLOOD PRINCE by J. K. Rowling 2005 NEW HCDJ 1-Ed/1-P</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171228</categoryId>
+                <categoryName>Fiction &amp; Literature</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs2.ebaystatic.com/m/mBnoCqlCAZK5YsyewahxrHg/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/HARRY-POTTER-AND-HALF-BLOOD-PRINCE-J-K-Rowling-2005-NEW-HCDJ-1-Ed-1-P-/264359772373</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>false</autoPay>
+            <postalCode>323**</postalCode>
+            <location>Monticello,FL,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>startrekfanfromwaybackwhenkirkwasyoung</sellerUserName>
+                <feedbackScore>5098</feedbackScore>
+                <positiveFeedbackPercent>100.0</positiveFeedbackPercent>
+                <feedbackRatingStar>Green</feedbackRatingStar>
+                <topRatedSeller>true</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+                <shippingType>FlatDomesticCalculatedInternational</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>false</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>3</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">25.0</currentPrice>
+                <convertedCurrentPrice currencyId="USD">25.0</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P12DT1H41M20S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>false</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2019-06-12T19:42:24.000Z</startTime>
+                <endTime>2020-09-12T19:42:24.000Z</endTime>
+                <listingType>StoreInventory</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>true</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>303514728072</itemId>
+            <title>Harry Potter Series: Harry Potter and the Half-Blood Prince by J. K. Rowling</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs1.ebaystatic.com/m/mZoDouNjvBTWM3T8mNqjhgw/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-Series-Harry-Potter-and-Half-Blood-Prince-J-K-Rowling-/303514728072</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>false</autoPay>
+            <postalCode>117**</postalCode>
+            <location>Deer Park,NY,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>frankdeb7</sellerUserName>
+                <feedbackScore>215</feedbackScore>
+                <positiveFeedbackPercent>100.0</positiveFeedbackPercent>
+                <feedbackRatingStar>Turquoise</feedbackRatingStar>
+                <topRatedSeller>false</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">6.0</shippingServiceCost>
+                <shippingType>Flat</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>false</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>4</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">20.0</currentPrice>
+                <convertedCurrentPrice currencyId="USD">20.0</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P14DT6H30M30S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>true</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-03-15T00:31:34.000Z</startTime>
+                <endTime>2020-09-15T00:31:34.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>false</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>361865086023</itemId>
+            <title>Harry Potter and the Half-Blood Prince by J.K. Rowling (English) Hardcover Book </title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs4.ebaystatic.com/m/mllTOs8urtEU0ebyFndeaXw/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-J-K-Rowling-English-Hardcover-Book-/361865086023</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <autoPay>true</autoPay>
+            <postalCode>450**</postalCode>
+            <location>Fairfield,OH,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>grandeagleretail</sellerUserName>
+                <feedbackScore>790142</feedbackScore>
+                <positiveFeedbackPercent>99.4</positiveFeedbackPercent>
+                <feedbackRatingStar>RedShooting</feedbackRatingStar>
+                <topRatedSeller>true</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+                <shippingType>Free</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>false</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>3</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">26.23</currentPrice>
+                <convertedCurrentPrice currencyId="USD">26.23</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P28DT4H16M57S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>false</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2016-12-28T22:18:01.000Z</startTime>
+                <endTime>2020-09-28T22:18:01.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+                <watchCount>1</watchCount>
+            </listingInfo>
+            <returnsAccepted>true</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>114153552478</itemId>
+            <title>Harry Potter and the Half-Blood Prince Book 6, NEW Unread, 1st Edition 1st Print</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs3.ebaystatic.com/m/m3azObU0CGmDB7-xUMt7sUg/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-Book-6-NEW-Unread-1st-Edition-1st-Print-/114153552478</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>false</autoPay>
+            <postalCode>750**</postalCode>
+            <location>Irving,TX,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>desabe_gv5cj</sellerUserName>
+                <feedbackScore>620</feedbackScore>
+                <positiveFeedbackPercent>100.0</positiveFeedbackPercent>
+                <feedbackRatingStar>Purple</feedbackRatingStar>
+                <topRatedSeller>true</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+                <shippingType>Free</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>false</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>1</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">26.33</currentPrice>
+                <convertedCurrentPrice currencyId="USD">26.33</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P18DT8H33M12S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>true</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-03-19T02:34:16.000Z</startTime>
+                <endTime>2020-09-19T02:34:16.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>true</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>164324355933</itemId>
+            <title>Harry Potter and the Half-Blood Prince 6 by J. K. Rowling (2005, Hardcover)</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs2.ebaystatic.com/m/mZoDouNjvBTWM3T8mNqjhgw/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-6-J-K-Rowling-2005-Hardcover-/164324355933</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>true</autoPay>
+            <location>USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>mega-buzz</sellerUserName>
+                <feedbackScore>10669</feedbackScore>
+                <positiveFeedbackPercent>94.6</positiveFeedbackPercent>
+                <feedbackRatingStar>YellowShooting</feedbackRatingStar>
+                <topRatedSeller>false</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+                <shippingType>Free</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>true</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>2</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">27.24</currentPrice>
+                <convertedCurrentPrice currencyId="USD">27.24</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P5DT17H24M46S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>false</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-08-06T11:25:50.000Z</startTime>
+                <endTime>2020-09-06T11:25:50.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>true</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>184088629755</itemId>
+            <title>Harry Potter and the Half-Blood Prince 6 by J. K. Rowling (2005, Hardcover)</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs4.ebaystatic.com/m/mZoDouNjvBTWM3T8mNqjhgw/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-6-J-K-Rowling-2005-Hardcover-/184088629755</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <autoPay>true</autoPay>
+            <location>USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>prepbooks</sellerUserName>
+                <feedbackScore>21199</feedbackScore>
+                <positiveFeedbackPercent>99.8</positiveFeedbackPercent>
+                <feedbackRatingStar>YellowShooting</feedbackRatingStar>
+                <topRatedSeller>false</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+                <shippingType>Free</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>true</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>3</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">27.42</currentPrice>
+                <convertedCurrentPrice currencyId="USD">27.42</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P18DT19H57M17S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>false</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2019-12-19T13:58:21.000Z</startTime>
+                <endTime>2020-09-19T13:58:21.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>true</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>402352378905</itemId>
+            <title>Harry Potter and the Half-Blood Prince 6 by J. K. Rowling (2005, Hardcover)</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs2.ebaystatic.com/m/mZoDouNjvBTWM3T8mNqjhgw/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-6-J-K-Rowling-2005-Hardcover-/402352378905</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>true</autoPay>
+            <location>USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>ebooksweb123</sellerUserName>
+                <feedbackScore>131566</feedbackScore>
+                <positiveFeedbackPercent>97.0</positiveFeedbackPercent>
+                <feedbackRatingStar>RedShooting</feedbackRatingStar>
+                <topRatedSeller>false</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+                <shippingType>Free</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>true</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>2</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">28.39</currentPrice>
+                <convertedCurrentPrice currencyId="USD">28.39</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P5DT20H52M11S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>false</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-08-06T14:53:15.000Z</startTime>
+                <endTime>2020-09-06T14:53:15.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>true</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>143675301371</itemId>
+            <title>Harry Potter and the Half-Blood Prince 6 by J. K. Rowling (2005, Hardcover)</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs4.ebaystatic.com/m/mZoDouNjvBTWM3T8mNqjhgw/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-6-J-K-Rowling-2005-Hardcover-/143675301371</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>true</autoPay>
+            <location>USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>bestbates</sellerUserName>
+                <feedbackScore>17079</feedbackScore>
+                <positiveFeedbackPercent>95.8</positiveFeedbackPercent>
+                <feedbackRatingStar>YellowShooting</feedbackRatingStar>
+                <topRatedSeller>false</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+                <shippingType>Free</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>true</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>2</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">28.39</currentPrice>
+                <convertedCurrentPrice currencyId="USD">28.39</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P5DT21H53M29S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>false</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-08-06T15:54:33.000Z</startTime>
+                <endTime>2020-09-06T15:54:33.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>true</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>154045215271</itemId>
+            <title>Harry Potter and the Half-Blood Prince</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs4.ebaystatic.com/m/mW-NC8UdmejRS15rl-sjUjQ/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-/154045215271</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <autoPay>true</autoPay>
+            <postalCode>150**</postalCode>
+            <location>New Kensington,PA,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>biblemegamall</sellerUserName>
+                <feedbackScore>4312</feedbackScore>
+                <positiveFeedbackPercent>97.8</positiveFeedbackPercent>
+                <feedbackRatingStar>Red</feedbackRatingStar>
+                <topRatedSeller>false</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+                <shippingType>Free</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>true</expeditedShipping>
+                <oneDayShippingAvailable>true</oneDayShippingAvailable>
+                <handlingTime>3</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">28.59</currentPrice>
+                <convertedCurrentPrice currencyId="USD">28.59</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P13DT13H54M11S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>false</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-08-14T07:55:15.000Z</startTime>
+                <endTime>2020-09-14T07:55:15.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>false</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>322539680458</itemId>
+            <title>Harry Potter And The Half-Blood Prince: By Rowling, J.K.</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs3.ebaystatic.com/m/mZoDouNjvBTWM3T8mNqjhgw/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-And-Half-Blood-Prince-Rowling-J-K-/322539680458</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <autoPay>true</autoPay>
+            <postalCode>078**</postalCode>
+            <location>Wharton,NJ,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>shopspell</sellerUserName>
+                <feedbackScore>17140</feedbackScore>
+                <positiveFeedbackPercent>99.9</positiveFeedbackPercent>
+                <feedbackRatingStar>YellowShooting</feedbackRatingStar>
+                <topRatedSeller>true</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+                <shippingType>Free</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>false</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>2</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">29.36</currentPrice>
+                <convertedCurrentPrice currencyId="USD">29.36</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P1DT9H50M39S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>false</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2017-06-02T03:51:43.000Z</startTime>
+                <endTime>2020-09-02T03:51:43.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>true</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>223470099870</itemId>
+            <title>New Harry Potter and the Half-Blood Prince JK Rowling 1st Am Edition Hardback </title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171228</categoryId>
+                <categoryName>Fiction &amp; Literature</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs3.ebaystatic.com/m/msLQmNPeMdIpIIeoi5KlU7w/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/New-Harry-Potter-and-Half-Blood-Prince-JK-Rowling-1st-Am-Edition-Hardback-/223470099870</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>false</autoPay>
+            <postalCode>850**</postalCode>
+            <location>Phoenix,AZ,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>onegirl4boys</sellerUserName>
+                <feedbackScore>87</feedbackScore>
+                <positiveFeedbackPercent>100.0</positiveFeedbackPercent>
+                <feedbackRatingStar>Blue</feedbackRatingStar>
+                <topRatedSeller>false</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+                <shippingType>Free</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>false</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>3</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">29.5</currentPrice>
+                <convertedCurrentPrice currencyId="USD">29.5</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P2DT22H44M56S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>false</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2019-04-03T16:46:00.000Z</startTime>
+                <endTime>2020-09-03T16:46:00.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+                <watchCount>2</watchCount>
+            </listingInfo>
+            <returnsAccepted>false</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>254678918867</itemId>
+            <title>HARRY POTTER and the HALF-BLOOD PRINCE 1st Print 1st Ed Hardcover BOOK New 2005</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs4.ebaystatic.com/m/muBodWJYQleBEpPATnK5eRA/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/HARRY-POTTER-and-HALF-BLOOD-PRINCE-1st-Print-1st-Ed-Hardcover-BOOK-New-2005-/254678918867</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>true</autoPay>
+            <postalCode>108**</postalCode>
+            <location>New Rochelle,NY,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>cymbaline9</sellerUserName>
+                <feedbackScore>701</feedbackScore>
+                <positiveFeedbackPercent>98.9</positiveFeedbackPercent>
+                <feedbackRatingStar>Purple</feedbackRatingStar>
+                <topRatedSeller>true</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+                <shippingType>Free</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>true</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>2</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">29.95</currentPrice>
+                <convertedCurrentPrice currencyId="USD">29.95</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P6DT0H37M59S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>false</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-08-06T18:39:03.000Z</startTime>
+                <endTime>2020-09-06T18:39:03.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+                <watchCount>1</watchCount>
+            </listingInfo>
+            <returnsAccepted>false</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>353106213761</itemId>
+            <title>Harry Potter and the Half-Blood Prince 6 by J. K. Rowling 1st US Edition </title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs2.ebaystatic.com/m/mw0IJfprSoq0qYPv4LI9Kmg/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-6-J-K-Rowling-1st-US-Edition-/353106213761</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>true</autoPay>
+            <postalCode>117**</postalCode>
+            <location>Bethpage,NY,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>winginitllc</sellerUserName>
+                <feedbackScore>33</feedbackScore>
+                <positiveFeedbackPercent>100.0</positiveFeedbackPercent>
+                <feedbackRatingStar>Yellow</feedbackRatingStar>
+                <topRatedSeller>false</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">5.0</shippingServiceCost>
+                <shippingType>Flat</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>true</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>2</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">24.99</currentPrice>
+                <convertedCurrentPrice currencyId="USD">24.99</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P13DT4H17M51S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>true</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-06-13T22:18:55.000Z</startTime>
+                <endTime>2020-09-13T22:18:55.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>false</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>231907874927</itemId>
+            <title>HARRY POTTER &amp; THE HALF-BLOOD PRINCE 1st Edition Brodart J.K. Rowling MINT NEW</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs4.ebaystatic.com/m/mBh6h9yDbDb-OvbaSdQaJyw/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/HARRY-POTTER-HALF-BLOOD-PRINCE-1st-Edition-Brodart-J-K-Rowling-MINT-NEW-/231907874927</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>true</autoPay>
+            <postalCode>600**</postalCode>
+            <location>Northbrook,IL,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>socallygifts</sellerUserName>
+                <feedbackScore>5157</feedbackScore>
+                <positiveFeedbackPercent>99.3</positiveFeedbackPercent>
+                <feedbackRatingStar>Green</feedbackRatingStar>
+                <topRatedSeller>false</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">6.0</shippingServiceCost>
+                <shippingType>Flat</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>true</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>3</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">24.95</currentPrice>
+                <convertedCurrentPrice currencyId="USD">24.95</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P8DT9H44M45S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>false</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2016-04-09T03:45:49.000Z</startTime>
+                <endTime>2020-09-09T03:45:49.000Z</endTime>
+                <listingType>StoreInventory</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>true</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>264548555743</itemId>
+            <title>Harry Potter and the Half-Blood Prince 6 by J. K. Rowling (2005, Hardcover)</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs4.ebaystatic.com/m/mZoDouNjvBTWM3T8mNqjhgw/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-6-J-K-Rowling-2005-Hardcover-/264548555743</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>true</autoPay>
+            <postalCode>633**</postalCode>
+            <location>Wentzville,MO,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>beckyleo</sellerUserName>
+                <feedbackScore>16</feedbackScore>
+                <positiveFeedbackPercent>100.0</positiveFeedbackPercent>
+                <feedbackRatingStar>Yellow</feedbackRatingStar>
+                <topRatedSeller>false</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">2.66</shippingServiceCost>
+                <shippingType>Flat</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>false</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>4</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">29.99</currentPrice>
+                <convertedCurrentPrice currencyId="USD">29.99</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P27DT2H5M29S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>true</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2019-11-27T20:06:33.000Z</startTime>
+                <endTime>2020-09-27T20:06:33.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>true</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>391843511694</itemId>
+            <title>HARRY POTTER AND THE HALF-BLOOD PRINCE - ROWLING, J. K./ GRANDPRE, MARY (ILT) - </title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs3.ebaystatic.com/m/moaiys7wSJn7d_VwrXuHi6Q/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/HARRY-POTTER-AND-HALF-BLOOD-PRINCE-ROWLING-J-K-GRANDPRE-MARY-ILT-/391843511694</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <autoPay>true</autoPay>
+            <location>USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>moviemars-books</sellerUserName>
+                <feedbackScore>663388</feedbackScore>
+                <positiveFeedbackPercent>98.9</positiveFeedbackPercent>
+                <feedbackRatingStar>RedShooting</feedbackRatingStar>
+                <topRatedSeller>false</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+                <shippingType>Free</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>false</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>3</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">33.62</currentPrice>
+                <convertedCurrentPrice currencyId="USD">33.62</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P19DT3H54M22S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>false</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2017-07-19T21:55:26.000Z</startTime>
+                <endTime>2020-09-19T21:55:26.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>true</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>392893567710</itemId>
+            <title>Rowling J. K./ Grandpre Mar...-Harry Potter And The Half-Blood Prince HBOOK NEW</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs3.ebaystatic.com/m/mVoMa-_ekmk_DNwKvftBb6g/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Rowling-J-K-Grandpre-Mar-Harry-Potter-And-Half-Blood-Prince-HBOOK-NEW-/392893567710</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <autoPay>false</autoPay>
+            <location>USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>rarewaves-usa</sellerUserName>
+                <feedbackScore>231990</feedbackScore>
+                <positiveFeedbackPercent>99.0</positiveFeedbackPercent>
+                <feedbackRatingStar>RedShooting</feedbackRatingStar>
+                <topRatedSeller>false</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+                <shippingType>Free</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>false</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>2</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">36.36</currentPrice>
+                <convertedCurrentPrice currencyId="USD">36.36</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P0DT14H29M20S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>false</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-08-01T08:30:24.000Z</startTime>
+                <endTime>2020-09-01T08:30:24.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>true</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>232023187832</itemId>
+            <title>Harry Potter and the Half-Blood Prince Book 6 by J. K. Rowling First Printing</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs1.ebaystatic.com/m/ma47L3gtsQ_-nVHIOHV4k_A/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-Book-6-J-K-Rowling-First-Printing-/232023187832</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>false</autoPay>
+            <postalCode>981**</postalCode>
+            <location>Seattle,WA,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>atticandpantry</sellerUserName>
+                <feedbackScore>35</feedbackScore>
+                <positiveFeedbackPercent>0.0</positiveFeedbackPercent>
+                <feedbackRatingStar>Yellow</feedbackRatingStar>
+                <topRatedSeller>false</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingType>Calculated</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>true</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>1</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">25.0</currentPrice>
+                <convertedCurrentPrice currencyId="USD">25.0</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P22DT2H11M12S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>false</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2016-07-22T20:12:16.000Z</startTime>
+                <endTime>2020-09-22T20:12:16.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+                <watchCount>1</watchCount>
+            </listingInfo>
+            <returnsAccepted>false</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>184199378947</itemId>
+            <title>Harry Potter and the Half-Blood Prince 6 by J. K. Rowling 1st/1st July 2005</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs4.ebaystatic.com/m/mLrOcOoOhhjMKPEdjTFcuQA/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-6-J-K-Rowling-1st-1st-July-2005-/184199378947</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>false</autoPay>
+            <postalCode>346**</postalCode>
+            <location>Palm Harbor,FL,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>dyeram</sellerUserName>
+                <feedbackScore>553</feedbackScore>
+                <positiveFeedbackPercent>97.3</positiveFeedbackPercent>
+                <feedbackRatingStar>Purple</feedbackRatingStar>
+                <topRatedSeller>true</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+                <shippingType>Free</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>false</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>2</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">44.6</currentPrice>
+                <convertedCurrentPrice currencyId="USD">44.6</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P5DT5H52M50S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>true</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-03-05T23:53:54.000Z</startTime>
+                <endTime>2020-09-05T23:53:54.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>true</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>272522857060</itemId>
+            <title>Harry Potter: Harry Potter and the Half-Blood Prince 6 by J. K. Rowling (2005, H</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs1.ebaystatic.com/m/mZoDouNjvBTWM3T8mNqjhgw/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-Harry-Potter-and-Half-Blood-Prince-6-J-K-Rowling-2005-H-/272522857060</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>true</autoPay>
+            <postalCode>481**</postalCode>
+            <location>Brighton,MI,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>littlebigdeals</sellerUserName>
+                <feedbackScore>1529</feedbackScore>
+                <positiveFeedbackPercent>100.0</positiveFeedbackPercent>
+                <feedbackRatingStar>Red</feedbackRatingStar>
+                <topRatedSeller>false</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingType>Calculated</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>false</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>1</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">45.0</currentPrice>
+                <convertedCurrentPrice currencyId="USD">45.0</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P14DT21H42M20S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>true</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2017-01-15T15:43:24.000Z</startTime>
+                <endTime>2020-09-15T15:43:24.000Z</endTime>
+                <listingType>StoreInventory</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>true</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>233510523508</itemId>
+            <title>2005 1st Ed. / HARRY POTTER and THE HALF-BLOOD PRINCE / Rowling / DJ</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs1.ebaystatic.com/m/mtOOAzCgik8ITWS_U8f6HYw/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/2005-1st-Ed-HARRY-POTTER-and-HALF-BLOOD-PRINCE-Rowling-DJ-/233510523508</viewItemURL>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>true</autoPay>
+            <postalCode>925**</postalCode>
+            <location>Lake Elsinore,CA,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>poohclark</sellerUserName>
+                <feedbackScore>1315</feedbackScore>
+                <positiveFeedbackPercent>100.0</positiveFeedbackPercent>
+                <feedbackRatingStar>Red</feedbackRatingStar>
+                <topRatedSeller>false</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">4.0</shippingServiceCost>
+                <shippingType>Flat</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>false</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>3</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">60.0</currentPrice>
+                <convertedCurrentPrice currencyId="USD">60.0</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P29DT6H17M9S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>true</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-03-01T00:18:13.000Z</startTime>
+                <endTime>2020-09-30T00:18:13.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>false</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>154039711411</itemId>
+            <title>Harry Potter and the Half-Blood Prince, J. K. Rowling, Scholastic, 1st Ed, 2005</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs4.ebaystatic.com/m/m8SFBCbMaIiKiBpCLMJ4T0w/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-J-K-Rowling-Scholastic-1st-Ed-2005-/154039711411</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>true</autoPay>
+            <postalCode>600**</postalCode>
+            <location>Glenview,IL,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>usadsi</sellerUserName>
+                <feedbackScore>315</feedbackScore>
+                <positiveFeedbackPercent>100.0</positiveFeedbackPercent>
+                <feedbackRatingStar>Turquoise</feedbackRatingStar>
+                <topRatedSeller>true</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+                <shippingType>Free</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>false</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>1</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">75.0</currentPrice>
+                <convertedCurrentPrice currencyId="USD">75.0</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P8DT21H23M24S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>false</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-08-09T15:24:28.000Z</startTime>
+                <endTime>2020-09-09T15:24:28.000Z</endTime>
+                <listingType>StoreInventory</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>true</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>true</topRatedListing>
+        </item>
+        <item>
+            <itemId>303586329142</itemId>
+            <title>Harry Potter and the Half-Blood Prince,1st Edition,Hardbound by J. K. Rowling...</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs3.ebaystatic.com/m/mvKPd5VvvUqqpO536kYmBsg/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-1st-Edition-Hardbound-J-K-Rowling-/303586329142</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>true</autoPay>
+            <postalCode>360**</postalCode>
+            <location>Eufaula,AL,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>armea_10</sellerUserName>
+                <feedbackScore>7</feedbackScore>
+                <positiveFeedbackPercent>100.0</positiveFeedbackPercent>
+                <feedbackRatingStar>None</feedbackRatingStar>
+                <topRatedSeller>false</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingType>Calculated</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>false</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>3</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">100.0</currentPrice>
+                <convertedCurrentPrice currencyId="USD">100.0</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P2DT23H42M51S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>true</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-06-03T17:43:55.000Z</startTime>
+                <endTime>2020-09-03T17:43:55.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>false</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>303172504184</itemId>
+            <title>Harry Potter: Harry Potter and the Half-Blood Prince 6 by J. K. Rowling...</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171228</categoryId>
+                <categoryName>Fiction &amp; Literature</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs1.ebaystatic.com/m/mSdLSwmEil9LhX-M7-dDjNQ/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-Harry-Potter-and-Half-Blood-Prince-6-J-K-Rowling-/303172504184</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>false</autoPay>
+            <postalCode>320**</postalCode>
+            <location>Saint Augustine,FL,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>arber58</sellerUserName>
+                <feedbackScore>1</feedbackScore>
+                <positiveFeedbackPercent>0.0</positiveFeedbackPercent>
+                <feedbackRatingStar>None</feedbackRatingStar>
+                <topRatedSeller>false</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingType>Calculated</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>false</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>3</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">300.0</currentPrice>
+                <convertedCurrentPrice currencyId="USD">300.0</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P30DT0H27M26S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>true</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2019-05-31T06:28:30.000Z</startTime>
+                <endTime>2020-09-30T18:28:30.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>false</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>363066686612</itemId>
+            <title>Harry Potter and the Half-Blood Prince 6 by J. K. Rowling (2005, Hardcover)</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs1.ebaystatic.com/m/mZoDouNjvBTWM3T8mNqjhgw/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-6-J-K-Rowling-2005-Hardcover-/363066686612</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>true</autoPay>
+            <postalCode>301**</postalCode>
+            <location>Acworth,GA,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>sge.spge.vtlwin</sellerUserName>
+                <feedbackScore>6</feedbackScore>
+                <positiveFeedbackPercent>88.9</positiveFeedbackPercent>
+                <feedbackRatingStar>None</feedbackRatingStar>
+                <topRatedSeller>false</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingType>Calculated</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>true</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>3</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">5.2</currentPrice>
+                <convertedCurrentPrice currencyId="USD">5.2</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P3DT6H38M34S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>true</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-08-04T00:39:38.000Z</startTime>
+                <endTime>2020-09-04T00:39:38.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+                <watchCount>1</watchCount>
+            </listingInfo>
+            <returnsAccepted>false</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>373136717372</itemId>
+            <title>Harry Potter and the Half-Blood Prince 6 by J. K. Rowling (2005, Hardcover)</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs1.ebaystatic.com/m/mZoDouNjvBTWM3T8mNqjhgw/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-6-J-K-Rowling-2005-Hardcover-/373136717372</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>false</autoPay>
+            <postalCode>773**</postalCode>
+            <location>Spring,TX,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>leilani547</sellerUserName>
+                <feedbackScore>8</feedbackScore>
+                <positiveFeedbackPercent>100.0</positiveFeedbackPercent>
+                <feedbackRatingStar>None</feedbackRatingStar>
+                <topRatedSeller>false</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingType>Calculated</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>true</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>3</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">5.8</currentPrice>
+                <convertedCurrentPrice currencyId="USD">5.8</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P3DT8H10M42S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>true</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-08-04T02:11:46.000Z</startTime>
+                <endTime>2020-09-04T02:11:46.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>false</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>283993955230</itemId>
+            <title>Harry Potter and the Half-Blood Prince 6 by J. K. Rowling (2005, Hardcover)</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs3.ebaystatic.com/m/mZoDouNjvBTWM3T8mNqjhgw/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-6-J-K-Rowling-2005-Hardcover-/283993955230</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>true</autoPay>
+            <postalCode>606**</postalCode>
+            <location>Chicago,IL,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>koalasam</sellerUserName>
+                <feedbackScore>4</feedbackScore>
+                <positiveFeedbackPercent>0.0</positiveFeedbackPercent>
+                <feedbackRatingStar>None</feedbackRatingStar>
+                <topRatedSeller>false</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingType>Calculated</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>true</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>3</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">9.5</currentPrice>
+                <convertedCurrentPrice currencyId="USD">9.5</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P29DT2H26M8S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>true</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-08-29T20:27:12.000Z</startTime>
+                <endTime>2020-09-29T20:27:12.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>false</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>373144225149</itemId>
+            <title>Harry Potter and the Half-Blood Prince 6 by J. K. Rowling (2005, Hardcover)</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs2.ebaystatic.com/m/mZoDouNjvBTWM3T8mNqjhgw/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-6-J-K-Rowling-2005-Hardcover-/373144225149</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>true</autoPay>
+            <postalCode>184**</postalCode>
+            <location>Jessup,PA,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>nikoboni0</sellerUserName>
+                <feedbackScore>6</feedbackScore>
+                <positiveFeedbackPercent>100.0</positiveFeedbackPercent>
+                <feedbackRatingStar>None</feedbackRatingStar>
+                <topRatedSeller>false</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingType>Calculated</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>true</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>3</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">15.32</currentPrice>
+                <convertedCurrentPrice currencyId="USD">15.32</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P10DT1H49M27S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>true</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-08-10T19:50:31.000Z</startTime>
+                <endTime>2020-09-10T19:50:31.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>false</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>283887741701</itemId>
+            <title>Harry Potter and the Half-Blood Prince 6 by J. K. Rowling (2005, Hardcover)</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs2.ebaystatic.com/m/mexHl9O9YjOl6HjyCeV6wGw/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-6-J-K-Rowling-2005-Hardcover-/283887741701</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>true</autoPay>
+            <postalCode>145**</postalCode>
+            <location>Penfield,NY,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>olosi9</sellerUserName>
+                <feedbackScore>2</feedbackScore>
+                <positiveFeedbackPercent>0.0</positiveFeedbackPercent>
+                <feedbackRatingStar>None</feedbackRatingStar>
+                <topRatedSeller>false</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingType>Calculated</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>true</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>3</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">18.99</currentPrice>
+                <convertedCurrentPrice currencyId="USD">18.99</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P22DT2H39M2S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>true</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-05-22T20:40:06.000Z</startTime>
+                <endTime>2020-09-22T20:40:06.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>false</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>114170113434</itemId>
+            <title>Harry Potter and the Half-blood Prince 1st Edition  U.s. By J. K. Rowling  New</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs3.ebaystatic.com/m/m3tqxOVwk81Z7Xx43KKGLkg/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-blood-Prince-1st-Edition-U-s-J-K-Rowling-New-/114170113434</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>true</autoPay>
+            <postalCode>344**</postalCode>
+            <location>Ocala,FL,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>gemsbyjoni2014</sellerUserName>
+                <feedbackScore>1985</feedbackScore>
+                <positiveFeedbackPercent>100.0</positiveFeedbackPercent>
+                <feedbackRatingStar>Red</feedbackRatingStar>
+                <topRatedSeller>true</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingType>Calculated</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>true</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>1</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">23.94</currentPrice>
+                <convertedCurrentPrice currencyId="USD">23.94</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P3DT5H45M50S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>false</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-04-03T23:46:54.000Z</startTime>
+                <endTime>2020-09-03T23:46:54.000Z</endTime>
+                <listingType>StoreInventory</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>true</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>114242378443</itemId>
+            <title>Harry Potter and the Half-Blood Prince 6 by J. K. Rowling (2005, Ex Lib Large Pr</title>
+            <globalId>EBAY-US</globalId>
+            <subtitle>Large Print</subtitle>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs4.ebaystatic.com/m/mUH2z1XZ2zpabXSUZjNEGsA/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-6-J-K-Rowling-2005-Ex-Lib-Large-Pr-/114242378443</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>false</autoPay>
+            <postalCode>064**</postalCode>
+            <location>Old Saybrook,CT,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>quin_calla</sellerUserName>
+                <feedbackScore>93</feedbackScore>
+                <positiveFeedbackPercent>100.0</positiveFeedbackPercent>
+                <feedbackRatingStar>Blue</feedbackRatingStar>
+                <topRatedSeller>false</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingType>Calculated</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>true</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>3</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">29.0</currentPrice>
+                <convertedCurrentPrice currencyId="USD">29.0</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P29DT20H33M11S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>true</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-05-30T14:34:15.000Z</startTime>
+                <endTime>2020-09-30T14:34:15.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>false</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>162499199852</itemId>
+            <title>2005 "Harry Potter and the Half-Blood Prince book 6 by J. K. Rowling 1st edition</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs1.ebaystatic.com/m/m3Qmsm8lwSfphnpttoMb84g/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/2005-Harry-Potter-and-Half-Blood-Prince-book-6-J-K-Rowling-1st-edition-/162499199852</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>false</autoPay>
+            <postalCode>210**</postalCode>
+            <location>Glen Burnie,MD,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>cherimic01</sellerUserName>
+                <feedbackScore>20</feedbackScore>
+                <positiveFeedbackPercent>100.0</positiveFeedbackPercent>
+                <feedbackRatingStar>Yellow</feedbackRatingStar>
+                <topRatedSeller>false</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingType>Calculated</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>true</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>0</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">100.0</currentPrice>
+                <convertedCurrentPrice currencyId="USD">100.0</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P1DT2H1M3S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>true</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2017-05-01T20:02:07.000Z</startTime>
+                <endTime>2020-09-01T20:02:07.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+                <watchCount>1</watchCount>
+            </listingInfo>
+            <returnsAccepted>false</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+        <item>
+            <itemId>333538665077</itemId>
+            <title>Harry Potter and the Half-Blood Prince by J. K. Rowling (First Edition Printing)</title>
+            <globalId>EBAY-US</globalId>
+            <primaryCategory>
+                <categoryId>171219</categoryId>
+                <categoryName>Children &amp; YA Fiction</categoryName>
+            </primaryCategory>
+            <galleryURL>https://thumbs2.ebaystatic.com/m/m99GN0Z0sduTC8R49A184JA/140.jpg</galleryURL>
+            <viewItemURL>https://www.ebay.com/itm/Harry-Potter-and-Half-Blood-Prince-J-K-Rowling-First-Edition-Printing-/333538665077</viewItemURL>
+            <productId type="ReferenceID">44462740</productId>
+            <paymentMethod>PayPal</paymentMethod>
+            <autoPay>true</autoPay>
+            <postalCode>282**</postalCode>
+            <location>Charlotte,NC,USA</location>
+            <country>US</country>
+            <sellerInfo>
+                <sellerUserName>cupfullofbooks</sellerUserName>
+                <feedbackScore>0</feedbackScore>
+                <positiveFeedbackPercent>0.0</positiveFeedbackPercent>
+                <feedbackRatingStar>None</feedbackRatingStar>
+                <topRatedSeller>false</topRatedSeller>
+            </sellerInfo>
+            <shippingInfo>
+                <shippingType>Calculated</shippingType>
+                <shipToLocations>Worldwide</shipToLocations>
+                <expeditedShipping>true</expeditedShipping>
+                <oneDayShippingAvailable>false</oneDayShippingAvailable>
+                <handlingTime>3</handlingTime>
+            </shippingInfo>
+            <sellingStatus>
+                <currentPrice currencyId="USD">444.44</currentPrice>
+                <convertedCurrentPrice currencyId="USD">444.44</convertedCurrentPrice>
+                <sellingState>Active</sellingState>
+                <timeLeft>P7DT1H14M19S</timeLeft>
+            </sellingStatus>
+            <listingInfo>
+                <bestOfferEnabled>true</bestOfferEnabled>
+                <buyItNowAvailable>false</buyItNowAvailable>
+                <startTime>2020-03-07T19:15:23.000Z</startTime>
+                <endTime>2020-09-07T19:15:23.000Z</endTime>
+                <listingType>FixedPrice</listingType>
+                <gift>false</gift>
+            </listingInfo>
+            <returnsAccepted>false</returnsAccepted>
+            <condition>
+                <conditionId>1000</conditionId>
+                <conditionDisplayName>Brand New</conditionDisplayName>
+            </condition>
+            <isMultiVariationListing>false</isMultiVariationListing>
+            <topRatedListing>false</topRatedListing>
+        </item>
+    </searchResult>
+    <paginationOutput>
+        <pageNumber>1</pageNumber>
+        <entriesPerPage>50</entriesPerPage>
+        <totalPages>1</totalPages>
+        <totalEntries>48</totalEntries>
+    </paginationOutput>
+    <itemSearchURL>https://www.ebay.com/sch/?LH_ItemCondition=1&amp;LH_BIN=1&amp;_ddo=1&amp;_incaucbin=0&amp;_ipg=50&amp;_os=S%7CD&amp;_pgn=1&amp;_productid=44462740&amp;_sop=15</itemSearchURL>
+</findItemsByProductResponse>

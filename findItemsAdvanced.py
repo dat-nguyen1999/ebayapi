@@ -4,8 +4,8 @@ import xml.etree.ElementTree as ET
 try:
     api = Finding(config_file='ebay.yaml')
     request = {
-        'keywords': 'Apple iPhone 11 Pro Max 512GB Midnight Green',
-        'categoryId': '9355',
+        'keywords': 'Lenovo Legion Y540 15.6 i7-9750H 16GB RAM 256GB SSD GTX 1660Ti 6GB',
+        'categoryId': '177',
         'outputSelector': 'SellerInfo',
         'itemFilter': [
             {'name': 'ListingType', 'value': 'FixedPrice'},

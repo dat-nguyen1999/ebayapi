@@ -17,8 +17,8 @@ api.ebay.com:
 
 # Finding API - https://www.x.com/developers/ebay/products/finding-api
 svcs.ebay.com:
-    appid: DatNguye-simpleca-PRD-0c8ee5576-eb7ef499
+    appid: 
 
 # Shopping API - https://www.x.com/developers/ebay/products/shopping-api
 open.api.ebay.com:
-    appid: DatNguye-simpleca-PRD-0c8ee5576-eb7ef499
+    appid: 

@@ -4,7 +4,7 @@ if __name__ == '__main__':
     api = Connection(config_file='ebay.yaml', siteid="EBAY-US")
 
     request = {
-        'keywords': 'harry potter and the half blood prince',
+        'keywords': 'Harry Potter and the Half-Blood Prince (Book 6) - Hardcover - VERY GOOD',
         'outputSelector': 'SellerInfo',
         'itemFilter': [
            

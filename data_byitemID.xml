@@ -1,32 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
   <GetSingleItemResponse xmlns="urn:ebay:apis:eBLBaseComponents">
-   <Timestamp>2020-08-24T04:13:42.578Z</Timestamp>
+   <Timestamp>2020-09-21T20:21:36.843Z</Timestamp>
    <Ack>Success</Ack>
-   <Build>E1141_CORE_APILW_19170841_R1</Build>
-   <Version>1141</Version>
+   <Build>E1157_CORE_APILW_19146596_R1</Build>
+   <Version>1157</Version>
    <Item>
-    <ItemID>274013418704</ItemID>
-    <EndTime>2020-09-17T17:36:37.000Z</EndTime>
-    <ViewItemURLForNaturalSearch>https://www.ebay.com/itm/Apple-iPhone-11-Pro-Max-512GB-Green-REAL-Dual-SIM-Hong-Kong-A2220-Unlocked-FedEx-/274013418704</ViewItemURLForNaturalSearch>
+    <ItemID>324258671850</ItemID>
+    <EndTime>2020-10-11T22:03:04.000Z</EndTime>
+    <ViewItemURLForNaturalSearch>https://www.ebay.com/itm/Samsung-Galaxy-Note-20-Ultra-N985FD-256GB-8GB-GSM-Unlocked-International-NEW-/324258671850?var=</ViewItemURLForNaturalSearch>
     <ListingType>FixedPriceItem</ListingType>
-    <Location>Hong Kong</Location>
-    <GalleryURL>https://thumbs1.ebaystatic.com/pict/2740134187048080_2.jpg</GalleryURL>
-    <PictureURL>https://i.ebayimg.com/00/s/ODA3WDEwMDA=/z/gJ8AAOSwp2VdkYw9/$_57.JPG?set_id=8800005007</PictureURL>
-    <PictureURL>https://i.ebayimg.com/00/s/MTExMlg5NDA=/z/c14AAOSwGrZdgRQ0/$_57.PNG?set_id=8800005007</PictureURL>
-    <PictureURL>https://i.ebayimg.com/00/s/MTAwMFgxMDAw/z/XQYAAOSwH4tdkYxC/$_57.JPG?set_id=8800005007</PictureURL>
-    <PictureURL>https://i.ebayimg.com/00/s/NDkxWDgyMA==/z/FhcAAOSwU~FbpbXy/$_57.JPG?set_id=8800005007</PictureURL>
+    <Location>Melville, New York</Location>
+    <PictureURL>https://i.ebayimg.com/00/s/NjQxWDkwNw==/z/~pAAAOSwVexfSB5J/$_57.PNG?set_id=8800005007</PictureURL>
+    <PictureURL>https://i.ebayimg.com/00/s/MTIwMFgxMjAw/z/WksAAOSwr-hfMxUa/$_57.PNG?set_id=8800005007</PictureURL>
+    <PictureURL>https://i.ebayimg.com/00/s/Njc1WDY3NQ==/z/W-4AAOSw2VpfMxUV/$_57.JPG?set_id=8800005007</PictureURL>
+    <PictureURL>https://i.ebayimg.com/00/s/ODQxWDk2MA==/z/-bgAAOSwVIxfMxUU/$_57.JPG?set_id=8800005007</PictureURL>
+    <PictureURL>https://i.ebayimg.com/00/s/MTIzMlgxMjAw/z/MCcAAOSwCNJfMxUV/$_57.JPG?set_id=8800005007</PictureURL>
     <PrimaryCategoryID>9355</PrimaryCategoryID>
     <PrimaryCategoryName>Cell Phones &amp; Accessories:Cell Phones &amp; Smartphones</PrimaryCategoryName>
     <BidCount>0</BidCount>
-    <ConvertedCurrentPrice currencyID="USD">1798.0</ConvertedCurrentPrice>
+    <ConvertedCurrentPrice currencyID="USD">1091.99</ConvertedCurrentPrice>
     <ListingStatus>Active</ListingStatus>
-    <TimeLeft>P24DT13H22M55S</TimeLeft>
-    <Title>Apple iPhone 11 Pro Max 512GB Green REAL Dual SIM Hong Kong A2220 Unlocked FedEx</Title>
-    <Country>HK</Country>
+    <TimeLeft>P20DT1H41M28S</TimeLeft>
+    <Title>Samsung Galaxy Note 20 Ultra N985FD 256GB 8GB GSM Unlocked International (NEW)</Title>
+    <Country>US</Country>
     <AutoPay>true</AutoPay>
     <ConditionID>1000</ConditionID>
     <ConditionDisplayName>New</ConditionDisplayName>
+    <QuantityAvailableHint>MoreThan</QuantityAvailableHint>
+    <QuantityThreshold>10</QuantityThreshold>
+    <GlobalShipping>true</GlobalShipping>
    </Item>
   </GetSingleItemResponse>
  

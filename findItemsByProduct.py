@@ -6,16 +6,17 @@ if __name__ == '__main__':
 
         request = {
             'productId': {
-                    '#text': '9780439784542',
+                    '#text': '0190199380615',
                     '@attrs': {
-                        'type': 'ISBN'
+                        'type': 'UPC'
                     }
                 },
             'outputSelector': 'SellerInfo',
             'itemFilter': [
                 {'name': 'ListingType', 'value': 'FixedPrice'},
                 {'name': 'Condition', 'value': 'New',},
-                {'name': 'Country', 'value': 'US Only',}
+                {'name': 'Country', 'value': 'US Only',},
+                {'name': 'topRatedListing', 'value': 'true',}
             ],
             'paginationInput': {
                 'entriesPerPage': 50,
@@ -29,7 +30,8 @@ if __name__ == '__main__':
         id = 0
         for item in response.reply.searchResult.item:
             id += 1
-            print(f" ID: {id} Title: {item.title}, Price: {item.sellingStatus.currentPrice.value}, Seller:{item.sellerInfo.sellerUserName}")
+            if item.shippingInfo.get('shippingServiceCost'):
+                print(f" ID: {id} Title: {item.title}, Price: {item.shippingInfo.shippingServiceCost.value}, Seller:{item.sellerInfo.sellerUserName}")
     except ConnectionError as e:
         print(e)
         print(e.response.ack)
